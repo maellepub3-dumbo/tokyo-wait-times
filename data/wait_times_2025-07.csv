@@ -4587,6 +4587,29 @@ date,time,park,land,attraction,wait_time,is_open
 2025-07-15,20:45,Tokyo Disneyland,Tomorrowland,Star Tours,5,True
 2025-07-15,20:45,Tokyo Disneyland,Westernland,Western River Railroad,15,True
 2025-07-15,20:45,Tokyo Disneyland,Fantasyland,it's a small world,5,True
+2025-07-16,09:15,Tokyo DisneySea,Port Discovery,Aquatopia,5,True
+2025-07-16,09:15,Tokyo DisneySea,Mermaid Lagoon,Blowfish Balloon Race,5,True
+2025-07-16,09:15,Tokyo DisneySea,Arabian Coast,Caravan Carousel,0,False
+2025-07-16,09:15,Tokyo DisneySea,American Waterfront,DisneySea Electric Railway,5,True
+2025-07-16,09:15,Tokyo DisneySea,Mediterranean Harbor,DisneySea Transit Steamer Line,5,True
+2025-07-16,09:15,Tokyo DisneySea,Fantasy Springs,Frozen Ever After,25,True
+2025-07-16,09:15,Tokyo DisneySea,Lost River Delta,Indiana Jones Adventure: Temple of the Crystal Skull,5,True
+2025-07-16,09:15,Tokyo DisneySea,Arabian Coast,Jasmine's Flying Carpets,5,True
+2025-07-16,09:15,Tokyo DisneySea,Mysterious Island,Journey to the Center of the Earth,8,True
+2025-07-16,09:15,Tokyo DisneySea,Mermaid Lagoon,Jumpin' Jellyfish,5,True
+2025-07-16,09:15,Tokyo DisneySea,Port Discovery,Nemo & Friends SeaRider,15,True
+2025-07-16,09:15,Tokyo DisneySea,Fantasy Springs,Peter Pan's Neverland Adventure,5,True
+2025-07-16,09:15,Tokyo DisneySea,Lost River Delta,Raging Spirits,5,True
+2025-07-16,09:15,Tokyo DisneySea,Fantasy Springs,Rapunzel's Lantern Festival,18,True
+2025-07-16,09:15,Tokyo DisneySea,Mermaid Lagoon,Scuttle's Scooters,5,True
+2025-07-16,09:15,Tokyo DisneySea,Arabian Coast,Sindbad's Storybook Voyage,5,True
+2025-07-16,09:15,Tokyo DisneySea,Port Discovery,Soaring: Fantastic Flight,55,True
+2025-07-16,09:15,Tokyo DisneySea,Port Discovery,Stormrider,5,True
+2025-07-16,09:15,Tokyo DisneySea,Arabian Coast,The Magic Lamp Theater,0,False
+2025-07-16,09:15,Tokyo DisneySea,Fantasy Springs,Tinker Bell's Neverland Adventure,10,True
+2025-07-16,09:15,Tokyo DisneySea,American Waterfront,Tower of Terror,12,True
+2025-07-16,09:15,Tokyo DisneySea,American Waterfront,Toy Story Mania!,30,True
+2025-07-16,09:15,Tokyo DisneySea,American Waterfront,Turtle Talk,10,True
 2025-07-16,09:15,Tokyo Disneyland,Fantasyland,Alice's Tea Party,5,True
 2025-07-16,09:15,Tokyo Disneyland,Tomorrowland,Baymax's Happy Ride,30,True
 2025-07-16,09:15,Tokyo Disneyland,Fantasyland,Beauty and the Beast,25,True
@@ -4606,6 +4629,28 @@ date,time,park,land,attraction,wait_time,is_open
 2025-07-16,09:15,Tokyo Disneyland,Toontown,Roger Rabbit's Car Toon Spin,5,True
 2025-07-16,09:15,Tokyo Disneyland,Tomorrowland,Star Tours,5,True
 2025-07-16,09:15,Tokyo Disneyland,Fantasyland,it's a small world,5,True
+2025-07-16,09:45,Tokyo DisneySea,Port Discovery,Aquatopia,5,True
+2025-07-16,09:45,Tokyo DisneySea,Mermaid Lagoon,Blowfish Balloon Race,5,True
+2025-07-16,09:45,Tokyo DisneySea,American Waterfront,DisneySea Electric Railway,5,True
+2025-07-16,09:45,Tokyo DisneySea,Mediterranean Harbor,DisneySea Transit Steamer Line,18,True
+2025-07-16,09:45,Tokyo DisneySea,Fantasy Springs,Frozen Ever After,80,True
+2025-07-16,09:45,Tokyo DisneySea,Lost River Delta,Indiana Jones Adventure: Temple of the Crystal Skull,10,True
+2025-07-16,09:45,Tokyo DisneySea,Arabian Coast,Jasmine's Flying Carpets,5,True
+2025-07-16,09:45,Tokyo DisneySea,Mysterious Island,Journey to the Center of the Earth,55,True
+2025-07-16,09:45,Tokyo DisneySea,Mermaid Lagoon,Jumpin' Jellyfish,5,True
+2025-07-16,09:45,Tokyo DisneySea,Port Discovery,Nemo & Friends SeaRider,15,True
+2025-07-16,09:45,Tokyo DisneySea,Fantasy Springs,Peter Pan's Neverland Adventure,25,True
+2025-07-16,09:45,Tokyo DisneySea,Lost River Delta,Raging Spirits,8,True
+2025-07-16,09:45,Tokyo DisneySea,Fantasy Springs,Rapunzel's Lantern Festival,55,True
+2025-07-16,09:45,Tokyo DisneySea,Mermaid Lagoon,Scuttle's Scooters,5,True
+2025-07-16,09:45,Tokyo DisneySea,Arabian Coast,Sindbad's Storybook Voyage,5,True
+2025-07-16,09:45,Tokyo DisneySea,Port Discovery,Soaring: Fantastic Flight,95,True
+2025-07-16,09:45,Tokyo DisneySea,Port Discovery,Stormrider,5,True
+2025-07-16,09:45,Tokyo DisneySea,Arabian Coast,The Magic Lamp Theater,0,False
+2025-07-16,09:45,Tokyo DisneySea,Fantasy Springs,Tinker Bell's Neverland Adventure,30,True
+2025-07-16,09:45,Tokyo DisneySea,American Waterfront,Tower of Terror,55,True
+2025-07-16,09:45,Tokyo DisneySea,American Waterfront,Toy Story Mania!,70,True
+2025-07-16,09:45,Tokyo DisneySea,American Waterfront,Turtle Talk,8,True
 2025-07-16,09:45,Tokyo Disneyland,Fantasyland,Alice's Tea Party,5,True
 2025-07-16,09:45,Tokyo Disneyland,Tomorrowland,Baymax's Happy Ride,50,True
 2025-07-16,09:45,Tokyo Disneyland,Fantasyland,Beauty and the Beast,40,True
@@ -4627,6 +4672,29 @@ date,time,park,land,attraction,wait_time,is_open
 2025-07-16,09:45,Tokyo Disneyland,Tomorrowland,Star Tours,5,True
 2025-07-16,09:45,Tokyo Disneyland,Westernland,Western River Railroad,10,True
 2025-07-16,09:45,Tokyo Disneyland,Fantasyland,it's a small world,10,True
+2025-07-16,10:15,Tokyo DisneySea,Port Discovery,Aquatopia,8,True
+2025-07-16,10:15,Tokyo DisneySea,Mermaid Lagoon,Blowfish Balloon Race,5,True
+2025-07-16,10:15,Tokyo DisneySea,Arabian Coast,Caravan Carousel,5,True
+2025-07-16,10:15,Tokyo DisneySea,American Waterfront,DisneySea Electric Railway,15,True
+2025-07-16,10:15,Tokyo DisneySea,Mediterranean Harbor,DisneySea Transit Steamer Line,10,True
+2025-07-16,10:15,Tokyo DisneySea,Fantasy Springs,Frozen Ever After,95,True
+2025-07-16,10:15,Tokyo DisneySea,Lost River Delta,Indiana Jones Adventure: Temple of the Crystal Skull,55,True
+2025-07-16,10:15,Tokyo DisneySea,Arabian Coast,Jasmine's Flying Carpets,5,True
+2025-07-16,10:15,Tokyo DisneySea,Mysterious Island,Journey to the Center of the Earth,65,True
+2025-07-16,10:15,Tokyo DisneySea,Mermaid Lagoon,Jumpin' Jellyfish,5,True
+2025-07-16,10:15,Tokyo DisneySea,Port Discovery,Nemo & Friends SeaRider,15,True
+2025-07-16,10:15,Tokyo DisneySea,Fantasy Springs,Peter Pan's Neverland Adventure,45,True
+2025-07-16,10:15,Tokyo DisneySea,Lost River Delta,Raging Spirits,55,True
+2025-07-16,10:15,Tokyo DisneySea,Fantasy Springs,Rapunzel's Lantern Festival,50,True
+2025-07-16,10:15,Tokyo DisneySea,Mermaid Lagoon,Scuttle's Scooters,5,True
+2025-07-16,10:15,Tokyo DisneySea,Arabian Coast,Sindbad's Storybook Voyage,10,True
+2025-07-16,10:15,Tokyo DisneySea,Port Discovery,Soaring: Fantastic Flight,100,True
+2025-07-16,10:15,Tokyo DisneySea,Port Discovery,Stormrider,10,True
+2025-07-16,10:15,Tokyo DisneySea,Arabian Coast,The Magic Lamp Theater,15,True
+2025-07-16,10:15,Tokyo DisneySea,Fantasy Springs,Tinker Bell's Neverland Adventure,50,True
+2025-07-16,10:15,Tokyo DisneySea,American Waterfront,Tower of Terror,55,True
+2025-07-16,10:15,Tokyo DisneySea,American Waterfront,Toy Story Mania!,60,True
+2025-07-16,10:15,Tokyo DisneySea,American Waterfront,Turtle Talk,10,True
 2025-07-16,10:15,Tokyo Disneyland,Fantasyland,Alice's Tea Party,5,True
 2025-07-16,10:15,Tokyo Disneyland,Tomorrowland,Baymax's Happy Ride,20,True
 2025-07-16,10:15,Tokyo Disneyland,Fantasyland,Beauty and the Beast,30,True
@@ -4654,6 +4722,29 @@ date,time,park,land,attraction,wait_time,is_open
 2025-07-16,10:15,Tokyo Disneyland,Adventureland,The Enchanted Tiki Room: Stitch Presents,10,True
 2025-07-16,10:15,Tokyo Disneyland,Westernland,Western River Railroad,10,True
 2025-07-16,10:15,Tokyo Disneyland,Fantasyland,it's a small world,15,True
+2025-07-16,10:45,Tokyo DisneySea,Port Discovery,Aquatopia,15,True
+2025-07-16,10:45,Tokyo DisneySea,Mermaid Lagoon,Blowfish Balloon Race,8,True
+2025-07-16,10:45,Tokyo DisneySea,Arabian Coast,Caravan Carousel,5,True
+2025-07-16,10:45,Tokyo DisneySea,American Waterfront,DisneySea Electric Railway,15,True
+2025-07-16,10:45,Tokyo DisneySea,Mediterranean Harbor,DisneySea Transit Steamer Line,28,True
+2025-07-16,10:45,Tokyo DisneySea,Fantasy Springs,Frozen Ever After,110,True
+2025-07-16,10:45,Tokyo DisneySea,Lost River Delta,Indiana Jones Adventure: Temple of the Crystal Skull,55,True
+2025-07-16,10:45,Tokyo DisneySea,Arabian Coast,Jasmine's Flying Carpets,10,True
+2025-07-16,10:45,Tokyo DisneySea,Mysterious Island,Journey to the Center of the Earth,65,True
+2025-07-16,10:45,Tokyo DisneySea,Mermaid Lagoon,Jumpin' Jellyfish,8,True
+2025-07-16,10:45,Tokyo DisneySea,Port Discovery,Nemo & Friends SeaRider,18,True
+2025-07-16,10:45,Tokyo DisneySea,Fantasy Springs,Peter Pan's Neverland Adventure,45,True
+2025-07-16,10:45,Tokyo DisneySea,Lost River Delta,Raging Spirits,50,True
+2025-07-16,10:45,Tokyo DisneySea,Fantasy Springs,Rapunzel's Lantern Festival,55,True
+2025-07-16,10:45,Tokyo DisneySea,Mermaid Lagoon,Scuttle's Scooters,10,True
+2025-07-16,10:45,Tokyo DisneySea,Arabian Coast,Sindbad's Storybook Voyage,5,True
+2025-07-16,10:45,Tokyo DisneySea,Port Discovery,Soaring: Fantastic Flight,90,True
+2025-07-16,10:45,Tokyo DisneySea,Port Discovery,Stormrider,10,True
+2025-07-16,10:45,Tokyo DisneySea,Arabian Coast,The Magic Lamp Theater,15,True
+2025-07-16,10:45,Tokyo DisneySea,Fantasy Springs,Tinker Bell's Neverland Adventure,45,True
+2025-07-16,10:45,Tokyo DisneySea,American Waterfront,Tower of Terror,55,True
+2025-07-16,10:45,Tokyo DisneySea,American Waterfront,Toy Story Mania!,55,True
+2025-07-16,10:45,Tokyo DisneySea,American Waterfront,Turtle Talk,12,True
 2025-07-16,10:45,Tokyo Disneyland,Fantasyland,Alice's Tea Party,5,True
 2025-07-16,10:45,Tokyo Disneyland,Tomorrowland,Baymax's Happy Ride,40,True
 2025-07-16,10:45,Tokyo Disneyland,Fantasyland,Beauty and the Beast,30,True
@@ -4681,6 +4772,29 @@ date,time,park,land,attraction,wait_time,is_open
 2025-07-16,10:45,Tokyo Disneyland,Adventureland,The Enchanted Tiki Room: Stitch Presents,10,True
 2025-07-16,10:45,Tokyo Disneyland,Westernland,Western River Railroad,10,True
 2025-07-16,10:45,Tokyo Disneyland,Fantasyland,it's a small world,25,True
+2025-07-16,11:15,Tokyo DisneySea,Port Discovery,Aquatopia,22,True
+2025-07-16,11:15,Tokyo DisneySea,Mermaid Lagoon,Blowfish Balloon Race,10,True
+2025-07-16,11:15,Tokyo DisneySea,Arabian Coast,Caravan Carousel,5,True
+2025-07-16,11:15,Tokyo DisneySea,American Waterfront,DisneySea Electric Railway,12,True
+2025-07-16,11:15,Tokyo DisneySea,Mediterranean Harbor,DisneySea Transit Steamer Line,22,True
+2025-07-16,11:15,Tokyo DisneySea,Fantasy Springs,Frozen Ever After,100,True
+2025-07-16,11:15,Tokyo DisneySea,Lost River Delta,Indiana Jones Adventure: Temple of the Crystal Skull,45,True
+2025-07-16,11:15,Tokyo DisneySea,Arabian Coast,Jasmine's Flying Carpets,8,True
+2025-07-16,11:15,Tokyo DisneySea,Mysterious Island,Journey to the Center of the Earth,70,True
+2025-07-16,11:15,Tokyo DisneySea,Mermaid Lagoon,Jumpin' Jellyfish,8,True
+2025-07-16,11:15,Tokyo DisneySea,Port Discovery,Nemo & Friends SeaRider,10,True
+2025-07-16,11:15,Tokyo DisneySea,Fantasy Springs,Peter Pan's Neverland Adventure,45,True
+2025-07-16,11:15,Tokyo DisneySea,Lost River Delta,Raging Spirits,45,True
+2025-07-16,11:15,Tokyo DisneySea,Fantasy Springs,Rapunzel's Lantern Festival,50,True
+2025-07-16,11:15,Tokyo DisneySea,Mermaid Lagoon,Scuttle's Scooters,15,True
+2025-07-16,11:15,Tokyo DisneySea,Arabian Coast,Sindbad's Storybook Voyage,5,True
+2025-07-16,11:15,Tokyo DisneySea,Port Discovery,Soaring: Fantastic Flight,85,True
+2025-07-16,11:15,Tokyo DisneySea,Port Discovery,Stormrider,10,True
+2025-07-16,11:15,Tokyo DisneySea,Arabian Coast,The Magic Lamp Theater,15,True
+2025-07-16,11:15,Tokyo DisneySea,Fantasy Springs,Tinker Bell's Neverland Adventure,40,True
+2025-07-16,11:15,Tokyo DisneySea,American Waterfront,Tower of Terror,50,True
+2025-07-16,11:15,Tokyo DisneySea,American Waterfront,Toy Story Mania!,60,True
+2025-07-16,11:15,Tokyo DisneySea,American Waterfront,Turtle Talk,15,True
 2025-07-16,11:15,Tokyo Disneyland,Fantasyland,Alice's Tea Party,5,True
 2025-07-16,11:15,Tokyo Disneyland,Tomorrowland,Baymax's Happy Ride,30,True
 2025-07-16,11:15,Tokyo Disneyland,Fantasyland,Beauty and the Beast,40,True
@@ -4709,6 +4823,29 @@ date,time,park,land,attraction,wait_time,is_open
 2025-07-16,11:15,Tokyo Disneyland,Westernland,Tom Sawyer Island Rafts,5,True
 2025-07-16,11:15,Tokyo Disneyland,Westernland,Western River Railroad,10,True
 2025-07-16,11:15,Tokyo Disneyland,Fantasyland,it's a small world,15,True
+2025-07-16,11:45,Tokyo DisneySea,Port Discovery,Aquatopia,32,True
+2025-07-16,11:45,Tokyo DisneySea,Mermaid Lagoon,Blowfish Balloon Race,15,True
+2025-07-16,11:45,Tokyo DisneySea,Arabian Coast,Caravan Carousel,5,True
+2025-07-16,11:45,Tokyo DisneySea,American Waterfront,DisneySea Electric Railway,22,True
+2025-07-16,11:45,Tokyo DisneySea,Mediterranean Harbor,DisneySea Transit Steamer Line,28,True
+2025-07-16,11:45,Tokyo DisneySea,Fantasy Springs,Frozen Ever After,90,True
+2025-07-16,11:45,Tokyo DisneySea,Lost River Delta,Indiana Jones Adventure: Temple of the Crystal Skull,45,True
+2025-07-16,11:45,Tokyo DisneySea,Arabian Coast,Jasmine's Flying Carpets,8,True
+2025-07-16,11:45,Tokyo DisneySea,Mysterious Island,Journey to the Center of the Earth,75,True
+2025-07-16,11:45,Tokyo DisneySea,Mermaid Lagoon,Jumpin' Jellyfish,10,True
+2025-07-16,11:45,Tokyo DisneySea,Port Discovery,Nemo & Friends SeaRider,15,True
+2025-07-16,11:45,Tokyo DisneySea,Fantasy Springs,Peter Pan's Neverland Adventure,35,True
+2025-07-16,11:45,Tokyo DisneySea,Lost River Delta,Raging Spirits,50,True
+2025-07-16,11:45,Tokyo DisneySea,Fantasy Springs,Rapunzel's Lantern Festival,40,True
+2025-07-16,11:45,Tokyo DisneySea,Mermaid Lagoon,Scuttle's Scooters,12,True
+2025-07-16,11:45,Tokyo DisneySea,Arabian Coast,Sindbad's Storybook Voyage,5,True
+2025-07-16,11:45,Tokyo DisneySea,Port Discovery,Soaring: Fantastic Flight,70,True
+2025-07-16,11:45,Tokyo DisneySea,Port Discovery,Stormrider,10,True
+2025-07-16,11:45,Tokyo DisneySea,Arabian Coast,The Magic Lamp Theater,15,True
+2025-07-16,11:45,Tokyo DisneySea,Fantasy Springs,Tinker Bell's Neverland Adventure,35,True
+2025-07-16,11:45,Tokyo DisneySea,American Waterfront,Tower of Terror,50,True
+2025-07-16,11:45,Tokyo DisneySea,American Waterfront,Toy Story Mania!,55,True
+2025-07-16,11:45,Tokyo DisneySea,American Waterfront,Turtle Talk,12,True
 2025-07-16,11:45,Tokyo Disneyland,Fantasyland,Alice's Tea Party,5,True
 2025-07-16,11:45,Tokyo Disneyland,Tomorrowland,Baymax's Happy Ride,30,True
 2025-07-16,11:45,Tokyo Disneyland,Fantasyland,Beauty and the Beast,40,True
@@ -4737,6 +4874,29 @@ date,time,park,land,attraction,wait_time,is_open
 2025-07-16,11:45,Tokyo Disneyland,Westernland,Tom Sawyer Island Rafts,5,True
 2025-07-16,11:45,Tokyo Disneyland,Westernland,Western River Railroad,10,True
 2025-07-16,11:45,Tokyo Disneyland,Fantasyland,it's a small world,20,True
+2025-07-16,12:15,Tokyo DisneySea,Port Discovery,Aquatopia,50,True
+2025-07-16,12:15,Tokyo DisneySea,Mermaid Lagoon,Blowfish Balloon Race,15,True
+2025-07-16,12:15,Tokyo DisneySea,Arabian Coast,Caravan Carousel,5,True
+2025-07-16,12:15,Tokyo DisneySea,American Waterfront,DisneySea Electric Railway,15,True
+2025-07-16,12:15,Tokyo DisneySea,Mediterranean Harbor,DisneySea Transit Steamer Line,5,True
+2025-07-16,12:15,Tokyo DisneySea,Fantasy Springs,Frozen Ever After,80,True
+2025-07-16,12:15,Tokyo DisneySea,Lost River Delta,Indiana Jones Adventure: Temple of the Crystal Skull,45,True
+2025-07-16,12:15,Tokyo DisneySea,Arabian Coast,Jasmine's Flying Carpets,10,True
+2025-07-16,12:15,Tokyo DisneySea,Mysterious Island,Journey to the Center of the Earth,95,True
+2025-07-16,12:15,Tokyo DisneySea,Mermaid Lagoon,Jumpin' Jellyfish,8,True
+2025-07-16,12:15,Tokyo DisneySea,Port Discovery,Nemo & Friends SeaRider,15,True
+2025-07-16,12:15,Tokyo DisneySea,Fantasy Springs,Peter Pan's Neverland Adventure,35,True
+2025-07-16,12:15,Tokyo DisneySea,Lost River Delta,Raging Spirits,35,True
+2025-07-16,12:15,Tokyo DisneySea,Fantasy Springs,Rapunzel's Lantern Festival,40,True
+2025-07-16,12:15,Tokyo DisneySea,Mermaid Lagoon,Scuttle's Scooters,10,True
+2025-07-16,12:15,Tokyo DisneySea,Arabian Coast,Sindbad's Storybook Voyage,5,True
+2025-07-16,12:15,Tokyo DisneySea,Port Discovery,Soaring: Fantastic Flight,65,True
+2025-07-16,12:15,Tokyo DisneySea,Port Discovery,Stormrider,10,True
+2025-07-16,12:15,Tokyo DisneySea,Arabian Coast,The Magic Lamp Theater,15,True
+2025-07-16,12:15,Tokyo DisneySea,Fantasy Springs,Tinker Bell's Neverland Adventure,35,True
+2025-07-16,12:15,Tokyo DisneySea,American Waterfront,Tower of Terror,50,True
+2025-07-16,12:15,Tokyo DisneySea,American Waterfront,Toy Story Mania!,45,True
+2025-07-16,12:15,Tokyo DisneySea,American Waterfront,Turtle Talk,12,True
 2025-07-16,12:15,Tokyo Disneyland,Fantasyland,Alice's Tea Party,5,True
 2025-07-16,12:15,Tokyo Disneyland,Tomorrowland,Baymax's Happy Ride,30,True
 2025-07-16,12:15,Tokyo Disneyland,Fantasyland,Beauty and the Beast,20,True
@@ -4765,6 +4925,29 @@ date,time,park,land,attraction,wait_time,is_open
 2025-07-16,12:15,Tokyo Disneyland,Westernland,Tom Sawyer Island Rafts,5,True
 2025-07-16,12:15,Tokyo Disneyland,Westernland,Western River Railroad,10,True
 2025-07-16,12:15,Tokyo Disneyland,Fantasyland,it's a small world,15,True
+2025-07-16,12:45,Tokyo DisneySea,Port Discovery,Aquatopia,38,True
+2025-07-16,12:45,Tokyo DisneySea,Mermaid Lagoon,Blowfish Balloon Race,18,True
+2025-07-16,12:45,Tokyo DisneySea,Arabian Coast,Caravan Carousel,5,True
+2025-07-16,12:45,Tokyo DisneySea,American Waterfront,DisneySea Electric Railway,10,True
+2025-07-16,12:45,Tokyo DisneySea,Mediterranean Harbor,DisneySea Transit Steamer Line,5,True
+2025-07-16,12:45,Tokyo DisneySea,Fantasy Springs,Frozen Ever After,90,True
+2025-07-16,12:45,Tokyo DisneySea,Lost River Delta,Indiana Jones Adventure: Temple of the Crystal Skull,50,True
+2025-07-16,12:45,Tokyo DisneySea,Arabian Coast,Jasmine's Flying Carpets,10,True
+2025-07-16,12:45,Tokyo DisneySea,Mysterious Island,Journey to the Center of the Earth,70,True
+2025-07-16,12:45,Tokyo DisneySea,Mermaid Lagoon,Jumpin' Jellyfish,8,True
+2025-07-16,12:45,Tokyo DisneySea,Port Discovery,Nemo & Friends SeaRider,10,True
+2025-07-16,12:45,Tokyo DisneySea,Fantasy Springs,Peter Pan's Neverland Adventure,30,True
+2025-07-16,12:45,Tokyo DisneySea,Lost River Delta,Raging Spirits,40,True
+2025-07-16,12:45,Tokyo DisneySea,Fantasy Springs,Rapunzel's Lantern Festival,30,True
+2025-07-16,12:45,Tokyo DisneySea,Mermaid Lagoon,Scuttle's Scooters,10,True
+2025-07-16,12:45,Tokyo DisneySea,Arabian Coast,Sindbad's Storybook Voyage,5,True
+2025-07-16,12:45,Tokyo DisneySea,Port Discovery,Soaring: Fantastic Flight,70,True
+2025-07-16,12:45,Tokyo DisneySea,Port Discovery,Stormrider,10,True
+2025-07-16,12:45,Tokyo DisneySea,Arabian Coast,The Magic Lamp Theater,15,True
+2025-07-16,12:45,Tokyo DisneySea,Fantasy Springs,Tinker Bell's Neverland Adventure,35,True
+2025-07-16,12:45,Tokyo DisneySea,American Waterfront,Tower of Terror,40,True
+2025-07-16,12:45,Tokyo DisneySea,American Waterfront,Toy Story Mania!,50,True
+2025-07-16,12:45,Tokyo DisneySea,American Waterfront,Turtle Talk,12,True
 2025-07-16,12:45,Tokyo Disneyland,Fantasyland,Alice's Tea Party,5,True
 2025-07-16,12:45,Tokyo Disneyland,Tomorrowland,Baymax's Happy Ride,25,True
 2025-07-16,12:45,Tokyo Disneyland,Fantasyland,Beauty and the Beast,25,True
@@ -4793,6 +4976,29 @@ date,time,park,land,attraction,wait_time,is_open
 2025-07-16,12:45,Tokyo Disneyland,Westernland,Tom Sawyer Island Rafts,5,True
 2025-07-16,12:45,Tokyo Disneyland,Westernland,Western River Railroad,10,True
 2025-07-16,12:45,Tokyo Disneyland,Fantasyland,it's a small world,20,True
+2025-07-16,13:15,Tokyo DisneySea,Port Discovery,Aquatopia,32,True
+2025-07-16,13:15,Tokyo DisneySea,Mermaid Lagoon,Blowfish Balloon Race,18,True
+2025-07-16,13:15,Tokyo DisneySea,Arabian Coast,Caravan Carousel,5,True
+2025-07-16,13:15,Tokyo DisneySea,American Waterfront,DisneySea Electric Railway,22,True
+2025-07-16,13:15,Tokyo DisneySea,Mediterranean Harbor,DisneySea Transit Steamer Line,5,True
+2025-07-16,13:15,Tokyo DisneySea,Fantasy Springs,Frozen Ever After,95,True
+2025-07-16,13:15,Tokyo DisneySea,Lost River Delta,Indiana Jones Adventure: Temple of the Crystal Skull,50,True
+2025-07-16,13:15,Tokyo DisneySea,Arabian Coast,Jasmine's Flying Carpets,12,True
+2025-07-16,13:15,Tokyo DisneySea,Mysterious Island,Journey to the Center of the Earth,65,True
+2025-07-16,13:15,Tokyo DisneySea,Mermaid Lagoon,Jumpin' Jellyfish,8,True
+2025-07-16,13:15,Tokyo DisneySea,Port Discovery,Nemo & Friends SeaRider,12,True
+2025-07-16,13:15,Tokyo DisneySea,Fantasy Springs,Peter Pan's Neverland Adventure,35,True
+2025-07-16,13:15,Tokyo DisneySea,Lost River Delta,Raging Spirits,45,True
+2025-07-16,13:15,Tokyo DisneySea,Fantasy Springs,Rapunzel's Lantern Festival,40,True
+2025-07-16,13:15,Tokyo DisneySea,Mermaid Lagoon,Scuttle's Scooters,15,True
+2025-07-16,13:15,Tokyo DisneySea,Arabian Coast,Sindbad's Storybook Voyage,5,True
+2025-07-16,13:15,Tokyo DisneySea,Port Discovery,Soaring: Fantastic Flight,65,True
+2025-07-16,13:15,Tokyo DisneySea,Port Discovery,Stormrider,10,True
+2025-07-16,13:15,Tokyo DisneySea,Arabian Coast,The Magic Lamp Theater,15,True
+2025-07-16,13:15,Tokyo DisneySea,Fantasy Springs,Tinker Bell's Neverland Adventure,35,True
+2025-07-16,13:15,Tokyo DisneySea,American Waterfront,Tower of Terror,50,True
+2025-07-16,13:15,Tokyo DisneySea,American Waterfront,Toy Story Mania!,55,True
+2025-07-16,13:15,Tokyo DisneySea,American Waterfront,Turtle Talk,15,True
 2025-07-16,13:15,Tokyo Disneyland,Fantasyland,Alice's Tea Party,5,True
 2025-07-16,13:15,Tokyo Disneyland,Tomorrowland,Baymax's Happy Ride,25,True
 2025-07-16,13:15,Tokyo Disneyland,Fantasyland,Beauty and the Beast,30,True
@@ -4821,6 +5027,29 @@ date,time,park,land,attraction,wait_time,is_open
 2025-07-16,13:15,Tokyo Disneyland,Westernland,Tom Sawyer Island Rafts,5,True
 2025-07-16,13:15,Tokyo Disneyland,Westernland,Western River Railroad,10,True
 2025-07-16,13:15,Tokyo Disneyland,Fantasyland,it's a small world,20,True
+2025-07-16,13:45,Tokyo DisneySea,Port Discovery,Aquatopia,35,True
+2025-07-16,13:45,Tokyo DisneySea,Mermaid Lagoon,Blowfish Balloon Race,18,True
+2025-07-16,13:45,Tokyo DisneySea,Arabian Coast,Caravan Carousel,5,True
+2025-07-16,13:45,Tokyo DisneySea,American Waterfront,DisneySea Electric Railway,12,True
+2025-07-16,13:45,Tokyo DisneySea,Mediterranean Harbor,DisneySea Transit Steamer Line,5,True
+2025-07-16,13:45,Tokyo DisneySea,Fantasy Springs,Frozen Ever After,90,True
+2025-07-16,13:45,Tokyo DisneySea,Lost River Delta,Indiana Jones Adventure: Temple of the Crystal Skull,40,True
+2025-07-16,13:45,Tokyo DisneySea,Arabian Coast,Jasmine's Flying Carpets,8,True
+2025-07-16,13:45,Tokyo DisneySea,Mysterious Island,Journey to the Center of the Earth,70,True
+2025-07-16,13:45,Tokyo DisneySea,Mermaid Lagoon,Jumpin' Jellyfish,8,True
+2025-07-16,13:45,Tokyo DisneySea,Port Discovery,Nemo & Friends SeaRider,12,True
+2025-07-16,13:45,Tokyo DisneySea,Fantasy Springs,Peter Pan's Neverland Adventure,40,True
+2025-07-16,13:45,Tokyo DisneySea,Lost River Delta,Raging Spirits,55,True
+2025-07-16,13:45,Tokyo DisneySea,Fantasy Springs,Rapunzel's Lantern Festival,35,True
+2025-07-16,13:45,Tokyo DisneySea,Mermaid Lagoon,Scuttle's Scooters,10,True
+2025-07-16,13:45,Tokyo DisneySea,Arabian Coast,Sindbad's Storybook Voyage,5,True
+2025-07-16,13:45,Tokyo DisneySea,Port Discovery,Soaring: Fantastic Flight,65,True
+2025-07-16,13:45,Tokyo DisneySea,Port Discovery,Stormrider,10,True
+2025-07-16,13:45,Tokyo DisneySea,Arabian Coast,The Magic Lamp Theater,15,True
+2025-07-16,13:45,Tokyo DisneySea,Fantasy Springs,Tinker Bell's Neverland Adventure,40,True
+2025-07-16,13:45,Tokyo DisneySea,American Waterfront,Tower of Terror,50,True
+2025-07-16,13:45,Tokyo DisneySea,American Waterfront,Toy Story Mania!,55,True
+2025-07-16,13:45,Tokyo DisneySea,American Waterfront,Turtle Talk,10,True
 2025-07-16,13:45,Tokyo Disneyland,Fantasyland,Alice's Tea Party,5,True
 2025-07-16,13:45,Tokyo Disneyland,Tomorrowland,Baymax's Happy Ride,30,True
 2025-07-16,13:45,Tokyo Disneyland,Fantasyland,Beauty and the Beast,20,True
@@ -4849,6 +5078,29 @@ date,time,park,land,attraction,wait_time,is_open
 2025-07-16,13:45,Tokyo Disneyland,Westernland,Tom Sawyer Island Rafts,5,True
 2025-07-16,13:45,Tokyo Disneyland,Westernland,Western River Railroad,10,True
 2025-07-16,13:45,Tokyo Disneyland,Fantasyland,it's a small world,20,True
+2025-07-16,14:15,Tokyo DisneySea,Port Discovery,Aquatopia,10,True
+2025-07-16,14:15,Tokyo DisneySea,Mermaid Lagoon,Blowfish Balloon Race,22,True
+2025-07-16,14:15,Tokyo DisneySea,Arabian Coast,Caravan Carousel,5,True
+2025-07-16,14:15,Tokyo DisneySea,American Waterfront,DisneySea Electric Railway,15,True
+2025-07-16,14:15,Tokyo DisneySea,Mediterranean Harbor,DisneySea Transit Steamer Line,5,True
+2025-07-16,14:15,Tokyo DisneySea,Fantasy Springs,Frozen Ever After,100,True
+2025-07-16,14:15,Tokyo DisneySea,Lost River Delta,Indiana Jones Adventure: Temple of the Crystal Skull,55,True
+2025-07-16,14:15,Tokyo DisneySea,Arabian Coast,Jasmine's Flying Carpets,8,True
+2025-07-16,14:15,Tokyo DisneySea,Mysterious Island,Journey to the Center of the Earth,75,True
+2025-07-16,14:15,Tokyo DisneySea,Mermaid Lagoon,Jumpin' Jellyfish,10,True
+2025-07-16,14:15,Tokyo DisneySea,Port Discovery,Nemo & Friends SeaRider,12,True
+2025-07-16,14:15,Tokyo DisneySea,Fantasy Springs,Peter Pan's Neverland Adventure,35,True
+2025-07-16,14:15,Tokyo DisneySea,Lost River Delta,Raging Spirits,38,True
+2025-07-16,14:15,Tokyo DisneySea,Fantasy Springs,Rapunzel's Lantern Festival,35,True
+2025-07-16,14:15,Tokyo DisneySea,Mermaid Lagoon,Scuttle's Scooters,10,True
+2025-07-16,14:15,Tokyo DisneySea,Arabian Coast,Sindbad's Storybook Voyage,5,True
+2025-07-16,14:15,Tokyo DisneySea,Port Discovery,Soaring: Fantastic Flight,70,True
+2025-07-16,14:15,Tokyo DisneySea,Port Discovery,Stormrider,10,True
+2025-07-16,14:15,Tokyo DisneySea,Arabian Coast,The Magic Lamp Theater,15,True
+2025-07-16,14:15,Tokyo DisneySea,Fantasy Springs,Tinker Bell's Neverland Adventure,35,True
+2025-07-16,14:15,Tokyo DisneySea,American Waterfront,Tower of Terror,50,True
+2025-07-16,14:15,Tokyo DisneySea,American Waterfront,Toy Story Mania!,60,True
+2025-07-16,14:15,Tokyo DisneySea,American Waterfront,Turtle Talk,12,True
 2025-07-16,14:15,Tokyo Disneyland,Fantasyland,Alice's Tea Party,5,True
 2025-07-16,14:15,Tokyo Disneyland,Tomorrowland,Baymax's Happy Ride,30,True
 2025-07-16,14:15,Tokyo Disneyland,Fantasyland,Beauty and the Beast,20,True
@@ -4877,6 +5129,29 @@ date,time,park,land,attraction,wait_time,is_open
 2025-07-16,14:15,Tokyo Disneyland,Westernland,Tom Sawyer Island Rafts,5,True
 2025-07-16,14:15,Tokyo Disneyland,Westernland,Western River Railroad,10,True
 2025-07-16,14:15,Tokyo Disneyland,Fantasyland,it's a small world,20,True
+2025-07-16,14:45,Tokyo DisneySea,Port Discovery,Aquatopia,15,True
+2025-07-16,14:45,Tokyo DisneySea,Mermaid Lagoon,Blowfish Balloon Race,25,True
+2025-07-16,14:45,Tokyo DisneySea,Arabian Coast,Caravan Carousel,5,True
+2025-07-16,14:45,Tokyo DisneySea,American Waterfront,DisneySea Electric Railway,20,True
+2025-07-16,14:45,Tokyo DisneySea,Mediterranean Harbor,DisneySea Transit Steamer Line,5,True
+2025-07-16,14:45,Tokyo DisneySea,Fantasy Springs,Frozen Ever After,95,True
+2025-07-16,14:45,Tokyo DisneySea,Lost River Delta,Indiana Jones Adventure: Temple of the Crystal Skull,50,True
+2025-07-16,14:45,Tokyo DisneySea,Arabian Coast,Jasmine's Flying Carpets,8,True
+2025-07-16,14:45,Tokyo DisneySea,Mysterious Island,Journey to the Center of the Earth,75,True
+2025-07-16,14:45,Tokyo DisneySea,Mermaid Lagoon,Jumpin' Jellyfish,12,True
+2025-07-16,14:45,Tokyo DisneySea,Port Discovery,Nemo & Friends SeaRider,10,True
+2025-07-16,14:45,Tokyo DisneySea,Fantasy Springs,Peter Pan's Neverland Adventure,40,True
+2025-07-16,14:45,Tokyo DisneySea,Lost River Delta,Raging Spirits,40,True
+2025-07-16,14:45,Tokyo DisneySea,Fantasy Springs,Rapunzel's Lantern Festival,32,True
+2025-07-16,14:45,Tokyo DisneySea,Mermaid Lagoon,Scuttle's Scooters,12,True
+2025-07-16,14:45,Tokyo DisneySea,Arabian Coast,Sindbad's Storybook Voyage,5,True
+2025-07-16,14:45,Tokyo DisneySea,Port Discovery,Soaring: Fantastic Flight,70,True
+2025-07-16,14:45,Tokyo DisneySea,Port Discovery,Stormrider,10,True
+2025-07-16,14:45,Tokyo DisneySea,Arabian Coast,The Magic Lamp Theater,15,True
+2025-07-16,14:45,Tokyo DisneySea,Fantasy Springs,Tinker Bell's Neverland Adventure,30,True
+2025-07-16,14:45,Tokyo DisneySea,American Waterfront,Tower of Terror,50,True
+2025-07-16,14:45,Tokyo DisneySea,American Waterfront,Toy Story Mania!,65,True
+2025-07-16,14:45,Tokyo DisneySea,American Waterfront,Turtle Talk,12,True
 2025-07-16,14:45,Tokyo Disneyland,Fantasyland,Alice's Tea Party,5,True
 2025-07-16,14:45,Tokyo Disneyland,Tomorrowland,Baymax's Happy Ride,30,True
 2025-07-16,14:45,Tokyo Disneyland,Fantasyland,Beauty and the Beast,30,True
@@ -4905,6 +5180,29 @@ date,time,park,land,attraction,wait_time,is_open
 2025-07-16,14:45,Tokyo Disneyland,Westernland,Tom Sawyer Island Rafts,5,True
 2025-07-16,14:45,Tokyo Disneyland,Westernland,Western River Railroad,10,True
 2025-07-16,14:45,Tokyo Disneyland,Fantasyland,it's a small world,20,True
+2025-07-16,15:15,Tokyo DisneySea,Port Discovery,Aquatopia,30,True
+2025-07-16,15:15,Tokyo DisneySea,Mermaid Lagoon,Blowfish Balloon Race,25,True
+2025-07-16,15:15,Tokyo DisneySea,Arabian Coast,Caravan Carousel,5,True
+2025-07-16,15:15,Tokyo DisneySea,American Waterfront,DisneySea Electric Railway,12,True
+2025-07-16,15:15,Tokyo DisneySea,Mediterranean Harbor,DisneySea Transit Steamer Line,5,True
+2025-07-16,15:15,Tokyo DisneySea,Fantasy Springs,Frozen Ever After,90,True
+2025-07-16,15:15,Tokyo DisneySea,Lost River Delta,Indiana Jones Adventure: Temple of the Crystal Skull,60,True
+2025-07-16,15:15,Tokyo DisneySea,Arabian Coast,Jasmine's Flying Carpets,10,True
+2025-07-16,15:15,Tokyo DisneySea,Mysterious Island,Journey to the Center of the Earth,75,True
+2025-07-16,15:15,Tokyo DisneySea,Mermaid Lagoon,Jumpin' Jellyfish,10,True
+2025-07-16,15:15,Tokyo DisneySea,Port Discovery,Nemo & Friends SeaRider,15,True
+2025-07-16,15:15,Tokyo DisneySea,Fantasy Springs,Peter Pan's Neverland Adventure,35,True
+2025-07-16,15:15,Tokyo DisneySea,Lost River Delta,Raging Spirits,55,True
+2025-07-16,15:15,Tokyo DisneySea,Fantasy Springs,Rapunzel's Lantern Festival,35,True
+2025-07-16,15:15,Tokyo DisneySea,Mermaid Lagoon,Scuttle's Scooters,12,True
+2025-07-16,15:15,Tokyo DisneySea,Arabian Coast,Sindbad's Storybook Voyage,5,True
+2025-07-16,15:15,Tokyo DisneySea,Port Discovery,Soaring: Fantastic Flight,65,True
+2025-07-16,15:15,Tokyo DisneySea,Port Discovery,Stormrider,10,True
+2025-07-16,15:15,Tokyo DisneySea,Arabian Coast,The Magic Lamp Theater,15,True
+2025-07-16,15:15,Tokyo DisneySea,Fantasy Springs,Tinker Bell's Neverland Adventure,40,True
+2025-07-16,15:15,Tokyo DisneySea,American Waterfront,Tower of Terror,55,True
+2025-07-16,15:15,Tokyo DisneySea,American Waterfront,Toy Story Mania!,70,True
+2025-07-16,15:15,Tokyo DisneySea,American Waterfront,Turtle Talk,15,True
 2025-07-16,15:15,Tokyo Disneyland,Fantasyland,Alice's Tea Party,5,True
 2025-07-16,15:15,Tokyo Disneyland,Tomorrowland,Baymax's Happy Ride,30,True
 2025-07-16,15:15,Tokyo Disneyland,Fantasyland,Beauty and the Beast,20,True
@@ -4933,6 +5231,29 @@ date,time,park,land,attraction,wait_time,is_open
 2025-07-16,15:15,Tokyo Disneyland,Westernland,Tom Sawyer Island Rafts,5,True
 2025-07-16,15:15,Tokyo Disneyland,Westernland,Western River Railroad,10,True
 2025-07-16,15:15,Tokyo Disneyland,Fantasyland,it's a small world,20,True
+2025-07-16,15:45,Tokyo DisneySea,Port Discovery,Aquatopia,35,True
+2025-07-16,15:45,Tokyo DisneySea,Mermaid Lagoon,Blowfish Balloon Race,20,True
+2025-07-16,15:45,Tokyo DisneySea,Arabian Coast,Caravan Carousel,5,True
+2025-07-16,15:45,Tokyo DisneySea,American Waterfront,DisneySea Electric Railway,15,True
+2025-07-16,15:45,Tokyo DisneySea,Mediterranean Harbor,DisneySea Transit Steamer Line,5,True
+2025-07-16,15:45,Tokyo DisneySea,Fantasy Springs,Frozen Ever After,85,True
+2025-07-16,15:45,Tokyo DisneySea,Lost River Delta,Indiana Jones Adventure: Temple of the Crystal Skull,50,True
+2025-07-16,15:45,Tokyo DisneySea,Arabian Coast,Jasmine's Flying Carpets,12,True
+2025-07-16,15:45,Tokyo DisneySea,Mysterious Island,Journey to the Center of the Earth,65,True
+2025-07-16,15:45,Tokyo DisneySea,Mermaid Lagoon,Jumpin' Jellyfish,8,True
+2025-07-16,15:45,Tokyo DisneySea,Port Discovery,Nemo & Friends SeaRider,20,True
+2025-07-16,15:45,Tokyo DisneySea,Fantasy Springs,Peter Pan's Neverland Adventure,40,True
+2025-07-16,15:45,Tokyo DisneySea,Lost River Delta,Raging Spirits,55,True
+2025-07-16,15:45,Tokyo DisneySea,Fantasy Springs,Rapunzel's Lantern Festival,35,True
+2025-07-16,15:45,Tokyo DisneySea,Mermaid Lagoon,Scuttle's Scooters,15,True
+2025-07-16,15:45,Tokyo DisneySea,Arabian Coast,Sindbad's Storybook Voyage,5,True
+2025-07-16,15:45,Tokyo DisneySea,Port Discovery,Soaring: Fantastic Flight,70,True
+2025-07-16,15:45,Tokyo DisneySea,Port Discovery,Stormrider,12,True
+2025-07-16,15:45,Tokyo DisneySea,Arabian Coast,The Magic Lamp Theater,15,True
+2025-07-16,15:45,Tokyo DisneySea,Fantasy Springs,Tinker Bell's Neverland Adventure,40,True
+2025-07-16,15:45,Tokyo DisneySea,American Waterfront,Tower of Terror,55,True
+2025-07-16,15:45,Tokyo DisneySea,American Waterfront,Toy Story Mania!,60,True
+2025-07-16,15:45,Tokyo DisneySea,American Waterfront,Turtle Talk,15,True
 2025-07-16,15:45,Tokyo Disneyland,Fantasyland,Alice's Tea Party,5,True
 2025-07-16,15:45,Tokyo Disneyland,Tomorrowland,Baymax's Happy Ride,30,True
 2025-07-16,15:45,Tokyo Disneyland,Fantasyland,Beauty and the Beast,15,True
@@ -4961,6 +5282,29 @@ date,time,park,land,attraction,wait_time,is_open
 2025-07-16,15:45,Tokyo Disneyland,Westernland,Tom Sawyer Island Rafts,5,True
 2025-07-16,15:45,Tokyo Disneyland,Westernland,Western River Railroad,15,True
 2025-07-16,15:45,Tokyo Disneyland,Fantasyland,it's a small world,20,True
+2025-07-16,16:15,Tokyo DisneySea,Port Discovery,Aquatopia,42,True
+2025-07-16,16:15,Tokyo DisneySea,Mermaid Lagoon,Blowfish Balloon Race,15,True
+2025-07-16,16:15,Tokyo DisneySea,Arabian Coast,Caravan Carousel,5,True
+2025-07-16,16:15,Tokyo DisneySea,American Waterfront,DisneySea Electric Railway,12,True
+2025-07-16,16:15,Tokyo DisneySea,Mediterranean Harbor,DisneySea Transit Steamer Line,10,True
+2025-07-16,16:15,Tokyo DisneySea,Fantasy Springs,Frozen Ever After,85,True
+2025-07-16,16:15,Tokyo DisneySea,Lost River Delta,Indiana Jones Adventure: Temple of the Crystal Skull,50,True
+2025-07-16,16:15,Tokyo DisneySea,Arabian Coast,Jasmine's Flying Carpets,15,True
+2025-07-16,16:15,Tokyo DisneySea,Mysterious Island,Journey to the Center of the Earth,70,True
+2025-07-16,16:15,Tokyo DisneySea,Mermaid Lagoon,Jumpin' Jellyfish,8,True
+2025-07-16,16:15,Tokyo DisneySea,Port Discovery,Nemo & Friends SeaRider,12,True
+2025-07-16,16:15,Tokyo DisneySea,Fantasy Springs,Peter Pan's Neverland Adventure,35,True
+2025-07-16,16:15,Tokyo DisneySea,Lost River Delta,Raging Spirits,50,True
+2025-07-16,16:15,Tokyo DisneySea,Fantasy Springs,Rapunzel's Lantern Festival,35,True
+2025-07-16,16:15,Tokyo DisneySea,Mermaid Lagoon,Scuttle's Scooters,18,True
+2025-07-16,16:15,Tokyo DisneySea,Arabian Coast,Sindbad's Storybook Voyage,5,True
+2025-07-16,16:15,Tokyo DisneySea,Port Discovery,Soaring: Fantastic Flight,70,True
+2025-07-16,16:15,Tokyo DisneySea,Port Discovery,Stormrider,8,True
+2025-07-16,16:15,Tokyo DisneySea,Arabian Coast,The Magic Lamp Theater,15,True
+2025-07-16,16:15,Tokyo DisneySea,Fantasy Springs,Tinker Bell's Neverland Adventure,40,True
+2025-07-16,16:15,Tokyo DisneySea,American Waterfront,Tower of Terror,60,True
+2025-07-16,16:15,Tokyo DisneySea,American Waterfront,Toy Story Mania!,55,True
+2025-07-16,16:15,Tokyo DisneySea,American Waterfront,Turtle Talk,18,True
 2025-07-16,16:15,Tokyo Disneyland,Fantasyland,Alice's Tea Party,5,True
 2025-07-16,16:15,Tokyo Disneyland,Tomorrowland,Baymax's Happy Ride,40,True
 2025-07-16,16:15,Tokyo Disneyland,Fantasyland,Beauty and the Beast,15,True
@@ -4989,6 +5333,30 @@ date,time,park,land,attraction,wait_time,is_open
 2025-07-16,16:15,Tokyo Disneyland,Westernland,Tom Sawyer Island Rafts,5,True
 2025-07-16,16:15,Tokyo Disneyland,Westernland,Western River Railroad,15,True
 2025-07-16,16:15,Tokyo Disneyland,Fantasyland,it's a small world,20,True
+2025-07-16,16:45,Tokyo DisneySea,Port Discovery,Aquatopia,35,True
+2025-07-16,16:45,Tokyo DisneySea,Mermaid Lagoon,Blowfish Balloon Race,18,True
+2025-07-16,16:45,Tokyo DisneySea,Arabian Coast,Caravan Carousel,5,True
+2025-07-16,16:45,Tokyo DisneySea,American Waterfront,DisneySea Electric Railway,20,True
+2025-07-16,16:45,Tokyo DisneySea,Mediterranean Harbor,DisneySea Transit Steamer Line,5,True
+2025-07-16,16:45,Tokyo DisneySea,Fantasy Springs,Frozen Ever After,80,True
+2025-07-16,16:45,Tokyo DisneySea,Lost River Delta,Indiana Jones Adventure: Temple of the Crystal Skull,50,True
+2025-07-16,16:45,Tokyo DisneySea,Arabian Coast,Jasmine's Flying Carpets,12,True
+2025-07-16,16:45,Tokyo DisneySea,Mysterious Island,Journey to the Center of the Earth,60,True
+2025-07-16,16:45,Tokyo DisneySea,Mermaid Lagoon,Jumpin' Jellyfish,8,True
+2025-07-16,16:45,Tokyo DisneySea,Port Discovery,Nemo & Friends SeaRider,10,True
+2025-07-16,16:45,Tokyo DisneySea,Fantasy Springs,Peter Pan's Neverland Adventure,25,True
+2025-07-16,16:45,Tokyo DisneySea,Lost River Delta,Raging Spirits,55,True
+2025-07-16,16:45,Tokyo DisneySea,Fantasy Springs,Rapunzel's Lantern Festival,30,True
+2025-07-16,16:45,Tokyo DisneySea,Mermaid Lagoon,Scuttle's Scooters,18,True
+2025-07-16,16:45,Tokyo DisneySea,Arabian Coast,Sindbad's Storybook Voyage,5,True
+2025-07-16,16:45,Tokyo DisneySea,Port Discovery,Soaring: Fantastic Flight,70,True
+2025-07-16,16:45,Tokyo DisneySea,Port Discovery,Stormrider,10,True
+2025-07-16,16:45,Tokyo DisneySea,Arabian Coast,The Magic Lamp Theater,15,True
+2025-07-16,16:45,Tokyo DisneySea,Fantasy Springs,Tinker Bell's Neverland Adventure,40,True
+2025-07-16,16:45,Tokyo DisneySea,American Waterfront,Tower of Terror,45,True
+2025-07-16,16:45,Tokyo DisneySea,American Waterfront,Toy Story Mania!,60,True
+2025-07-16,16:45,Tokyo DisneySea,American Waterfront,Turtle Talk,18,True
+2025-07-16,16:45,Tokyo DisneySea,Mediterranean Harbor,Venetian Gondolas,5,True
 2025-07-16,16:45,Tokyo Disneyland,Fantasyland,Alice's Tea Party,5,True
 2025-07-16,16:45,Tokyo Disneyland,Tomorrowland,Baymax's Happy Ride,25,True
 2025-07-16,16:45,Tokyo Disneyland,Fantasyland,Beauty and the Beast,15,True
@@ -5017,6 +5385,30 @@ date,time,park,land,attraction,wait_time,is_open
 2025-07-16,16:45,Tokyo Disneyland,Westernland,Tom Sawyer Island Rafts,5,True
 2025-07-16,16:45,Tokyo Disneyland,Westernland,Western River Railroad,10,True
 2025-07-16,16:45,Tokyo Disneyland,Fantasyland,it's a small world,20,True
+2025-07-16,17:15,Tokyo DisneySea,Port Discovery,Aquatopia,20,True
+2025-07-16,17:15,Tokyo DisneySea,Mermaid Lagoon,Blowfish Balloon Race,18,True
+2025-07-16,17:15,Tokyo DisneySea,Arabian Coast,Caravan Carousel,5,True
+2025-07-16,17:15,Tokyo DisneySea,American Waterfront,DisneySea Electric Railway,15,True
+2025-07-16,17:15,Tokyo DisneySea,Mediterranean Harbor,DisneySea Transit Steamer Line,5,True
+2025-07-16,17:15,Tokyo DisneySea,Fantasy Springs,Frozen Ever After,85,True
+2025-07-16,17:15,Tokyo DisneySea,Lost River Delta,Indiana Jones Adventure: Temple of the Crystal Skull,45,True
+2025-07-16,17:15,Tokyo DisneySea,Arabian Coast,Jasmine's Flying Carpets,15,True
+2025-07-16,17:15,Tokyo DisneySea,Mysterious Island,Journey to the Center of the Earth,60,True
+2025-07-16,17:15,Tokyo DisneySea,Mermaid Lagoon,Jumpin' Jellyfish,8,True
+2025-07-16,17:15,Tokyo DisneySea,Port Discovery,Nemo & Friends SeaRider,12,True
+2025-07-16,17:15,Tokyo DisneySea,Fantasy Springs,Peter Pan's Neverland Adventure,32,True
+2025-07-16,17:15,Tokyo DisneySea,Lost River Delta,Raging Spirits,40,True
+2025-07-16,17:15,Tokyo DisneySea,Fantasy Springs,Rapunzel's Lantern Festival,25,True
+2025-07-16,17:15,Tokyo DisneySea,Mermaid Lagoon,Scuttle's Scooters,10,True
+2025-07-16,17:15,Tokyo DisneySea,Arabian Coast,Sindbad's Storybook Voyage,5,True
+2025-07-16,17:15,Tokyo DisneySea,Port Discovery,Soaring: Fantastic Flight,80,True
+2025-07-16,17:15,Tokyo DisneySea,Port Discovery,Stormrider,8,True
+2025-07-16,17:15,Tokyo DisneySea,Arabian Coast,The Magic Lamp Theater,15,True
+2025-07-16,17:15,Tokyo DisneySea,Fantasy Springs,Tinker Bell's Neverland Adventure,28,True
+2025-07-16,17:15,Tokyo DisneySea,American Waterfront,Tower of Terror,45,True
+2025-07-16,17:15,Tokyo DisneySea,American Waterfront,Toy Story Mania!,70,True
+2025-07-16,17:15,Tokyo DisneySea,American Waterfront,Turtle Talk,8,True
+2025-07-16,17:15,Tokyo DisneySea,Mediterranean Harbor,Venetian Gondolas,15,True
 2025-07-16,17:15,Tokyo Disneyland,Fantasyland,Alice's Tea Party,5,True
 2025-07-16,17:15,Tokyo Disneyland,Tomorrowland,Baymax's Happy Ride,25,True
 2025-07-16,17:15,Tokyo Disneyland,Fantasyland,Beauty and the Beast,15,True
@@ -5044,6 +5436,30 @@ date,time,park,land,attraction,wait_time,is_open
 2025-07-16,17:15,Tokyo Disneyland,Adventureland,The Enchanted Tiki Room: Stitch Presents,10,True
 2025-07-16,17:15,Tokyo Disneyland,Westernland,Western River Railroad,10,True
 2025-07-16,17:15,Tokyo Disneyland,Fantasyland,it's a small world,10,True
+2025-07-16,17:45,Tokyo DisneySea,Port Discovery,Aquatopia,10,True
+2025-07-16,17:45,Tokyo DisneySea,Mermaid Lagoon,Blowfish Balloon Race,15,True
+2025-07-16,17:45,Tokyo DisneySea,Arabian Coast,Caravan Carousel,5,True
+2025-07-16,17:45,Tokyo DisneySea,American Waterfront,DisneySea Electric Railway,10,True
+2025-07-16,17:45,Tokyo DisneySea,Mediterranean Harbor,DisneySea Transit Steamer Line,5,True
+2025-07-16,17:45,Tokyo DisneySea,Fantasy Springs,Frozen Ever After,85,True
+2025-07-16,17:45,Tokyo DisneySea,Lost River Delta,Indiana Jones Adventure: Temple of the Crystal Skull,50,True
+2025-07-16,17:45,Tokyo DisneySea,Arabian Coast,Jasmine's Flying Carpets,12,True
+2025-07-16,17:45,Tokyo DisneySea,Mysterious Island,Journey to the Center of the Earth,55,True
+2025-07-16,17:45,Tokyo DisneySea,Mermaid Lagoon,Jumpin' Jellyfish,8,True
+2025-07-16,17:45,Tokyo DisneySea,Port Discovery,Nemo & Friends SeaRider,12,True
+2025-07-16,17:45,Tokyo DisneySea,Fantasy Springs,Peter Pan's Neverland Adventure,25,True
+2025-07-16,17:45,Tokyo DisneySea,Lost River Delta,Raging Spirits,25,True
+2025-07-16,17:45,Tokyo DisneySea,Fantasy Springs,Rapunzel's Lantern Festival,18,True
+2025-07-16,17:45,Tokyo DisneySea,Mermaid Lagoon,Scuttle's Scooters,10,True
+2025-07-16,17:45,Tokyo DisneySea,Arabian Coast,Sindbad's Storybook Voyage,5,True
+2025-07-16,17:45,Tokyo DisneySea,Port Discovery,Soaring: Fantastic Flight,65,True
+2025-07-16,17:45,Tokyo DisneySea,Port Discovery,Stormrider,8,True
+2025-07-16,17:45,Tokyo DisneySea,Arabian Coast,The Magic Lamp Theater,15,True
+2025-07-16,17:45,Tokyo DisneySea,Fantasy Springs,Tinker Bell's Neverland Adventure,25,True
+2025-07-16,17:45,Tokyo DisneySea,American Waterfront,Tower of Terror,40,True
+2025-07-16,17:45,Tokyo DisneySea,American Waterfront,Toy Story Mania!,55,True
+2025-07-16,17:45,Tokyo DisneySea,American Waterfront,Turtle Talk,8,True
+2025-07-16,17:45,Tokyo DisneySea,Mediterranean Harbor,Venetian Gondolas,10,True
 2025-07-16,17:45,Tokyo Disneyland,Fantasyland,Alice's Tea Party,5,True
 2025-07-16,17:45,Tokyo Disneyland,Tomorrowland,Baymax's Happy Ride,25,True
 2025-07-16,17:45,Tokyo Disneyland,Fantasyland,Beauty and the Beast,15,True
@@ -5069,6 +5485,30 @@ date,time,park,land,attraction,wait_time,is_open
 2025-07-16,17:45,Tokyo Disneyland,Adventureland,The Enchanted Tiki Room: Stitch Presents,10,True
 2025-07-16,17:45,Tokyo Disneyland,Westernland,Western River Railroad,10,True
 2025-07-16,17:45,Tokyo Disneyland,Fantasyland,it's a small world,15,True
+2025-07-16,18:15,Tokyo DisneySea,Port Discovery,Aquatopia,15,True
+2025-07-16,18:15,Tokyo DisneySea,Mermaid Lagoon,Blowfish Balloon Race,10,True
+2025-07-16,18:15,Tokyo DisneySea,Arabian Coast,Caravan Carousel,5,True
+2025-07-16,18:15,Tokyo DisneySea,American Waterfront,DisneySea Electric Railway,10,True
+2025-07-16,18:15,Tokyo DisneySea,Mediterranean Harbor,DisneySea Transit Steamer Line,2,True
+2025-07-16,18:15,Tokyo DisneySea,Fantasy Springs,Frozen Ever After,80,True
+2025-07-16,18:15,Tokyo DisneySea,Lost River Delta,Indiana Jones Adventure: Temple of the Crystal Skull,32,True
+2025-07-16,18:15,Tokyo DisneySea,Arabian Coast,Jasmine's Flying Carpets,12,True
+2025-07-16,18:15,Tokyo DisneySea,Mysterious Island,Journey to the Center of the Earth,55,True
+2025-07-16,18:15,Tokyo DisneySea,Mermaid Lagoon,Jumpin' Jellyfish,8,True
+2025-07-16,18:15,Tokyo DisneySea,Port Discovery,Nemo & Friends SeaRider,10,True
+2025-07-16,18:15,Tokyo DisneySea,Fantasy Springs,Peter Pan's Neverland Adventure,20,True
+2025-07-16,18:15,Tokyo DisneySea,Lost River Delta,Raging Spirits,25,True
+2025-07-16,18:15,Tokyo DisneySea,Fantasy Springs,Rapunzel's Lantern Festival,22,True
+2025-07-16,18:15,Tokyo DisneySea,Mermaid Lagoon,Scuttle's Scooters,10,True
+2025-07-16,18:15,Tokyo DisneySea,Arabian Coast,Sindbad's Storybook Voyage,5,True
+2025-07-16,18:15,Tokyo DisneySea,Port Discovery,Soaring: Fantastic Flight,65,True
+2025-07-16,18:15,Tokyo DisneySea,Port Discovery,Stormrider,10,True
+2025-07-16,18:15,Tokyo DisneySea,Arabian Coast,The Magic Lamp Theater,15,True
+2025-07-16,18:15,Tokyo DisneySea,Fantasy Springs,Tinker Bell's Neverland Adventure,25,True
+2025-07-16,18:15,Tokyo DisneySea,American Waterfront,Tower of Terror,55,True
+2025-07-16,18:15,Tokyo DisneySea,American Waterfront,Toy Story Mania!,55,True
+2025-07-16,18:15,Tokyo DisneySea,American Waterfront,Turtle Talk,15,True
+2025-07-16,18:15,Tokyo DisneySea,Mediterranean Harbor,Venetian Gondolas,10,True
 2025-07-16,18:15,Tokyo Disneyland,Fantasyland,Alice's Tea Party,5,True
 2025-07-16,18:15,Tokyo Disneyland,Tomorrowland,Baymax's Happy Ride,30,True
 2025-07-16,18:15,Tokyo Disneyland,Fantasyland,Beauty and the Beast,15,True
@@ -5094,6 +5534,28 @@ date,time,park,land,attraction,wait_time,is_open
 2025-07-16,18:15,Tokyo Disneyland,Adventureland,The Enchanted Tiki Room: Stitch Presents,10,True
 2025-07-16,18:15,Tokyo Disneyland,Westernland,Western River Railroad,10,True
 2025-07-16,18:15,Tokyo Disneyland,Fantasyland,it's a small world,20,True
+2025-07-16,18:45,Tokyo DisneySea,Port Discovery,Aquatopia,15,True
+2025-07-16,18:45,Tokyo DisneySea,Mermaid Lagoon,Blowfish Balloon Race,12,True
+2025-07-16,18:45,Tokyo DisneySea,Arabian Coast,Caravan Carousel,5,True
+2025-07-16,18:45,Tokyo DisneySea,American Waterfront,DisneySea Electric Railway,15,True
+2025-07-16,18:45,Tokyo DisneySea,Fantasy Springs,Frozen Ever After,70,True
+2025-07-16,18:45,Tokyo DisneySea,Lost River Delta,Indiana Jones Adventure: Temple of the Crystal Skull,40,True
+2025-07-16,18:45,Tokyo DisneySea,Arabian Coast,Jasmine's Flying Carpets,15,True
+2025-07-16,18:45,Tokyo DisneySea,Mysterious Island,Journey to the Center of the Earth,40,True
+2025-07-16,18:45,Tokyo DisneySea,Mermaid Lagoon,Jumpin' Jellyfish,8,True
+2025-07-16,18:45,Tokyo DisneySea,Port Discovery,Nemo & Friends SeaRider,15,True
+2025-07-16,18:45,Tokyo DisneySea,Fantasy Springs,Peter Pan's Neverland Adventure,15,True
+2025-07-16,18:45,Tokyo DisneySea,Lost River Delta,Raging Spirits,30,True
+2025-07-16,18:45,Tokyo DisneySea,Fantasy Springs,Rapunzel's Lantern Festival,18,True
+2025-07-16,18:45,Tokyo DisneySea,Mermaid Lagoon,Scuttle's Scooters,15,True
+2025-07-16,18:45,Tokyo DisneySea,Arabian Coast,Sindbad's Storybook Voyage,5,True
+2025-07-16,18:45,Tokyo DisneySea,Port Discovery,Soaring: Fantastic Flight,55,True
+2025-07-16,18:45,Tokyo DisneySea,Port Discovery,Stormrider,2,True
+2025-07-16,18:45,Tokyo DisneySea,Arabian Coast,The Magic Lamp Theater,15,True
+2025-07-16,18:45,Tokyo DisneySea,Fantasy Springs,Tinker Bell's Neverland Adventure,25,True
+2025-07-16,18:45,Tokyo DisneySea,American Waterfront,Tower of Terror,45,True
+2025-07-16,18:45,Tokyo DisneySea,American Waterfront,Toy Story Mania!,55,True
+2025-07-16,18:45,Tokyo DisneySea,American Waterfront,Turtle Talk,18,True
 2025-07-16,18:45,Tokyo Disneyland,Fantasyland,Alice's Tea Party,5,True
 2025-07-16,18:45,Tokyo Disneyland,Tomorrowland,Baymax's Happy Ride,25,True
 2025-07-16,18:45,Tokyo Disneyland,Fantasyland,Beauty and the Beast,15,True
@@ -5119,6 +5581,28 @@ date,time,park,land,attraction,wait_time,is_open
 2025-07-16,18:45,Tokyo Disneyland,Adventureland,The Enchanted Tiki Room: Stitch Presents,10,True
 2025-07-16,18:45,Tokyo Disneyland,Westernland,Western River Railroad,10,True
 2025-07-16,18:45,Tokyo Disneyland,Fantasyland,it's a small world,20,True
+2025-07-16,19:15,Tokyo DisneySea,Port Discovery,Aquatopia,12,True
+2025-07-16,19:15,Tokyo DisneySea,Mermaid Lagoon,Blowfish Balloon Race,10,True
+2025-07-16,19:15,Tokyo DisneySea,Arabian Coast,Caravan Carousel,5,True
+2025-07-16,19:15,Tokyo DisneySea,American Waterfront,DisneySea Electric Railway,8,True
+2025-07-16,19:15,Tokyo DisneySea,Fantasy Springs,Frozen Ever After,70,True
+2025-07-16,19:15,Tokyo DisneySea,Lost River Delta,Indiana Jones Adventure: Temple of the Crystal Skull,28,True
+2025-07-16,19:15,Tokyo DisneySea,Arabian Coast,Jasmine's Flying Carpets,10,True
+2025-07-16,19:15,Tokyo DisneySea,Mysterious Island,Journey to the Center of the Earth,50,True
+2025-07-16,19:15,Tokyo DisneySea,Mermaid Lagoon,Jumpin' Jellyfish,5,True
+2025-07-16,19:15,Tokyo DisneySea,Port Discovery,Nemo & Friends SeaRider,15,True
+2025-07-16,19:15,Tokyo DisneySea,Fantasy Springs,Peter Pan's Neverland Adventure,12,True
+2025-07-16,19:15,Tokyo DisneySea,Lost River Delta,Raging Spirits,45,True
+2025-07-16,19:15,Tokyo DisneySea,Fantasy Springs,Rapunzel's Lantern Festival,20,True
+2025-07-16,19:15,Tokyo DisneySea,Mermaid Lagoon,Scuttle's Scooters,10,True
+2025-07-16,19:15,Tokyo DisneySea,Arabian Coast,Sindbad's Storybook Voyage,5,True
+2025-07-16,19:15,Tokyo DisneySea,Port Discovery,Soaring: Fantastic Flight,55,True
+2025-07-16,19:15,Tokyo DisneySea,Port Discovery,Stormrider,2,True
+2025-07-16,19:15,Tokyo DisneySea,Arabian Coast,The Magic Lamp Theater,15,True
+2025-07-16,19:15,Tokyo DisneySea,Fantasy Springs,Tinker Bell's Neverland Adventure,35,True
+2025-07-16,19:15,Tokyo DisneySea,American Waterfront,Tower of Terror,40,True
+2025-07-16,19:15,Tokyo DisneySea,American Waterfront,Toy Story Mania!,45,True
+2025-07-16,19:15,Tokyo DisneySea,American Waterfront,Turtle Talk,18,True
 2025-07-16,19:15,Tokyo Disneyland,Fantasyland,Alice's Tea Party,5,True
 2025-07-16,19:15,Tokyo Disneyland,Tomorrowland,Baymax's Happy Ride,30,True
 2025-07-16,19:15,Tokyo Disneyland,Fantasyland,Beauty and the Beast,15,True
@@ -5143,6 +5627,28 @@ date,time,park,land,attraction,wait_time,is_open
 2025-07-16,19:15,Tokyo Disneyland,Tomorrowland,Star Tours,15,True
 2025-07-16,19:15,Tokyo Disneyland,Westernland,Western River Railroad,10,True
 2025-07-16,19:15,Tokyo Disneyland,Fantasyland,it's a small world,15,True
+2025-07-16,19:45,Tokyo DisneySea,Port Discovery,Aquatopia,12,True
+2025-07-16,19:45,Tokyo DisneySea,Mermaid Lagoon,Blowfish Balloon Race,5,True
+2025-07-16,19:45,Tokyo DisneySea,Arabian Coast,Caravan Carousel,5,True
+2025-07-16,19:45,Tokyo DisneySea,American Waterfront,DisneySea Electric Railway,8,True
+2025-07-16,19:45,Tokyo DisneySea,Fantasy Springs,Frozen Ever After,60,True
+2025-07-16,19:45,Tokyo DisneySea,Lost River Delta,Indiana Jones Adventure: Temple of the Crystal Skull,25,True
+2025-07-16,19:45,Tokyo DisneySea,Arabian Coast,Jasmine's Flying Carpets,5,True
+2025-07-16,19:45,Tokyo DisneySea,Mysterious Island,Journey to the Center of the Earth,40,True
+2025-07-16,19:45,Tokyo DisneySea,Mermaid Lagoon,Jumpin' Jellyfish,5,True
+2025-07-16,19:45,Tokyo DisneySea,Port Discovery,Nemo & Friends SeaRider,15,True
+2025-07-16,19:45,Tokyo DisneySea,Fantasy Springs,Peter Pan's Neverland Adventure,10,True
+2025-07-16,19:45,Tokyo DisneySea,Lost River Delta,Raging Spirits,30,True
+2025-07-16,19:45,Tokyo DisneySea,Fantasy Springs,Rapunzel's Lantern Festival,15,True
+2025-07-16,19:45,Tokyo DisneySea,Mermaid Lagoon,Scuttle's Scooters,8,True
+2025-07-16,19:45,Tokyo DisneySea,Arabian Coast,Sindbad's Storybook Voyage,5,True
+2025-07-16,19:45,Tokyo DisneySea,Port Discovery,Soaring: Fantastic Flight,50,True
+2025-07-16,19:45,Tokyo DisneySea,Port Discovery,Stormrider,2,True
+2025-07-16,19:45,Tokyo DisneySea,Arabian Coast,The Magic Lamp Theater,15,True
+2025-07-16,19:45,Tokyo DisneySea,Fantasy Springs,Tinker Bell's Neverland Adventure,30,True
+2025-07-16,19:45,Tokyo DisneySea,American Waterfront,Tower of Terror,35,True
+2025-07-16,19:45,Tokyo DisneySea,American Waterfront,Toy Story Mania!,40,True
+2025-07-16,19:45,Tokyo DisneySea,American Waterfront,Turtle Talk,18,True
 2025-07-16,19:45,Tokyo Disneyland,Fantasyland,Alice's Tea Party,5,True
 2025-07-16,19:45,Tokyo Disneyland,Tomorrowland,Baymax's Happy Ride,25,True
 2025-07-16,19:45,Tokyo Disneyland,Fantasyland,Beauty and the Beast,15,True
@@ -5167,6 +5673,28 @@ date,time,park,land,attraction,wait_time,is_open
 2025-07-16,19:45,Tokyo Disneyland,Tomorrowland,Star Tours,5,True
 2025-07-16,19:45,Tokyo Disneyland,Westernland,Western River Railroad,15,True
 2025-07-16,19:45,Tokyo Disneyland,Fantasyland,it's a small world,10,True
+2025-07-16,20:15,Tokyo DisneySea,Port Discovery,Aquatopia,5,True
+2025-07-16,20:15,Tokyo DisneySea,Mermaid Lagoon,Blowfish Balloon Race,5,True
+2025-07-16,20:15,Tokyo DisneySea,Arabian Coast,Caravan Carousel,5,True
+2025-07-16,20:15,Tokyo DisneySea,American Waterfront,DisneySea Electric Railway,5,True
+2025-07-16,20:15,Tokyo DisneySea,Fantasy Springs,Frozen Ever After,50,True
+2025-07-16,20:15,Tokyo DisneySea,Lost River Delta,Indiana Jones Adventure: Temple of the Crystal Skull,15,True
+2025-07-16,20:15,Tokyo DisneySea,Arabian Coast,Jasmine's Flying Carpets,5,True
+2025-07-16,20:15,Tokyo DisneySea,Mysterious Island,Journey to the Center of the Earth,35,True
+2025-07-16,20:15,Tokyo DisneySea,Mermaid Lagoon,Jumpin' Jellyfish,5,True
+2025-07-16,20:15,Tokyo DisneySea,Port Discovery,Nemo & Friends SeaRider,15,True
+2025-07-16,20:15,Tokyo DisneySea,Fantasy Springs,Peter Pan's Neverland Adventure,10,True
+2025-07-16,20:15,Tokyo DisneySea,Lost River Delta,Raging Spirits,5,True
+2025-07-16,20:15,Tokyo DisneySea,Fantasy Springs,Rapunzel's Lantern Festival,10,True
+2025-07-16,20:15,Tokyo DisneySea,Mermaid Lagoon,Scuttle's Scooters,5,True
+2025-07-16,20:15,Tokyo DisneySea,Arabian Coast,Sindbad's Storybook Voyage,5,True
+2025-07-16,20:15,Tokyo DisneySea,Port Discovery,Soaring: Fantastic Flight,35,True
+2025-07-16,20:15,Tokyo DisneySea,Port Discovery,Stormrider,2,True
+2025-07-16,20:15,Tokyo DisneySea,Arabian Coast,The Magic Lamp Theater,15,True
+2025-07-16,20:15,Tokyo DisneySea,Fantasy Springs,Tinker Bell's Neverland Adventure,15,True
+2025-07-16,20:15,Tokyo DisneySea,American Waterfront,Tower of Terror,35,True
+2025-07-16,20:15,Tokyo DisneySea,American Waterfront,Toy Story Mania!,35,True
+2025-07-16,20:15,Tokyo DisneySea,American Waterfront,Turtle Talk,18,True
 2025-07-16,20:15,Tokyo Disneyland,Fantasyland,Alice's Tea Party,5,True
 2025-07-16,20:15,Tokyo Disneyland,Tomorrowland,Baymax's Happy Ride,30,True
 2025-07-16,20:15,Tokyo Disneyland,Fantasyland,Beauty and the Beast,15,True
@@ -5188,6 +5716,28 @@ date,time,park,land,attraction,wait_time,is_open
 2025-07-16,20:15,Tokyo Disneyland,Tomorrowland,Star Tours,5,True
 2025-07-16,20:15,Tokyo Disneyland,Westernland,Western River Railroad,15,True
 2025-07-16,20:15,Tokyo Disneyland,Fantasyland,it's a small world,15,True
+2025-07-16,20:45,Tokyo DisneySea,Port Discovery,Aquatopia,5,True
+2025-07-16,20:45,Tokyo DisneySea,Mermaid Lagoon,Blowfish Balloon Race,5,True
+2025-07-16,20:45,Tokyo DisneySea,Arabian Coast,Caravan Carousel,5,True
+2025-07-16,20:45,Tokyo DisneySea,American Waterfront,DisneySea Electric Railway,5,True
+2025-07-16,20:45,Tokyo DisneySea,Fantasy Springs,Frozen Ever After,38,True
+2025-07-16,20:45,Tokyo DisneySea,Lost River Delta,Indiana Jones Adventure: Temple of the Crystal Skull,8,True
+2025-07-16,20:45,Tokyo DisneySea,Arabian Coast,Jasmine's Flying Carpets,5,True
+2025-07-16,20:45,Tokyo DisneySea,Mysterious Island,Journey to the Center of the Earth,22,True
+2025-07-16,20:45,Tokyo DisneySea,Mermaid Lagoon,Jumpin' Jellyfish,5,True
+2025-07-16,20:45,Tokyo DisneySea,Port Discovery,Nemo & Friends SeaRider,15,True
+2025-07-16,20:45,Tokyo DisneySea,Fantasy Springs,Peter Pan's Neverland Adventure,0,False
+2025-07-16,20:45,Tokyo DisneySea,Lost River Delta,Raging Spirits,10,True
+2025-07-16,20:45,Tokyo DisneySea,Fantasy Springs,Rapunzel's Lantern Festival,5,True
+2025-07-16,20:45,Tokyo DisneySea,Mermaid Lagoon,Scuttle's Scooters,5,True
+2025-07-16,20:45,Tokyo DisneySea,Arabian Coast,Sindbad's Storybook Voyage,5,True
+2025-07-16,20:45,Tokyo DisneySea,Port Discovery,Soaring: Fantastic Flight,25,True
+2025-07-16,20:45,Tokyo DisneySea,Port Discovery,Stormrider,2,True
+2025-07-16,20:45,Tokyo DisneySea,Arabian Coast,The Magic Lamp Theater,0,False
+2025-07-16,20:45,Tokyo DisneySea,Fantasy Springs,Tinker Bell's Neverland Adventure,20,True
+2025-07-16,20:45,Tokyo DisneySea,American Waterfront,Tower of Terror,35,True
+2025-07-16,20:45,Tokyo DisneySea,American Waterfront,Toy Story Mania!,25,True
+2025-07-16,20:45,Tokyo DisneySea,American Waterfront,Turtle Talk,12,True
 2025-07-16,20:45,Tokyo Disneyland,Fantasyland,Alice's Tea Party,5,True
 2025-07-16,20:45,Tokyo Disneyland,Tomorrowland,Baymax's Happy Ride,30,True
 2025-07-16,20:45,Tokyo Disneyland,Fantasyland,Beauty and the Beast,15,True
@@ -5209,6 +5759,30 @@ date,time,park,land,attraction,wait_time,is_open
 2025-07-16,20:45,Tokyo Disneyland,Tomorrowland,Star Tours,5,True
 2025-07-16,20:45,Tokyo Disneyland,Westernland,Western River Railroad,15,True
 2025-07-16,20:45,Tokyo Disneyland,Fantasyland,it's a small world,5,True
+2025-07-17,09:15,Tokyo DisneySea,Port Discovery,Aquatopia,5,True
+2025-07-17,09:15,Tokyo DisneySea,Mermaid Lagoon,Blowfish Balloon Race,5,True
+2025-07-17,09:15,Tokyo DisneySea,Arabian Coast,Caravan Carousel,0,False
+2025-07-17,09:15,Tokyo DisneySea,American Waterfront,DisneySea Electric Railway,5,True
+2025-07-17,09:15,Tokyo DisneySea,Mediterranean Harbor,DisneySea Transit Steamer Line,5,True
+2025-07-17,09:15,Tokyo DisneySea,Mermaid Lagoon,Flounder's Flying Fish Coaster,5,True
+2025-07-17,09:15,Tokyo DisneySea,Fantasy Springs,Frozen Ever After,35,True
+2025-07-17,09:15,Tokyo DisneySea,Lost River Delta,Indiana Jones Adventure: Temple of the Crystal Skull,5,True
+2025-07-17,09:15,Tokyo DisneySea,Arabian Coast,Jasmine's Flying Carpets,5,True
+2025-07-17,09:15,Tokyo DisneySea,Mysterious Island,Journey to the Center of the Earth,18,True
+2025-07-17,09:15,Tokyo DisneySea,Mermaid Lagoon,Jumpin' Jellyfish,5,True
+2025-07-17,09:15,Tokyo DisneySea,Port Discovery,Nemo & Friends SeaRider,15,True
+2025-07-17,09:15,Tokyo DisneySea,Fantasy Springs,Peter Pan's Neverland Adventure,10,True
+2025-07-17,09:15,Tokyo DisneySea,Lost River Delta,Raging Spirits,5,True
+2025-07-17,09:15,Tokyo DisneySea,Fantasy Springs,Rapunzel's Lantern Festival,5,True
+2025-07-17,09:15,Tokyo DisneySea,Mermaid Lagoon,Scuttle's Scooters,5,True
+2025-07-17,09:15,Tokyo DisneySea,Arabian Coast,Sindbad's Storybook Voyage,5,True
+2025-07-17,09:15,Tokyo DisneySea,Port Discovery,Soaring: Fantastic Flight,55,True
+2025-07-17,09:15,Tokyo DisneySea,Port Discovery,Stormrider,5,True
+2025-07-17,09:15,Tokyo DisneySea,Arabian Coast,The Magic Lamp Theater,0,False
+2025-07-17,09:15,Tokyo DisneySea,Fantasy Springs,Tinker Bell's Neverland Adventure,12,True
+2025-07-17,09:15,Tokyo DisneySea,American Waterfront,Tower of Terror,12,True
+2025-07-17,09:15,Tokyo DisneySea,American Waterfront,Toy Story Mania!,30,True
+2025-07-17,09:15,Tokyo DisneySea,American Waterfront,Turtle Talk,18,True
 2025-07-17,09:15,Tokyo Disneyland,Fantasyland,Alice's Tea Party,5,True
 2025-07-17,09:15,Tokyo Disneyland,Tomorrowland,Baymax's Happy Ride,50,True
 2025-07-17,09:15,Tokyo Disneyland,Fantasyland,Beauty and the Beast,50,True
@@ -5234,6 +5808,29 @@ date,time,park,land,attraction,wait_time,is_open
 2025-07-17,09:15,Tokyo Disneyland,Westernland,Tom Sawyer Island Rafts,0,False
 2025-07-17,09:15,Tokyo Disneyland,Westernland,Western River Railroad,0,False
 2025-07-17,09:15,Tokyo Disneyland,Fantasyland,it's a small world,5,True
+2025-07-17,09:45,Tokyo DisneySea,Port Discovery,Aquatopia,5,True
+2025-07-17,09:45,Tokyo DisneySea,Mermaid Lagoon,Blowfish Balloon Race,5,True
+2025-07-17,09:45,Tokyo DisneySea,American Waterfront,DisneySea Electric Railway,8,True
+2025-07-17,09:45,Tokyo DisneySea,Mediterranean Harbor,DisneySea Transit Steamer Line,12,True
+2025-07-17,09:45,Tokyo DisneySea,Mermaid Lagoon,Flounder's Flying Fish Coaster,5,True
+2025-07-17,09:45,Tokyo DisneySea,Fantasy Springs,Frozen Ever After,110,True
+2025-07-17,09:45,Tokyo DisneySea,Lost River Delta,Indiana Jones Adventure: Temple of the Crystal Skull,28,True
+2025-07-17,09:45,Tokyo DisneySea,Arabian Coast,Jasmine's Flying Carpets,5,True
+2025-07-17,09:45,Tokyo DisneySea,Mysterious Island,Journey to the Center of the Earth,70,True
+2025-07-17,09:45,Tokyo DisneySea,Mermaid Lagoon,Jumpin' Jellyfish,5,True
+2025-07-17,09:45,Tokyo DisneySea,Port Discovery,Nemo & Friends SeaRider,15,True
+2025-07-17,09:45,Tokyo DisneySea,Fantasy Springs,Peter Pan's Neverland Adventure,35,True
+2025-07-17,09:45,Tokyo DisneySea,Lost River Delta,Raging Spirits,20,True
+2025-07-17,09:45,Tokyo DisneySea,Fantasy Springs,Rapunzel's Lantern Festival,50,True
+2025-07-17,09:45,Tokyo DisneySea,Mermaid Lagoon,Scuttle's Scooters,5,True
+2025-07-17,09:45,Tokyo DisneySea,Arabian Coast,Sindbad's Storybook Voyage,5,True
+2025-07-17,09:45,Tokyo DisneySea,Port Discovery,Soaring: Fantastic Flight,85,True
+2025-07-17,09:45,Tokyo DisneySea,Port Discovery,Stormrider,5,True
+2025-07-17,09:45,Tokyo DisneySea,Arabian Coast,The Magic Lamp Theater,0,False
+2025-07-17,09:45,Tokyo DisneySea,Fantasy Springs,Tinker Bell's Neverland Adventure,35,True
+2025-07-17,09:45,Tokyo DisneySea,American Waterfront,Tower of Terror,55,True
+2025-07-17,09:45,Tokyo DisneySea,American Waterfront,Toy Story Mania!,55,True
+2025-07-17,09:45,Tokyo DisneySea,American Waterfront,Turtle Talk,18,True
 2025-07-17,09:45,Tokyo Disneyland,Fantasyland,Alice's Tea Party,5,True
 2025-07-17,09:45,Tokyo Disneyland,Tomorrowland,Baymax's Happy Ride,60,True
 2025-07-17,09:45,Tokyo Disneyland,Fantasyland,Beauty and the Beast,60,True
@@ -5256,6 +5853,30 @@ date,time,park,land,attraction,wait_time,is_open
 2025-07-17,09:45,Tokyo Disneyland,Tomorrowland,Star Tours,5,True
 2025-07-17,09:45,Tokyo Disneyland,Westernland,Western River Railroad,5,True
 2025-07-17,09:45,Tokyo Disneyland,Fantasyland,it's a small world,15,True
+2025-07-17,10:15,Tokyo DisneySea,Port Discovery,Aquatopia,25,True
+2025-07-17,10:15,Tokyo DisneySea,Mermaid Lagoon,Blowfish Balloon Race,10,True
+2025-07-17,10:15,Tokyo DisneySea,Arabian Coast,Caravan Carousel,5,True
+2025-07-17,10:15,Tokyo DisneySea,American Waterfront,DisneySea Electric Railway,22,True
+2025-07-17,10:15,Tokyo DisneySea,Mediterranean Harbor,DisneySea Transit Steamer Line,12,True
+2025-07-17,10:15,Tokyo DisneySea,Mermaid Lagoon,Flounder's Flying Fish Coaster,10,True
+2025-07-17,10:15,Tokyo DisneySea,Fantasy Springs,Frozen Ever After,120,True
+2025-07-17,10:15,Tokyo DisneySea,Lost River Delta,Indiana Jones Adventure: Temple of the Crystal Skull,55,True
+2025-07-17,10:15,Tokyo DisneySea,Arabian Coast,Jasmine's Flying Carpets,5,True
+2025-07-17,10:15,Tokyo DisneySea,Mysterious Island,Journey to the Center of the Earth,60,True
+2025-07-17,10:15,Tokyo DisneySea,Mermaid Lagoon,Jumpin' Jellyfish,5,True
+2025-07-17,10:15,Tokyo DisneySea,Port Discovery,Nemo & Friends SeaRider,18,True
+2025-07-17,10:15,Tokyo DisneySea,Fantasy Springs,Peter Pan's Neverland Adventure,55,True
+2025-07-17,10:15,Tokyo DisneySea,Lost River Delta,Raging Spirits,30,True
+2025-07-17,10:15,Tokyo DisneySea,Fantasy Springs,Rapunzel's Lantern Festival,50,True
+2025-07-17,10:15,Tokyo DisneySea,Mermaid Lagoon,Scuttle's Scooters,5,True
+2025-07-17,10:15,Tokyo DisneySea,Arabian Coast,Sindbad's Storybook Voyage,5,True
+2025-07-17,10:15,Tokyo DisneySea,Port Discovery,Soaring: Fantastic Flight,105,True
+2025-07-17,10:15,Tokyo DisneySea,Port Discovery,Stormrider,5,True
+2025-07-17,10:15,Tokyo DisneySea,Arabian Coast,The Magic Lamp Theater,15,True
+2025-07-17,10:15,Tokyo DisneySea,Fantasy Springs,Tinker Bell's Neverland Adventure,50,True
+2025-07-17,10:15,Tokyo DisneySea,American Waterfront,Tower of Terror,75,True
+2025-07-17,10:15,Tokyo DisneySea,American Waterfront,Toy Story Mania!,75,True
+2025-07-17,10:15,Tokyo DisneySea,American Waterfront,Turtle Talk,18,True
 2025-07-17,10:15,Tokyo Disneyland,Fantasyland,Alice's Tea Party,5,True
 2025-07-17,10:15,Tokyo Disneyland,Tomorrowland,Baymax's Happy Ride,40,True
 2025-07-17,10:15,Tokyo Disneyland,Fantasyland,Beauty and the Beast,50,True
@@ -5282,6 +5903,30 @@ date,time,park,land,attraction,wait_time,is_open
 2025-07-17,10:15,Tokyo Disneyland,Adventureland,The Enchanted Tiki Room: Stitch Presents,10,True
 2025-07-17,10:15,Tokyo Disneyland,Westernland,Western River Railroad,5,True
 2025-07-17,10:15,Tokyo Disneyland,Fantasyland,it's a small world,20,True
+2025-07-17,10:45,Tokyo DisneySea,Port Discovery,Aquatopia,40,True
+2025-07-17,10:45,Tokyo DisneySea,Mermaid Lagoon,Blowfish Balloon Race,12,True
+2025-07-17,10:45,Tokyo DisneySea,Arabian Coast,Caravan Carousel,5,True
+2025-07-17,10:45,Tokyo DisneySea,American Waterfront,DisneySea Electric Railway,20,True
+2025-07-17,10:45,Tokyo DisneySea,Mediterranean Harbor,DisneySea Transit Steamer Line,10,True
+2025-07-17,10:45,Tokyo DisneySea,Mermaid Lagoon,Flounder's Flying Fish Coaster,15,True
+2025-07-17,10:45,Tokyo DisneySea,Fantasy Springs,Frozen Ever After,100,True
+2025-07-17,10:45,Tokyo DisneySea,Lost River Delta,Indiana Jones Adventure: Temple of the Crystal Skull,60,True
+2025-07-17,10:45,Tokyo DisneySea,Arabian Coast,Jasmine's Flying Carpets,5,True
+2025-07-17,10:45,Tokyo DisneySea,Mysterious Island,Journey to the Center of the Earth,55,True
+2025-07-17,10:45,Tokyo DisneySea,Mermaid Lagoon,Jumpin' Jellyfish,8,True
+2025-07-17,10:45,Tokyo DisneySea,Port Discovery,Nemo & Friends SeaRider,18,True
+2025-07-17,10:45,Tokyo DisneySea,Fantasy Springs,Peter Pan's Neverland Adventure,40,True
+2025-07-17,10:45,Tokyo DisneySea,Lost River Delta,Raging Spirits,25,True
+2025-07-17,10:45,Tokyo DisneySea,Fantasy Springs,Rapunzel's Lantern Festival,45,True
+2025-07-17,10:45,Tokyo DisneySea,Mermaid Lagoon,Scuttle's Scooters,5,True
+2025-07-17,10:45,Tokyo DisneySea,Arabian Coast,Sindbad's Storybook Voyage,5,True
+2025-07-17,10:45,Tokyo DisneySea,Port Discovery,Soaring: Fantastic Flight,70,True
+2025-07-17,10:45,Tokyo DisneySea,Port Discovery,Stormrider,5,True
+2025-07-17,10:45,Tokyo DisneySea,Arabian Coast,The Magic Lamp Theater,15,True
+2025-07-17,10:45,Tokyo DisneySea,Fantasy Springs,Tinker Bell's Neverland Adventure,40,True
+2025-07-17,10:45,Tokyo DisneySea,American Waterfront,Tower of Terror,65,True
+2025-07-17,10:45,Tokyo DisneySea,American Waterfront,Toy Story Mania!,70,True
+2025-07-17,10:45,Tokyo DisneySea,American Waterfront,Turtle Talk,18,True
 2025-07-17,10:45,Tokyo Disneyland,Fantasyland,Alice's Tea Party,5,True
 2025-07-17,10:45,Tokyo Disneyland,Tomorrowland,Baymax's Happy Ride,40,True
 2025-07-17,10:45,Tokyo Disneyland,Fantasyland,Beauty and the Beast,30,True
@@ -5308,6 +5953,30 @@ date,time,park,land,attraction,wait_time,is_open
 2025-07-17,10:45,Tokyo Disneyland,Adventureland,The Enchanted Tiki Room: Stitch Presents,10,True
 2025-07-17,10:45,Tokyo Disneyland,Westernland,Western River Railroad,10,True
 2025-07-17,10:45,Tokyo Disneyland,Fantasyland,it's a small world,20,True
+2025-07-17,11:15,Tokyo DisneySea,Port Discovery,Aquatopia,45,True
+2025-07-17,11:15,Tokyo DisneySea,Mermaid Lagoon,Blowfish Balloon Race,15,True
+2025-07-17,11:15,Tokyo DisneySea,Arabian Coast,Caravan Carousel,5,True
+2025-07-17,11:15,Tokyo DisneySea,American Waterfront,DisneySea Electric Railway,15,True
+2025-07-17,11:15,Tokyo DisneySea,Mediterranean Harbor,DisneySea Transit Steamer Line,5,True
+2025-07-17,11:15,Tokyo DisneySea,Mermaid Lagoon,Flounder's Flying Fish Coaster,15,True
+2025-07-17,11:15,Tokyo DisneySea,Fantasy Springs,Frozen Ever After,85,True
+2025-07-17,11:15,Tokyo DisneySea,Lost River Delta,Indiana Jones Adventure: Temple of the Crystal Skull,55,True
+2025-07-17,11:15,Tokyo DisneySea,Arabian Coast,Jasmine's Flying Carpets,5,True
+2025-07-17,11:15,Tokyo DisneySea,Mysterious Island,Journey to the Center of the Earth,60,True
+2025-07-17,11:15,Tokyo DisneySea,Mermaid Lagoon,Jumpin' Jellyfish,10,True
+2025-07-17,11:15,Tokyo DisneySea,Port Discovery,Nemo & Friends SeaRider,20,True
+2025-07-17,11:15,Tokyo DisneySea,Fantasy Springs,Peter Pan's Neverland Adventure,30,True
+2025-07-17,11:15,Tokyo DisneySea,Lost River Delta,Raging Spirits,25,True
+2025-07-17,11:15,Tokyo DisneySea,Fantasy Springs,Rapunzel's Lantern Festival,50,True
+2025-07-17,11:15,Tokyo DisneySea,Mermaid Lagoon,Scuttle's Scooters,5,True
+2025-07-17,11:15,Tokyo DisneySea,Arabian Coast,Sindbad's Storybook Voyage,5,True
+2025-07-17,11:15,Tokyo DisneySea,Port Discovery,Soaring: Fantastic Flight,85,True
+2025-07-17,11:15,Tokyo DisneySea,Port Discovery,Stormrider,5,True
+2025-07-17,11:15,Tokyo DisneySea,Arabian Coast,The Magic Lamp Theater,15,True
+2025-07-17,11:15,Tokyo DisneySea,Fantasy Springs,Tinker Bell's Neverland Adventure,30,True
+2025-07-17,11:15,Tokyo DisneySea,American Waterfront,Tower of Terror,60,True
+2025-07-17,11:15,Tokyo DisneySea,American Waterfront,Toy Story Mania!,50,True
+2025-07-17,11:15,Tokyo DisneySea,American Waterfront,Turtle Talk,18,True
 2025-07-17,11:15,Tokyo Disneyland,Fantasyland,Alice's Tea Party,5,True
 2025-07-17,11:15,Tokyo Disneyland,Tomorrowland,Baymax's Happy Ride,60,True
 2025-07-17,11:15,Tokyo Disneyland,Fantasyland,Beauty and the Beast,60,True
@@ -5335,6 +6004,30 @@ date,time,park,land,attraction,wait_time,is_open
 2025-07-17,11:15,Tokyo Disneyland,Westernland,Tom Sawyer Island Rafts,5,True
 2025-07-17,11:15,Tokyo Disneyland,Westernland,Western River Railroad,10,True
 2025-07-17,11:15,Tokyo Disneyland,Fantasyland,it's a small world,25,True
+2025-07-17,11:45,Tokyo DisneySea,Port Discovery,Aquatopia,55,True
+2025-07-17,11:45,Tokyo DisneySea,Mermaid Lagoon,Blowfish Balloon Race,20,True
+2025-07-17,11:45,Tokyo DisneySea,Arabian Coast,Caravan Carousel,5,True
+2025-07-17,11:45,Tokyo DisneySea,American Waterfront,DisneySea Electric Railway,18,True
+2025-07-17,11:45,Tokyo DisneySea,Mediterranean Harbor,DisneySea Transit Steamer Line,5,True
+2025-07-17,11:45,Tokyo DisneySea,Mermaid Lagoon,Flounder's Flying Fish Coaster,15,True
+2025-07-17,11:45,Tokyo DisneySea,Fantasy Springs,Frozen Ever After,85,True
+2025-07-17,11:45,Tokyo DisneySea,Lost River Delta,Indiana Jones Adventure: Temple of the Crystal Skull,40,True
+2025-07-17,11:45,Tokyo DisneySea,Arabian Coast,Jasmine's Flying Carpets,2,True
+2025-07-17,11:45,Tokyo DisneySea,Mysterious Island,Journey to the Center of the Earth,70,True
+2025-07-17,11:45,Tokyo DisneySea,Mermaid Lagoon,Jumpin' Jellyfish,15,True
+2025-07-17,11:45,Tokyo DisneySea,Port Discovery,Nemo & Friends SeaRider,20,True
+2025-07-17,11:45,Tokyo DisneySea,Fantasy Springs,Peter Pan's Neverland Adventure,35,True
+2025-07-17,11:45,Tokyo DisneySea,Lost River Delta,Raging Spirits,20,True
+2025-07-17,11:45,Tokyo DisneySea,Fantasy Springs,Rapunzel's Lantern Festival,40,True
+2025-07-17,11:45,Tokyo DisneySea,Mermaid Lagoon,Scuttle's Scooters,5,True
+2025-07-17,11:45,Tokyo DisneySea,Arabian Coast,Sindbad's Storybook Voyage,5,True
+2025-07-17,11:45,Tokyo DisneySea,Port Discovery,Soaring: Fantastic Flight,65,True
+2025-07-17,11:45,Tokyo DisneySea,Port Discovery,Stormrider,5,True
+2025-07-17,11:45,Tokyo DisneySea,Arabian Coast,The Magic Lamp Theater,15,True
+2025-07-17,11:45,Tokyo DisneySea,Fantasy Springs,Tinker Bell's Neverland Adventure,30,True
+2025-07-17,11:45,Tokyo DisneySea,American Waterfront,Tower of Terror,55,True
+2025-07-17,11:45,Tokyo DisneySea,American Waterfront,Toy Story Mania!,40,True
+2025-07-17,11:45,Tokyo DisneySea,American Waterfront,Turtle Talk,18,True
 2025-07-17,11:45,Tokyo Disneyland,Fantasyland,Alice's Tea Party,5,True
 2025-07-17,11:45,Tokyo Disneyland,Tomorrowland,Baymax's Happy Ride,40,True
 2025-07-17,11:45,Tokyo Disneyland,Fantasyland,Beauty and the Beast,50,True
@@ -5362,6 +6055,30 @@ date,time,park,land,attraction,wait_time,is_open
 2025-07-17,11:45,Tokyo Disneyland,Westernland,Tom Sawyer Island Rafts,5,True
 2025-07-17,11:45,Tokyo Disneyland,Westernland,Western River Railroad,10,True
 2025-07-17,11:45,Tokyo Disneyland,Fantasyland,it's a small world,25,True
+2025-07-17,12:15,Tokyo DisneySea,Port Discovery,Aquatopia,50,True
+2025-07-17,12:15,Tokyo DisneySea,Mermaid Lagoon,Blowfish Balloon Race,18,True
+2025-07-17,12:15,Tokyo DisneySea,Arabian Coast,Caravan Carousel,5,True
+2025-07-17,12:15,Tokyo DisneySea,American Waterfront,DisneySea Electric Railway,18,True
+2025-07-17,12:15,Tokyo DisneySea,Mediterranean Harbor,DisneySea Transit Steamer Line,10,True
+2025-07-17,12:15,Tokyo DisneySea,Mermaid Lagoon,Flounder's Flying Fish Coaster,15,True
+2025-07-17,12:15,Tokyo DisneySea,Fantasy Springs,Frozen Ever After,90,True
+2025-07-17,12:15,Tokyo DisneySea,Lost River Delta,Indiana Jones Adventure: Temple of the Crystal Skull,55,True
+2025-07-17,12:15,Tokyo DisneySea,Arabian Coast,Jasmine's Flying Carpets,2,True
+2025-07-17,12:15,Tokyo DisneySea,Mysterious Island,Journey to the Center of the Earth,80,True
+2025-07-17,12:15,Tokyo DisneySea,Mermaid Lagoon,Jumpin' Jellyfish,10,True
+2025-07-17,12:15,Tokyo DisneySea,Port Discovery,Nemo & Friends SeaRider,20,True
+2025-07-17,12:15,Tokyo DisneySea,Fantasy Springs,Peter Pan's Neverland Adventure,40,True
+2025-07-17,12:15,Tokyo DisneySea,Lost River Delta,Raging Spirits,32,True
+2025-07-17,12:15,Tokyo DisneySea,Fantasy Springs,Rapunzel's Lantern Festival,60,True
+2025-07-17,12:15,Tokyo DisneySea,Mermaid Lagoon,Scuttle's Scooters,5,True
+2025-07-17,12:15,Tokyo DisneySea,Arabian Coast,Sindbad's Storybook Voyage,5,True
+2025-07-17,12:15,Tokyo DisneySea,Port Discovery,Soaring: Fantastic Flight,75,True
+2025-07-17,12:15,Tokyo DisneySea,Port Discovery,Stormrider,5,True
+2025-07-17,12:15,Tokyo DisneySea,Arabian Coast,The Magic Lamp Theater,15,True
+2025-07-17,12:15,Tokyo DisneySea,Fantasy Springs,Tinker Bell's Neverland Adventure,35,True
+2025-07-17,12:15,Tokyo DisneySea,American Waterfront,Tower of Terror,50,True
+2025-07-17,12:15,Tokyo DisneySea,American Waterfront,Toy Story Mania!,40,True
+2025-07-17,12:15,Tokyo DisneySea,American Waterfront,Turtle Talk,18,True
 2025-07-17,12:15,Tokyo Disneyland,Fantasyland,Alice's Tea Party,5,True
 2025-07-17,12:15,Tokyo Disneyland,Tomorrowland,Baymax's Happy Ride,40,True
 2025-07-17,12:15,Tokyo Disneyland,Fantasyland,Beauty and the Beast,30,True
@@ -5389,6 +6106,30 @@ date,time,park,land,attraction,wait_time,is_open
 2025-07-17,12:15,Tokyo Disneyland,Westernland,Tom Sawyer Island Rafts,5,True
 2025-07-17,12:15,Tokyo Disneyland,Westernland,Western River Railroad,10,True
 2025-07-17,12:15,Tokyo Disneyland,Fantasyland,it's a small world,25,True
+2025-07-17,12:45,Tokyo DisneySea,Port Discovery,Aquatopia,45,True
+2025-07-17,12:45,Tokyo DisneySea,Mermaid Lagoon,Blowfish Balloon Race,22,True
+2025-07-17,12:45,Tokyo DisneySea,Arabian Coast,Caravan Carousel,5,True
+2025-07-17,12:45,Tokyo DisneySea,American Waterfront,DisneySea Electric Railway,8,True
+2025-07-17,12:45,Tokyo DisneySea,Mediterranean Harbor,DisneySea Transit Steamer Line,10,True
+2025-07-17,12:45,Tokyo DisneySea,Mermaid Lagoon,Flounder's Flying Fish Coaster,15,True
+2025-07-17,12:45,Tokyo DisneySea,Fantasy Springs,Frozen Ever After,85,True
+2025-07-17,12:45,Tokyo DisneySea,Lost River Delta,Indiana Jones Adventure: Temple of the Crystal Skull,30,True
+2025-07-17,12:45,Tokyo DisneySea,Arabian Coast,Jasmine's Flying Carpets,5,True
+2025-07-17,12:45,Tokyo DisneySea,Mysterious Island,Journey to the Center of the Earth,75,True
+2025-07-17,12:45,Tokyo DisneySea,Mermaid Lagoon,Jumpin' Jellyfish,12,True
+2025-07-17,12:45,Tokyo DisneySea,Port Discovery,Nemo & Friends SeaRider,15,True
+2025-07-17,12:45,Tokyo DisneySea,Fantasy Springs,Peter Pan's Neverland Adventure,35,True
+2025-07-17,12:45,Tokyo DisneySea,Lost River Delta,Raging Spirits,50,True
+2025-07-17,12:45,Tokyo DisneySea,Fantasy Springs,Rapunzel's Lantern Festival,50,True
+2025-07-17,12:45,Tokyo DisneySea,Mermaid Lagoon,Scuttle's Scooters,5,True
+2025-07-17,12:45,Tokyo DisneySea,Arabian Coast,Sindbad's Storybook Voyage,5,True
+2025-07-17,12:45,Tokyo DisneySea,Port Discovery,Soaring: Fantastic Flight,65,True
+2025-07-17,12:45,Tokyo DisneySea,Port Discovery,Stormrider,5,True
+2025-07-17,12:45,Tokyo DisneySea,Arabian Coast,The Magic Lamp Theater,15,True
+2025-07-17,12:45,Tokyo DisneySea,Fantasy Springs,Tinker Bell's Neverland Adventure,35,True
+2025-07-17,12:45,Tokyo DisneySea,American Waterfront,Tower of Terror,45,True
+2025-07-17,12:45,Tokyo DisneySea,American Waterfront,Toy Story Mania!,35,True
+2025-07-17,12:45,Tokyo DisneySea,American Waterfront,Turtle Talk,18,True
 2025-07-17,12:45,Tokyo Disneyland,Fantasyland,Alice's Tea Party,5,True
 2025-07-17,12:45,Tokyo Disneyland,Tomorrowland,Baymax's Happy Ride,40,True
 2025-07-17,12:45,Tokyo Disneyland,Fantasyland,Beauty and the Beast,40,True
@@ -5416,6 +6157,30 @@ date,time,park,land,attraction,wait_time,is_open
 2025-07-17,12:45,Tokyo Disneyland,Westernland,Tom Sawyer Island Rafts,5,True
 2025-07-17,12:45,Tokyo Disneyland,Westernland,Western River Railroad,15,True
 2025-07-17,12:45,Tokyo Disneyland,Fantasyland,it's a small world,25,True
+2025-07-17,13:15,Tokyo DisneySea,Port Discovery,Aquatopia,45,True
+2025-07-17,13:15,Tokyo DisneySea,Mermaid Lagoon,Blowfish Balloon Race,28,True
+2025-07-17,13:15,Tokyo DisneySea,Arabian Coast,Caravan Carousel,5,True
+2025-07-17,13:15,Tokyo DisneySea,American Waterfront,DisneySea Electric Railway,20,True
+2025-07-17,13:15,Tokyo DisneySea,Mediterranean Harbor,DisneySea Transit Steamer Line,5,True
+2025-07-17,13:15,Tokyo DisneySea,Mermaid Lagoon,Flounder's Flying Fish Coaster,20,True
+2025-07-17,13:15,Tokyo DisneySea,Fantasy Springs,Frozen Ever After,85,True
+2025-07-17,13:15,Tokyo DisneySea,Lost River Delta,Indiana Jones Adventure: Temple of the Crystal Skull,40,True
+2025-07-17,13:15,Tokyo DisneySea,Arabian Coast,Jasmine's Flying Carpets,5,True
+2025-07-17,13:15,Tokyo DisneySea,Mysterious Island,Journey to the Center of the Earth,95,True
+2025-07-17,13:15,Tokyo DisneySea,Mermaid Lagoon,Jumpin' Jellyfish,10,True
+2025-07-17,13:15,Tokyo DisneySea,Port Discovery,Nemo & Friends SeaRider,15,True
+2025-07-17,13:15,Tokyo DisneySea,Fantasy Springs,Peter Pan's Neverland Adventure,28,True
+2025-07-17,13:15,Tokyo DisneySea,Lost River Delta,Raging Spirits,55,True
+2025-07-17,13:15,Tokyo DisneySea,Fantasy Springs,Rapunzel's Lantern Festival,45,True
+2025-07-17,13:15,Tokyo DisneySea,Mermaid Lagoon,Scuttle's Scooters,5,True
+2025-07-17,13:15,Tokyo DisneySea,Arabian Coast,Sindbad's Storybook Voyage,5,True
+2025-07-17,13:15,Tokyo DisneySea,Port Discovery,Soaring: Fantastic Flight,60,True
+2025-07-17,13:15,Tokyo DisneySea,Port Discovery,Stormrider,5,True
+2025-07-17,13:15,Tokyo DisneySea,Arabian Coast,The Magic Lamp Theater,15,True
+2025-07-17,13:15,Tokyo DisneySea,Fantasy Springs,Tinker Bell's Neverland Adventure,35,True
+2025-07-17,13:15,Tokyo DisneySea,American Waterfront,Tower of Terror,50,True
+2025-07-17,13:15,Tokyo DisneySea,American Waterfront,Toy Story Mania!,70,True
+2025-07-17,13:15,Tokyo DisneySea,American Waterfront,Turtle Talk,18,True
 2025-07-17,13:15,Tokyo Disneyland,Fantasyland,Alice's Tea Party,5,True
 2025-07-17,13:15,Tokyo Disneyland,Tomorrowland,Baymax's Happy Ride,40,True
 2025-07-17,13:15,Tokyo Disneyland,Fantasyland,Beauty and the Beast,40,True
@@ -5443,6 +6208,30 @@ date,time,park,land,attraction,wait_time,is_open
 2025-07-17,13:15,Tokyo Disneyland,Westernland,Tom Sawyer Island Rafts,5,True
 2025-07-17,13:15,Tokyo Disneyland,Westernland,Western River Railroad,15,True
 2025-07-17,13:15,Tokyo Disneyland,Fantasyland,it's a small world,25,True
+2025-07-17,13:45,Tokyo DisneySea,Port Discovery,Aquatopia,25,True
+2025-07-17,13:45,Tokyo DisneySea,Mermaid Lagoon,Blowfish Balloon Race,22,True
+2025-07-17,13:45,Tokyo DisneySea,Arabian Coast,Caravan Carousel,5,True
+2025-07-17,13:45,Tokyo DisneySea,American Waterfront,DisneySea Electric Railway,15,True
+2025-07-17,13:45,Tokyo DisneySea,Mediterranean Harbor,DisneySea Transit Steamer Line,5,True
+2025-07-17,13:45,Tokyo DisneySea,Mermaid Lagoon,Flounder's Flying Fish Coaster,25,True
+2025-07-17,13:45,Tokyo DisneySea,Fantasy Springs,Frozen Ever After,80,True
+2025-07-17,13:45,Tokyo DisneySea,Lost River Delta,Indiana Jones Adventure: Temple of the Crystal Skull,50,True
+2025-07-17,13:45,Tokyo DisneySea,Arabian Coast,Jasmine's Flying Carpets,5,True
+2025-07-17,13:45,Tokyo DisneySea,Mysterious Island,Journey to the Center of the Earth,85,True
+2025-07-17,13:45,Tokyo DisneySea,Mermaid Lagoon,Jumpin' Jellyfish,12,True
+2025-07-17,13:45,Tokyo DisneySea,Port Discovery,Nemo & Friends SeaRider,15,True
+2025-07-17,13:45,Tokyo DisneySea,Fantasy Springs,Peter Pan's Neverland Adventure,35,True
+2025-07-17,13:45,Tokyo DisneySea,Lost River Delta,Raging Spirits,60,True
+2025-07-17,13:45,Tokyo DisneySea,Fantasy Springs,Rapunzel's Lantern Festival,40,True
+2025-07-17,13:45,Tokyo DisneySea,Mermaid Lagoon,Scuttle's Scooters,5,True
+2025-07-17,13:45,Tokyo DisneySea,Arabian Coast,Sindbad's Storybook Voyage,5,True
+2025-07-17,13:45,Tokyo DisneySea,Port Discovery,Soaring: Fantastic Flight,70,True
+2025-07-17,13:45,Tokyo DisneySea,Port Discovery,Stormrider,10,True
+2025-07-17,13:45,Tokyo DisneySea,Arabian Coast,The Magic Lamp Theater,15,True
+2025-07-17,13:45,Tokyo DisneySea,Fantasy Springs,Tinker Bell's Neverland Adventure,28,True
+2025-07-17,13:45,Tokyo DisneySea,American Waterfront,Tower of Terror,60,True
+2025-07-17,13:45,Tokyo DisneySea,American Waterfront,Toy Story Mania!,55,True
+2025-07-17,13:45,Tokyo DisneySea,American Waterfront,Turtle Talk,15,True
 2025-07-17,13:45,Tokyo Disneyland,Fantasyland,Alice's Tea Party,5,True
 2025-07-17,13:45,Tokyo Disneyland,Tomorrowland,Baymax's Happy Ride,40,True
 2025-07-17,13:45,Tokyo Disneyland,Fantasyland,Beauty and the Beast,40,True
@@ -5470,6 +6259,30 @@ date,time,park,land,attraction,wait_time,is_open
 2025-07-17,13:45,Tokyo Disneyland,Westernland,Tom Sawyer Island Rafts,5,True
 2025-07-17,13:45,Tokyo Disneyland,Westernland,Western River Railroad,15,True
 2025-07-17,13:45,Tokyo Disneyland,Fantasyland,it's a small world,25,True
+2025-07-17,14:15,Tokyo DisneySea,Port Discovery,Aquatopia,30,True
+2025-07-17,14:15,Tokyo DisneySea,Mermaid Lagoon,Blowfish Balloon Race,25,True
+2025-07-17,14:15,Tokyo DisneySea,Arabian Coast,Caravan Carousel,5,True
+2025-07-17,14:15,Tokyo DisneySea,American Waterfront,DisneySea Electric Railway,15,True
+2025-07-17,14:15,Tokyo DisneySea,Mediterranean Harbor,DisneySea Transit Steamer Line,5,True
+2025-07-17,14:15,Tokyo DisneySea,Mermaid Lagoon,Flounder's Flying Fish Coaster,15,True
+2025-07-17,14:15,Tokyo DisneySea,Fantasy Springs,Frozen Ever After,90,True
+2025-07-17,14:15,Tokyo DisneySea,Lost River Delta,Indiana Jones Adventure: Temple of the Crystal Skull,55,True
+2025-07-17,14:15,Tokyo DisneySea,Arabian Coast,Jasmine's Flying Carpets,5,True
+2025-07-17,14:15,Tokyo DisneySea,Mysterious Island,Journey to the Center of the Earth,75,True
+2025-07-17,14:15,Tokyo DisneySea,Mermaid Lagoon,Jumpin' Jellyfish,15,True
+2025-07-17,14:15,Tokyo DisneySea,Port Discovery,Nemo & Friends SeaRider,15,True
+2025-07-17,14:15,Tokyo DisneySea,Fantasy Springs,Peter Pan's Neverland Adventure,40,True
+2025-07-17,14:15,Tokyo DisneySea,Lost River Delta,Raging Spirits,65,True
+2025-07-17,14:15,Tokyo DisneySea,Fantasy Springs,Rapunzel's Lantern Festival,40,True
+2025-07-17,14:15,Tokyo DisneySea,Mermaid Lagoon,Scuttle's Scooters,5,True
+2025-07-17,14:15,Tokyo DisneySea,Arabian Coast,Sindbad's Storybook Voyage,5,True
+2025-07-17,14:15,Tokyo DisneySea,Port Discovery,Soaring: Fantastic Flight,85,True
+2025-07-17,14:15,Tokyo DisneySea,Port Discovery,Stormrider,10,True
+2025-07-17,14:15,Tokyo DisneySea,Arabian Coast,The Magic Lamp Theater,15,True
+2025-07-17,14:15,Tokyo DisneySea,Fantasy Springs,Tinker Bell's Neverland Adventure,45,True
+2025-07-17,14:15,Tokyo DisneySea,American Waterfront,Tower of Terror,55,True
+2025-07-17,14:15,Tokyo DisneySea,American Waterfront,Toy Story Mania!,50,True
+2025-07-17,14:15,Tokyo DisneySea,American Waterfront,Turtle Talk,15,True
 2025-07-17,14:15,Tokyo Disneyland,Fantasyland,Alice's Tea Party,10,True
 2025-07-17,14:15,Tokyo Disneyland,Tomorrowland,Baymax's Happy Ride,50,True
 2025-07-17,14:15,Tokyo Disneyland,Fantasyland,Beauty and the Beast,50,True
@@ -5497,6 +6310,30 @@ date,time,park,land,attraction,wait_time,is_open
 2025-07-17,14:15,Tokyo Disneyland,Westernland,Tom Sawyer Island Rafts,5,True
 2025-07-17,14:15,Tokyo Disneyland,Westernland,Western River Railroad,15,True
 2025-07-17,14:15,Tokyo Disneyland,Fantasyland,it's a small world,30,True
+2025-07-17,14:45,Tokyo DisneySea,Port Discovery,Aquatopia,55,True
+2025-07-17,14:45,Tokyo DisneySea,Mermaid Lagoon,Blowfish Balloon Race,28,True
+2025-07-17,14:45,Tokyo DisneySea,Arabian Coast,Caravan Carousel,5,True
+2025-07-17,14:45,Tokyo DisneySea,American Waterfront,DisneySea Electric Railway,20,True
+2025-07-17,14:45,Tokyo DisneySea,Mediterranean Harbor,DisneySea Transit Steamer Line,10,True
+2025-07-17,14:45,Tokyo DisneySea,Mermaid Lagoon,Flounder's Flying Fish Coaster,15,True
+2025-07-17,14:45,Tokyo DisneySea,Fantasy Springs,Frozen Ever After,85,True
+2025-07-17,14:45,Tokyo DisneySea,Lost River Delta,Indiana Jones Adventure: Temple of the Crystal Skull,70,True
+2025-07-17,14:45,Tokyo DisneySea,Arabian Coast,Jasmine's Flying Carpets,5,True
+2025-07-17,14:45,Tokyo DisneySea,Mysterious Island,Journey to the Center of the Earth,75,True
+2025-07-17,14:45,Tokyo DisneySea,Mermaid Lagoon,Jumpin' Jellyfish,15,True
+2025-07-17,14:45,Tokyo DisneySea,Port Discovery,Nemo & Friends SeaRider,15,True
+2025-07-17,14:45,Tokyo DisneySea,Fantasy Springs,Peter Pan's Neverland Adventure,40,True
+2025-07-17,14:45,Tokyo DisneySea,Lost River Delta,Raging Spirits,50,True
+2025-07-17,14:45,Tokyo DisneySea,Fantasy Springs,Rapunzel's Lantern Festival,40,True
+2025-07-17,14:45,Tokyo DisneySea,Mermaid Lagoon,Scuttle's Scooters,10,True
+2025-07-17,14:45,Tokyo DisneySea,Arabian Coast,Sindbad's Storybook Voyage,5,True
+2025-07-17,14:45,Tokyo DisneySea,Port Discovery,Soaring: Fantastic Flight,65,True
+2025-07-17,14:45,Tokyo DisneySea,Port Discovery,Stormrider,20,True
+2025-07-17,14:45,Tokyo DisneySea,Arabian Coast,The Magic Lamp Theater,15,True
+2025-07-17,14:45,Tokyo DisneySea,Fantasy Springs,Tinker Bell's Neverland Adventure,40,True
+2025-07-17,14:45,Tokyo DisneySea,American Waterfront,Tower of Terror,45,True
+2025-07-17,14:45,Tokyo DisneySea,American Waterfront,Toy Story Mania!,65,True
+2025-07-17,14:45,Tokyo DisneySea,American Waterfront,Turtle Talk,18,True
 2025-07-17,14:45,Tokyo Disneyland,Fantasyland,Alice's Tea Party,5,True
 2025-07-17,14:45,Tokyo Disneyland,Tomorrowland,Baymax's Happy Ride,40,True
 2025-07-17,14:45,Tokyo Disneyland,Fantasyland,Beauty and the Beast,30,True
@@ -5524,6 +6361,30 @@ date,time,park,land,attraction,wait_time,is_open
 2025-07-17,14:45,Tokyo Disneyland,Westernland,Tom Sawyer Island Rafts,5,True
 2025-07-17,14:45,Tokyo Disneyland,Westernland,Western River Railroad,20,True
 2025-07-17,14:45,Tokyo Disneyland,Fantasyland,it's a small world,30,True
+2025-07-17,15:15,Tokyo DisneySea,Port Discovery,Aquatopia,60,True
+2025-07-17,15:15,Tokyo DisneySea,Mermaid Lagoon,Blowfish Balloon Race,25,True
+2025-07-17,15:15,Tokyo DisneySea,Arabian Coast,Caravan Carousel,5,True
+2025-07-17,15:15,Tokyo DisneySea,American Waterfront,DisneySea Electric Railway,20,True
+2025-07-17,15:15,Tokyo DisneySea,Mediterranean Harbor,DisneySea Transit Steamer Line,8,True
+2025-07-17,15:15,Tokyo DisneySea,Mermaid Lagoon,Flounder's Flying Fish Coaster,20,True
+2025-07-17,15:15,Tokyo DisneySea,Fantasy Springs,Frozen Ever After,80,True
+2025-07-17,15:15,Tokyo DisneySea,Lost River Delta,Indiana Jones Adventure: Temple of the Crystal Skull,70,True
+2025-07-17,15:15,Tokyo DisneySea,Arabian Coast,Jasmine's Flying Carpets,10,True
+2025-07-17,15:15,Tokyo DisneySea,Mysterious Island,Journey to the Center of the Earth,80,True
+2025-07-17,15:15,Tokyo DisneySea,Mermaid Lagoon,Jumpin' Jellyfish,15,True
+2025-07-17,15:15,Tokyo DisneySea,Port Discovery,Nemo & Friends SeaRider,15,True
+2025-07-17,15:15,Tokyo DisneySea,Fantasy Springs,Peter Pan's Neverland Adventure,35,True
+2025-07-17,15:15,Tokyo DisneySea,Lost River Delta,Raging Spirits,55,True
+2025-07-17,15:15,Tokyo DisneySea,Fantasy Springs,Rapunzel's Lantern Festival,40,True
+2025-07-17,15:15,Tokyo DisneySea,Mermaid Lagoon,Scuttle's Scooters,5,True
+2025-07-17,15:15,Tokyo DisneySea,Arabian Coast,Sindbad's Storybook Voyage,5,True
+2025-07-17,15:15,Tokyo DisneySea,Port Discovery,Soaring: Fantastic Flight,70,True
+2025-07-17,15:15,Tokyo DisneySea,Port Discovery,Stormrider,25,True
+2025-07-17,15:15,Tokyo DisneySea,Arabian Coast,The Magic Lamp Theater,15,True
+2025-07-17,15:15,Tokyo DisneySea,Fantasy Springs,Tinker Bell's Neverland Adventure,40,True
+2025-07-17,15:15,Tokyo DisneySea,American Waterfront,Tower of Terror,60,True
+2025-07-17,15:15,Tokyo DisneySea,American Waterfront,Toy Story Mania!,65,True
+2025-07-17,15:15,Tokyo DisneySea,American Waterfront,Turtle Talk,15,True
 2025-07-17,15:15,Tokyo Disneyland,Fantasyland,Alice's Tea Party,5,True
 2025-07-17,15:15,Tokyo Disneyland,Tomorrowland,Baymax's Happy Ride,40,True
 2025-07-17,15:15,Tokyo Disneyland,Fantasyland,Beauty and the Beast,50,True
@@ -5551,6 +6412,30 @@ date,time,park,land,attraction,wait_time,is_open
 2025-07-17,15:15,Tokyo Disneyland,Westernland,Tom Sawyer Island Rafts,5,True
 2025-07-17,15:15,Tokyo Disneyland,Westernland,Western River Railroad,20,True
 2025-07-17,15:15,Tokyo Disneyland,Fantasyland,it's a small world,30,True
+2025-07-17,15:45,Tokyo DisneySea,Port Discovery,Aquatopia,30,True
+2025-07-17,15:45,Tokyo DisneySea,Mermaid Lagoon,Blowfish Balloon Race,18,True
+2025-07-17,15:45,Tokyo DisneySea,Arabian Coast,Caravan Carousel,5,True
+2025-07-17,15:45,Tokyo DisneySea,American Waterfront,DisneySea Electric Railway,15,True
+2025-07-17,15:45,Tokyo DisneySea,Mediterranean Harbor,DisneySea Transit Steamer Line,10,True
+2025-07-17,15:45,Tokyo DisneySea,Mermaid Lagoon,Flounder's Flying Fish Coaster,15,True
+2025-07-17,15:45,Tokyo DisneySea,Fantasy Springs,Frozen Ever After,90,True
+2025-07-17,15:45,Tokyo DisneySea,Lost River Delta,Indiana Jones Adventure: Temple of the Crystal Skull,40,True
+2025-07-17,15:45,Tokyo DisneySea,Arabian Coast,Jasmine's Flying Carpets,18,True
+2025-07-17,15:45,Tokyo DisneySea,Mysterious Island,Journey to the Center of the Earth,75,True
+2025-07-17,15:45,Tokyo DisneySea,Mermaid Lagoon,Jumpin' Jellyfish,15,True
+2025-07-17,15:45,Tokyo DisneySea,Port Discovery,Nemo & Friends SeaRider,15,True
+2025-07-17,15:45,Tokyo DisneySea,Fantasy Springs,Peter Pan's Neverland Adventure,40,True
+2025-07-17,15:45,Tokyo DisneySea,Lost River Delta,Raging Spirits,65,True
+2025-07-17,15:45,Tokyo DisneySea,Fantasy Springs,Rapunzel's Lantern Festival,30,True
+2025-07-17,15:45,Tokyo DisneySea,Mermaid Lagoon,Scuttle's Scooters,10,True
+2025-07-17,15:45,Tokyo DisneySea,Arabian Coast,Sindbad's Storybook Voyage,5,True
+2025-07-17,15:45,Tokyo DisneySea,Port Discovery,Soaring: Fantastic Flight,85,True
+2025-07-17,15:45,Tokyo DisneySea,Port Discovery,Stormrider,20,True
+2025-07-17,15:45,Tokyo DisneySea,Arabian Coast,The Magic Lamp Theater,15,True
+2025-07-17,15:45,Tokyo DisneySea,Fantasy Springs,Tinker Bell's Neverland Adventure,40,True
+2025-07-17,15:45,Tokyo DisneySea,American Waterfront,Tower of Terror,60,True
+2025-07-17,15:45,Tokyo DisneySea,American Waterfront,Toy Story Mania!,65,True
+2025-07-17,15:45,Tokyo DisneySea,American Waterfront,Turtle Talk,18,True
 2025-07-17,15:45,Tokyo Disneyland,Fantasyland,Alice's Tea Party,5,True
 2025-07-17,15:45,Tokyo Disneyland,Tomorrowland,Baymax's Happy Ride,50,True
 2025-07-17,15:45,Tokyo Disneyland,Fantasyland,Beauty and the Beast,40,True
@@ -5578,6 +6463,30 @@ date,time,park,land,attraction,wait_time,is_open
 2025-07-17,15:45,Tokyo Disneyland,Westernland,Tom Sawyer Island Rafts,5,True
 2025-07-17,15:45,Tokyo Disneyland,Westernland,Western River Railroad,20,True
 2025-07-17,15:45,Tokyo Disneyland,Fantasyland,it's a small world,25,True
+2025-07-17,16:15,Tokyo DisneySea,Port Discovery,Aquatopia,35,True
+2025-07-17,16:15,Tokyo DisneySea,Mermaid Lagoon,Blowfish Balloon Race,20,True
+2025-07-17,16:15,Tokyo DisneySea,Arabian Coast,Caravan Carousel,5,True
+2025-07-17,16:15,Tokyo DisneySea,American Waterfront,DisneySea Electric Railway,12,True
+2025-07-17,16:15,Tokyo DisneySea,Mediterranean Harbor,DisneySea Transit Steamer Line,8,True
+2025-07-17,16:15,Tokyo DisneySea,Mermaid Lagoon,Flounder's Flying Fish Coaster,15,True
+2025-07-17,16:15,Tokyo DisneySea,Fantasy Springs,Frozen Ever After,90,True
+2025-07-17,16:15,Tokyo DisneySea,Lost River Delta,Indiana Jones Adventure: Temple of the Crystal Skull,40,True
+2025-07-17,16:15,Tokyo DisneySea,Arabian Coast,Jasmine's Flying Carpets,18,True
+2025-07-17,16:15,Tokyo DisneySea,Mysterious Island,Journey to the Center of the Earth,70,True
+2025-07-17,16:15,Tokyo DisneySea,Mermaid Lagoon,Jumpin' Jellyfish,10,True
+2025-07-17,16:15,Tokyo DisneySea,Port Discovery,Nemo & Friends SeaRider,15,True
+2025-07-17,16:15,Tokyo DisneySea,Fantasy Springs,Peter Pan's Neverland Adventure,35,True
+2025-07-17,16:15,Tokyo DisneySea,Lost River Delta,Raging Spirits,70,True
+2025-07-17,16:15,Tokyo DisneySea,Fantasy Springs,Rapunzel's Lantern Festival,50,True
+2025-07-17,16:15,Tokyo DisneySea,Mermaid Lagoon,Scuttle's Scooters,5,True
+2025-07-17,16:15,Tokyo DisneySea,Arabian Coast,Sindbad's Storybook Voyage,5,True
+2025-07-17,16:15,Tokyo DisneySea,Port Discovery,Soaring: Fantastic Flight,80,True
+2025-07-17,16:15,Tokyo DisneySea,Port Discovery,Stormrider,20,True
+2025-07-17,16:15,Tokyo DisneySea,Arabian Coast,The Magic Lamp Theater,15,True
+2025-07-17,16:15,Tokyo DisneySea,Fantasy Springs,Tinker Bell's Neverland Adventure,40,True
+2025-07-17,16:15,Tokyo DisneySea,American Waterfront,Tower of Terror,60,True
+2025-07-17,16:15,Tokyo DisneySea,American Waterfront,Toy Story Mania!,65,True
+2025-07-17,16:15,Tokyo DisneySea,American Waterfront,Turtle Talk,18,True
 2025-07-17,16:15,Tokyo Disneyland,Fantasyland,Alice's Tea Party,5,True
 2025-07-17,16:15,Tokyo Disneyland,Tomorrowland,Baymax's Happy Ride,40,True
 2025-07-17,16:15,Tokyo Disneyland,Fantasyland,Beauty and the Beast,50,True
@@ -5605,6 +6514,30 @@ date,time,park,land,attraction,wait_time,is_open
 2025-07-17,16:15,Tokyo Disneyland,Westernland,Tom Sawyer Island Rafts,5,True
 2025-07-17,16:15,Tokyo Disneyland,Westernland,Western River Railroad,25,True
 2025-07-17,16:15,Tokyo Disneyland,Fantasyland,it's a small world,25,True
+2025-07-17,16:45,Tokyo DisneySea,Port Discovery,Aquatopia,65,True
+2025-07-17,16:45,Tokyo DisneySea,Mermaid Lagoon,Blowfish Balloon Race,25,True
+2025-07-17,16:45,Tokyo DisneySea,Arabian Coast,Caravan Carousel,5,True
+2025-07-17,16:45,Tokyo DisneySea,American Waterfront,DisneySea Electric Railway,18,True
+2025-07-17,16:45,Tokyo DisneySea,Mediterranean Harbor,DisneySea Transit Steamer Line,8,True
+2025-07-17,16:45,Tokyo DisneySea,Mermaid Lagoon,Flounder's Flying Fish Coaster,20,True
+2025-07-17,16:45,Tokyo DisneySea,Fantasy Springs,Frozen Ever After,85,True
+2025-07-17,16:45,Tokyo DisneySea,Lost River Delta,Indiana Jones Adventure: Temple of the Crystal Skull,40,True
+2025-07-17,16:45,Tokyo DisneySea,Arabian Coast,Jasmine's Flying Carpets,15,True
+2025-07-17,16:45,Tokyo DisneySea,Mysterious Island,Journey to the Center of the Earth,70,True
+2025-07-17,16:45,Tokyo DisneySea,Mermaid Lagoon,Jumpin' Jellyfish,12,True
+2025-07-17,16:45,Tokyo DisneySea,Port Discovery,Nemo & Friends SeaRider,15,True
+2025-07-17,16:45,Tokyo DisneySea,Fantasy Springs,Peter Pan's Neverland Adventure,32,True
+2025-07-17,16:45,Tokyo DisneySea,Lost River Delta,Raging Spirits,70,True
+2025-07-17,16:45,Tokyo DisneySea,Fantasy Springs,Rapunzel's Lantern Festival,45,True
+2025-07-17,16:45,Tokyo DisneySea,Mermaid Lagoon,Scuttle's Scooters,10,True
+2025-07-17,16:45,Tokyo DisneySea,Arabian Coast,Sindbad's Storybook Voyage,5,True
+2025-07-17,16:45,Tokyo DisneySea,Port Discovery,Soaring: Fantastic Flight,75,True
+2025-07-17,16:45,Tokyo DisneySea,Port Discovery,Stormrider,15,True
+2025-07-17,16:45,Tokyo DisneySea,Arabian Coast,The Magic Lamp Theater,15,True
+2025-07-17,16:45,Tokyo DisneySea,Fantasy Springs,Tinker Bell's Neverland Adventure,40,True
+2025-07-17,16:45,Tokyo DisneySea,American Waterfront,Tower of Terror,60,True
+2025-07-17,16:45,Tokyo DisneySea,American Waterfront,Toy Story Mania!,80,True
+2025-07-17,16:45,Tokyo DisneySea,American Waterfront,Turtle Talk,18,True
 2025-07-17,16:45,Tokyo Disneyland,Fantasyland,Alice's Tea Party,5,True
 2025-07-17,16:45,Tokyo Disneyland,Tomorrowland,Baymax's Happy Ride,40,True
 2025-07-17,16:45,Tokyo Disneyland,Fantasyland,Beauty and the Beast,30,True
@@ -5632,6 +6565,31 @@ date,time,park,land,attraction,wait_time,is_open
 2025-07-17,16:45,Tokyo Disneyland,Westernland,Tom Sawyer Island Rafts,5,True
 2025-07-17,16:45,Tokyo Disneyland,Westernland,Western River Railroad,25,True
 2025-07-17,16:45,Tokyo Disneyland,Fantasyland,it's a small world,30,True
+2025-07-17,17:15,Tokyo DisneySea,Port Discovery,Aquatopia,50,True
+2025-07-17,17:15,Tokyo DisneySea,Mermaid Lagoon,Blowfish Balloon Race,15,True
+2025-07-17,17:15,Tokyo DisneySea,Arabian Coast,Caravan Carousel,5,True
+2025-07-17,17:15,Tokyo DisneySea,American Waterfront,DisneySea Electric Railway,15,True
+2025-07-17,17:15,Tokyo DisneySea,Mediterranean Harbor,DisneySea Transit Steamer Line,5,True
+2025-07-17,17:15,Tokyo DisneySea,Mermaid Lagoon,Flounder's Flying Fish Coaster,20,True
+2025-07-17,17:15,Tokyo DisneySea,Fantasy Springs,Frozen Ever After,80,True
+2025-07-17,17:15,Tokyo DisneySea,Lost River Delta,Indiana Jones Adventure: Temple of the Crystal Skull,80,True
+2025-07-17,17:15,Tokyo DisneySea,Arabian Coast,Jasmine's Flying Carpets,15,True
+2025-07-17,17:15,Tokyo DisneySea,Mysterious Island,Journey to the Center of the Earth,75,True
+2025-07-17,17:15,Tokyo DisneySea,Mermaid Lagoon,Jumpin' Jellyfish,10,True
+2025-07-17,17:15,Tokyo DisneySea,Port Discovery,Nemo & Friends SeaRider,15,True
+2025-07-17,17:15,Tokyo DisneySea,Fantasy Springs,Peter Pan's Neverland Adventure,30,True
+2025-07-17,17:15,Tokyo DisneySea,Lost River Delta,Raging Spirits,55,True
+2025-07-17,17:15,Tokyo DisneySea,Fantasy Springs,Rapunzel's Lantern Festival,40,True
+2025-07-17,17:15,Tokyo DisneySea,Mermaid Lagoon,Scuttle's Scooters,10,True
+2025-07-17,17:15,Tokyo DisneySea,Arabian Coast,Sindbad's Storybook Voyage,5,True
+2025-07-17,17:15,Tokyo DisneySea,Port Discovery,Soaring: Fantastic Flight,80,True
+2025-07-17,17:15,Tokyo DisneySea,Port Discovery,Stormrider,10,True
+2025-07-17,17:15,Tokyo DisneySea,Arabian Coast,The Magic Lamp Theater,15,True
+2025-07-17,17:15,Tokyo DisneySea,Fantasy Springs,Tinker Bell's Neverland Adventure,35,True
+2025-07-17,17:15,Tokyo DisneySea,American Waterfront,Tower of Terror,65,True
+2025-07-17,17:15,Tokyo DisneySea,American Waterfront,Toy Story Mania!,40,True
+2025-07-17,17:15,Tokyo DisneySea,American Waterfront,Turtle Talk,18,True
+2025-07-17,17:15,Tokyo DisneySea,Mediterranean Harbor,Venetian Gondolas,5,True
 2025-07-17,17:15,Tokyo Disneyland,Fantasyland,Alice's Tea Party,5,True
 2025-07-17,17:15,Tokyo Disneyland,Tomorrowland,Baymax's Happy Ride,40,True
 2025-07-17,17:15,Tokyo Disneyland,Fantasyland,Beauty and the Beast,40,True
@@ -5658,6 +6616,31 @@ date,time,park,land,attraction,wait_time,is_open
 2025-07-17,17:15,Tokyo Disneyland,Adventureland,The Enchanted Tiki Room: Stitch Presents,10,True
 2025-07-17,17:15,Tokyo Disneyland,Westernland,Western River Railroad,15,True
 2025-07-17,17:15,Tokyo Disneyland,Fantasyland,it's a small world,20,True
+2025-07-17,17:45,Tokyo DisneySea,Port Discovery,Aquatopia,12,True
+2025-07-17,17:45,Tokyo DisneySea,Mermaid Lagoon,Blowfish Balloon Race,15,True
+2025-07-17,17:45,Tokyo DisneySea,Arabian Coast,Caravan Carousel,5,True
+2025-07-17,17:45,Tokyo DisneySea,American Waterfront,DisneySea Electric Railway,10,True
+2025-07-17,17:45,Tokyo DisneySea,Mediterranean Harbor,DisneySea Transit Steamer Line,10,True
+2025-07-17,17:45,Tokyo DisneySea,Mermaid Lagoon,Flounder's Flying Fish Coaster,15,True
+2025-07-17,17:45,Tokyo DisneySea,Fantasy Springs,Frozen Ever After,80,True
+2025-07-17,17:45,Tokyo DisneySea,Lost River Delta,Indiana Jones Adventure: Temple of the Crystal Skull,55,True
+2025-07-17,17:45,Tokyo DisneySea,Arabian Coast,Jasmine's Flying Carpets,15,True
+2025-07-17,17:45,Tokyo DisneySea,Mysterious Island,Journey to the Center of the Earth,75,True
+2025-07-17,17:45,Tokyo DisneySea,Mermaid Lagoon,Jumpin' Jellyfish,5,True
+2025-07-17,17:45,Tokyo DisneySea,Port Discovery,Nemo & Friends SeaRider,15,True
+2025-07-17,17:45,Tokyo DisneySea,Fantasy Springs,Peter Pan's Neverland Adventure,28,True
+2025-07-17,17:45,Tokyo DisneySea,Lost River Delta,Raging Spirits,50,True
+2025-07-17,17:45,Tokyo DisneySea,Fantasy Springs,Rapunzel's Lantern Festival,45,True
+2025-07-17,17:45,Tokyo DisneySea,Mermaid Lagoon,Scuttle's Scooters,10,True
+2025-07-17,17:45,Tokyo DisneySea,Arabian Coast,Sindbad's Storybook Voyage,5,True
+2025-07-17,17:45,Tokyo DisneySea,Port Discovery,Soaring: Fantastic Flight,65,True
+2025-07-17,17:45,Tokyo DisneySea,Port Discovery,Stormrider,20,True
+2025-07-17,17:45,Tokyo DisneySea,Arabian Coast,The Magic Lamp Theater,15,True
+2025-07-17,17:45,Tokyo DisneySea,Fantasy Springs,Tinker Bell's Neverland Adventure,40,True
+2025-07-17,17:45,Tokyo DisneySea,American Waterfront,Tower of Terror,70,True
+2025-07-17,17:45,Tokyo DisneySea,American Waterfront,Toy Story Mania!,45,True
+2025-07-17,17:45,Tokyo DisneySea,American Waterfront,Turtle Talk,18,True
+2025-07-17,17:45,Tokyo DisneySea,Mediterranean Harbor,Venetian Gondolas,15,True
 2025-07-17,17:45,Tokyo Disneyland,Fantasyland,Alice's Tea Party,5,True
 2025-07-17,17:45,Tokyo Disneyland,Tomorrowland,Baymax's Happy Ride,40,True
 2025-07-17,17:45,Tokyo Disneyland,Fantasyland,Beauty and the Beast,30,True
@@ -5684,6 +6667,31 @@ date,time,park,land,attraction,wait_time,is_open
 2025-07-17,17:45,Tokyo Disneyland,Adventureland,The Enchanted Tiki Room: Stitch Presents,10,True
 2025-07-17,17:45,Tokyo Disneyland,Westernland,Western River Railroad,15,True
 2025-07-17,17:45,Tokyo Disneyland,Fantasyland,it's a small world,25,True
+2025-07-17,18:15,Tokyo DisneySea,Port Discovery,Aquatopia,10,True
+2025-07-17,18:15,Tokyo DisneySea,Mermaid Lagoon,Blowfish Balloon Race,12,True
+2025-07-17,18:15,Tokyo DisneySea,Arabian Coast,Caravan Carousel,5,True
+2025-07-17,18:15,Tokyo DisneySea,American Waterfront,DisneySea Electric Railway,15,True
+2025-07-17,18:15,Tokyo DisneySea,Mediterranean Harbor,DisneySea Transit Steamer Line,10,True
+2025-07-17,18:15,Tokyo DisneySea,Mermaid Lagoon,Flounder's Flying Fish Coaster,15,True
+2025-07-17,18:15,Tokyo DisneySea,Fantasy Springs,Frozen Ever After,80,True
+2025-07-17,18:15,Tokyo DisneySea,Lost River Delta,Indiana Jones Adventure: Temple of the Crystal Skull,50,True
+2025-07-17,18:15,Tokyo DisneySea,Arabian Coast,Jasmine's Flying Carpets,12,True
+2025-07-17,18:15,Tokyo DisneySea,Mysterious Island,Journey to the Center of the Earth,60,True
+2025-07-17,18:15,Tokyo DisneySea,Mermaid Lagoon,Jumpin' Jellyfish,5,True
+2025-07-17,18:15,Tokyo DisneySea,Port Discovery,Nemo & Friends SeaRider,15,True
+2025-07-17,18:15,Tokyo DisneySea,Fantasy Springs,Peter Pan's Neverland Adventure,22,True
+2025-07-17,18:15,Tokyo DisneySea,Lost River Delta,Raging Spirits,55,True
+2025-07-17,18:15,Tokyo DisneySea,Fantasy Springs,Rapunzel's Lantern Festival,40,True
+2025-07-17,18:15,Tokyo DisneySea,Mermaid Lagoon,Scuttle's Scooters,5,True
+2025-07-17,18:15,Tokyo DisneySea,Arabian Coast,Sindbad's Storybook Voyage,5,True
+2025-07-17,18:15,Tokyo DisneySea,Port Discovery,Soaring: Fantastic Flight,65,True
+2025-07-17,18:15,Tokyo DisneySea,Port Discovery,Stormrider,10,True
+2025-07-17,18:15,Tokyo DisneySea,Arabian Coast,The Magic Lamp Theater,15,True
+2025-07-17,18:15,Tokyo DisneySea,Fantasy Springs,Tinker Bell's Neverland Adventure,40,True
+2025-07-17,18:15,Tokyo DisneySea,American Waterfront,Tower of Terror,50,True
+2025-07-17,18:15,Tokyo DisneySea,American Waterfront,Toy Story Mania!,45,True
+2025-07-17,18:15,Tokyo DisneySea,American Waterfront,Turtle Talk,18,True
+2025-07-17,18:15,Tokyo DisneySea,Mediterranean Harbor,Venetian Gondolas,15,True
 2025-07-17,18:15,Tokyo Disneyland,Fantasyland,Alice's Tea Party,5,True
 2025-07-17,18:15,Tokyo Disneyland,Tomorrowland,Baymax's Happy Ride,50,True
 2025-07-17,18:15,Tokyo Disneyland,Fantasyland,Beauty and the Beast,40,True
@@ -5710,6 +6718,30 @@ date,time,park,land,attraction,wait_time,is_open
 2025-07-17,18:15,Tokyo Disneyland,Adventureland,The Enchanted Tiki Room: Stitch Presents,10,True
 2025-07-17,18:15,Tokyo Disneyland,Westernland,Western River Railroad,15,True
 2025-07-17,18:15,Tokyo Disneyland,Fantasyland,it's a small world,30,True
+2025-07-17,18:45,Tokyo DisneySea,Port Discovery,Aquatopia,22,True
+2025-07-17,18:45,Tokyo DisneySea,Mermaid Lagoon,Blowfish Balloon Race,12,True
+2025-07-17,18:45,Tokyo DisneySea,Arabian Coast,Caravan Carousel,5,True
+2025-07-17,18:45,Tokyo DisneySea,American Waterfront,DisneySea Electric Railway,18,True
+2025-07-17,18:45,Tokyo DisneySea,Mediterranean Harbor,DisneySea Transit Steamer Line,0,False
+2025-07-17,18:45,Tokyo DisneySea,Mermaid Lagoon,Flounder's Flying Fish Coaster,15,True
+2025-07-17,18:45,Tokyo DisneySea,Fantasy Springs,Frozen Ever After,80,True
+2025-07-17,18:45,Tokyo DisneySea,Lost River Delta,Indiana Jones Adventure: Temple of the Crystal Skull,50,True
+2025-07-17,18:45,Tokyo DisneySea,Arabian Coast,Jasmine's Flying Carpets,10,True
+2025-07-17,18:45,Tokyo DisneySea,Mysterious Island,Journey to the Center of the Earth,65,True
+2025-07-17,18:45,Tokyo DisneySea,Mermaid Lagoon,Jumpin' Jellyfish,5,True
+2025-07-17,18:45,Tokyo DisneySea,Port Discovery,Nemo & Friends SeaRider,15,True
+2025-07-17,18:45,Tokyo DisneySea,Fantasy Springs,Peter Pan's Neverland Adventure,25,True
+2025-07-17,18:45,Tokyo DisneySea,Lost River Delta,Raging Spirits,50,True
+2025-07-17,18:45,Tokyo DisneySea,Fantasy Springs,Rapunzel's Lantern Festival,20,True
+2025-07-17,18:45,Tokyo DisneySea,Mermaid Lagoon,Scuttle's Scooters,5,True
+2025-07-17,18:45,Tokyo DisneySea,Arabian Coast,Sindbad's Storybook Voyage,5,True
+2025-07-17,18:45,Tokyo DisneySea,Port Discovery,Soaring: Fantastic Flight,30,True
+2025-07-17,18:45,Tokyo DisneySea,Port Discovery,Stormrider,0,False
+2025-07-17,18:45,Tokyo DisneySea,Arabian Coast,The Magic Lamp Theater,15,True
+2025-07-17,18:45,Tokyo DisneySea,Fantasy Springs,Tinker Bell's Neverland Adventure,35,True
+2025-07-17,18:45,Tokyo DisneySea,American Waterfront,Tower of Terror,55,True
+2025-07-17,18:45,Tokyo DisneySea,American Waterfront,Toy Story Mania!,80,True
+2025-07-17,18:45,Tokyo DisneySea,American Waterfront,Turtle Talk,15,True
 2025-07-17,18:45,Tokyo Disneyland,Fantasyland,Alice's Tea Party,5,True
 2025-07-17,18:45,Tokyo Disneyland,Tomorrowland,Baymax's Happy Ride,40,True
 2025-07-17,18:45,Tokyo Disneyland,Fantasyland,Beauty and the Beast,30,True
@@ -5736,6 +6768,29 @@ date,time,park,land,attraction,wait_time,is_open
 2025-07-17,18:45,Tokyo Disneyland,Adventureland,The Enchanted Tiki Room: Stitch Presents,10,True
 2025-07-17,18:45,Tokyo Disneyland,Westernland,Western River Railroad,25,True
 2025-07-17,18:45,Tokyo Disneyland,Fantasyland,it's a small world,25,True
+2025-07-17,19:15,Tokyo DisneySea,Port Discovery,Aquatopia,15,True
+2025-07-17,19:15,Tokyo DisneySea,Mermaid Lagoon,Blowfish Balloon Race,12,True
+2025-07-17,19:15,Tokyo DisneySea,Arabian Coast,Caravan Carousel,5,True
+2025-07-17,19:15,Tokyo DisneySea,American Waterfront,DisneySea Electric Railway,12,True
+2025-07-17,19:15,Tokyo DisneySea,Mermaid Lagoon,Flounder's Flying Fish Coaster,15,True
+2025-07-17,19:15,Tokyo DisneySea,Fantasy Springs,Frozen Ever After,70,True
+2025-07-17,19:15,Tokyo DisneySea,Lost River Delta,Indiana Jones Adventure: Temple of the Crystal Skull,60,True
+2025-07-17,19:15,Tokyo DisneySea,Arabian Coast,Jasmine's Flying Carpets,10,True
+2025-07-17,19:15,Tokyo DisneySea,Mysterious Island,Journey to the Center of the Earth,60,True
+2025-07-17,19:15,Tokyo DisneySea,Mermaid Lagoon,Jumpin' Jellyfish,8,True
+2025-07-17,19:15,Tokyo DisneySea,Port Discovery,Nemo & Friends SeaRider,15,True
+2025-07-17,19:15,Tokyo DisneySea,Fantasy Springs,Peter Pan's Neverland Adventure,22,True
+2025-07-17,19:15,Tokyo DisneySea,Lost River Delta,Raging Spirits,40,True
+2025-07-17,19:15,Tokyo DisneySea,Fantasy Springs,Rapunzel's Lantern Festival,20,True
+2025-07-17,19:15,Tokyo DisneySea,Mermaid Lagoon,Scuttle's Scooters,5,True
+2025-07-17,19:15,Tokyo DisneySea,Arabian Coast,Sindbad's Storybook Voyage,5,True
+2025-07-17,19:15,Tokyo DisneySea,Port Discovery,Soaring: Fantastic Flight,35,True
+2025-07-17,19:15,Tokyo DisneySea,Port Discovery,Stormrider,0,False
+2025-07-17,19:15,Tokyo DisneySea,Arabian Coast,The Magic Lamp Theater,15,True
+2025-07-17,19:15,Tokyo DisneySea,Fantasy Springs,Tinker Bell's Neverland Adventure,30,True
+2025-07-17,19:15,Tokyo DisneySea,American Waterfront,Tower of Terror,45,True
+2025-07-17,19:15,Tokyo DisneySea,American Waterfront,Toy Story Mania!,60,True
+2025-07-17,19:15,Tokyo DisneySea,American Waterfront,Turtle Talk,18,True
 2025-07-17,19:15,Tokyo Disneyland,Fantasyland,Alice's Tea Party,5,True
 2025-07-17,19:15,Tokyo Disneyland,Tomorrowland,Baymax's Happy Ride,40,True
 2025-07-17,19:15,Tokyo Disneyland,Fantasyland,Beauty and the Beast,40,True
@@ -5761,6 +6816,29 @@ date,time,park,land,attraction,wait_time,is_open
 2025-07-17,19:15,Tokyo Disneyland,Tomorrowland,Star Tours,10,True
 2025-07-17,19:15,Tokyo Disneyland,Westernland,Western River Railroad,20,True
 2025-07-17,19:15,Tokyo Disneyland,Fantasyland,it's a small world,20,True
+2025-07-17,19:45,Tokyo DisneySea,Port Discovery,Aquatopia,18,True
+2025-07-17,19:45,Tokyo DisneySea,Mermaid Lagoon,Blowfish Balloon Race,12,True
+2025-07-17,19:45,Tokyo DisneySea,Arabian Coast,Caravan Carousel,5,True
+2025-07-17,19:45,Tokyo DisneySea,American Waterfront,DisneySea Electric Railway,5,True
+2025-07-17,19:45,Tokyo DisneySea,Mermaid Lagoon,Flounder's Flying Fish Coaster,5,True
+2025-07-17,19:45,Tokyo DisneySea,Fantasy Springs,Frozen Ever After,45,True
+2025-07-17,19:45,Tokyo DisneySea,Lost River Delta,Indiana Jones Adventure: Temple of the Crystal Skull,30,True
+2025-07-17,19:45,Tokyo DisneySea,Arabian Coast,Jasmine's Flying Carpets,10,True
+2025-07-17,19:45,Tokyo DisneySea,Mysterious Island,Journey to the Center of the Earth,50,True
+2025-07-17,19:45,Tokyo DisneySea,Mermaid Lagoon,Jumpin' Jellyfish,8,True
+2025-07-17,19:45,Tokyo DisneySea,Port Discovery,Nemo & Friends SeaRider,15,True
+2025-07-17,19:45,Tokyo DisneySea,Fantasy Springs,Peter Pan's Neverland Adventure,12,True
+2025-07-17,19:45,Tokyo DisneySea,Lost River Delta,Raging Spirits,15,True
+2025-07-17,19:45,Tokyo DisneySea,Fantasy Springs,Rapunzel's Lantern Festival,22,True
+2025-07-17,19:45,Tokyo DisneySea,Mermaid Lagoon,Scuttle's Scooters,5,True
+2025-07-17,19:45,Tokyo DisneySea,Arabian Coast,Sindbad's Storybook Voyage,5,True
+2025-07-17,19:45,Tokyo DisneySea,Port Discovery,Soaring: Fantastic Flight,40,True
+2025-07-17,19:45,Tokyo DisneySea,Port Discovery,Stormrider,0,False
+2025-07-17,19:45,Tokyo DisneySea,Arabian Coast,The Magic Lamp Theater,15,True
+2025-07-17,19:45,Tokyo DisneySea,Fantasy Springs,Tinker Bell's Neverland Adventure,18,True
+2025-07-17,19:45,Tokyo DisneySea,American Waterfront,Tower of Terror,45,True
+2025-07-17,19:45,Tokyo DisneySea,American Waterfront,Toy Story Mania!,40,True
+2025-07-17,19:45,Tokyo DisneySea,American Waterfront,Turtle Talk,18,True
 2025-07-17,19:45,Tokyo Disneyland,Fantasyland,Alice's Tea Party,5,True
 2025-07-17,19:45,Tokyo Disneyland,Tomorrowland,Baymax's Happy Ride,40,True
 2025-07-17,19:45,Tokyo Disneyland,Fantasyland,Beauty and the Beast,25,True
@@ -5786,6 +6864,29 @@ date,time,park,land,attraction,wait_time,is_open
 2025-07-17,19:45,Tokyo Disneyland,Tomorrowland,Star Tours,5,True
 2025-07-17,19:45,Tokyo Disneyland,Westernland,Western River Railroad,15,True
 2025-07-17,19:45,Tokyo Disneyland,Fantasyland,it's a small world,15,True
+2025-07-17,20:15,Tokyo DisneySea,Port Discovery,Aquatopia,10,True
+2025-07-17,20:15,Tokyo DisneySea,Mermaid Lagoon,Blowfish Balloon Race,8,True
+2025-07-17,20:15,Tokyo DisneySea,Arabian Coast,Caravan Carousel,5,True
+2025-07-17,20:15,Tokyo DisneySea,American Waterfront,DisneySea Electric Railway,8,True
+2025-07-17,20:15,Tokyo DisneySea,Mermaid Lagoon,Flounder's Flying Fish Coaster,5,True
+2025-07-17,20:15,Tokyo DisneySea,Fantasy Springs,Frozen Ever After,50,True
+2025-07-17,20:15,Tokyo DisneySea,Lost River Delta,Indiana Jones Adventure: Temple of the Crystal Skull,30,True
+2025-07-17,20:15,Tokyo DisneySea,Arabian Coast,Jasmine's Flying Carpets,8,True
+2025-07-17,20:15,Tokyo DisneySea,Mysterious Island,Journey to the Center of the Earth,35,True
+2025-07-17,20:15,Tokyo DisneySea,Mermaid Lagoon,Jumpin' Jellyfish,5,True
+2025-07-17,20:15,Tokyo DisneySea,Port Discovery,Nemo & Friends SeaRider,15,True
+2025-07-17,20:15,Tokyo DisneySea,Fantasy Springs,Peter Pan's Neverland Adventure,8,True
+2025-07-17,20:15,Tokyo DisneySea,Lost River Delta,Raging Spirits,15,True
+2025-07-17,20:15,Tokyo DisneySea,Fantasy Springs,Rapunzel's Lantern Festival,15,True
+2025-07-17,20:15,Tokyo DisneySea,Mermaid Lagoon,Scuttle's Scooters,5,True
+2025-07-17,20:15,Tokyo DisneySea,Arabian Coast,Sindbad's Storybook Voyage,5,True
+2025-07-17,20:15,Tokyo DisneySea,Port Discovery,Soaring: Fantastic Flight,45,True
+2025-07-17,20:15,Tokyo DisneySea,Port Discovery,Stormrider,0,False
+2025-07-17,20:15,Tokyo DisneySea,Arabian Coast,The Magic Lamp Theater,15,True
+2025-07-17,20:15,Tokyo DisneySea,Fantasy Springs,Tinker Bell's Neverland Adventure,20,True
+2025-07-17,20:15,Tokyo DisneySea,American Waterfront,Tower of Terror,50,True
+2025-07-17,20:15,Tokyo DisneySea,American Waterfront,Toy Story Mania!,30,True
+2025-07-17,20:15,Tokyo DisneySea,American Waterfront,Turtle Talk,18,True
 2025-07-17,20:15,Tokyo Disneyland,Fantasyland,Alice's Tea Party,5,True
 2025-07-17,20:15,Tokyo Disneyland,Tomorrowland,Baymax's Happy Ride,50,True
 2025-07-17,20:15,Tokyo Disneyland,Fantasyland,Beauty and the Beast,40,True
@@ -5808,6 +6909,29 @@ date,time,park,land,attraction,wait_time,is_open
 2025-07-17,20:15,Tokyo Disneyland,Tomorrowland,Star Tours,5,True
 2025-07-17,20:15,Tokyo Disneyland,Westernland,Western River Railroad,15,True
 2025-07-17,20:15,Tokyo Disneyland,Fantasyland,it's a small world,20,True
+2025-07-17,20:45,Tokyo DisneySea,Port Discovery,Aquatopia,8,True
+2025-07-17,20:45,Tokyo DisneySea,Mermaid Lagoon,Blowfish Balloon Race,5,True
+2025-07-17,20:45,Tokyo DisneySea,Arabian Coast,Caravan Carousel,5,True
+2025-07-17,20:45,Tokyo DisneySea,American Waterfront,DisneySea Electric Railway,5,True
+2025-07-17,20:45,Tokyo DisneySea,Mermaid Lagoon,Flounder's Flying Fish Coaster,5,True
+2025-07-17,20:45,Tokyo DisneySea,Fantasy Springs,Frozen Ever After,20,True
+2025-07-17,20:45,Tokyo DisneySea,Lost River Delta,Indiana Jones Adventure: Temple of the Crystal Skull,10,True
+2025-07-17,20:45,Tokyo DisneySea,Arabian Coast,Jasmine's Flying Carpets,5,True
+2025-07-17,20:45,Tokyo DisneySea,Mysterious Island,Journey to the Center of the Earth,30,True
+2025-07-17,20:45,Tokyo DisneySea,Mermaid Lagoon,Jumpin' Jellyfish,5,True
+2025-07-17,20:45,Tokyo DisneySea,Port Discovery,Nemo & Friends SeaRider,15,True
+2025-07-17,20:45,Tokyo DisneySea,Fantasy Springs,Peter Pan's Neverland Adventure,8,True
+2025-07-17,20:45,Tokyo DisneySea,Lost River Delta,Raging Spirits,8,True
+2025-07-17,20:45,Tokyo DisneySea,Fantasy Springs,Rapunzel's Lantern Festival,5,True
+2025-07-17,20:45,Tokyo DisneySea,Mermaid Lagoon,Scuttle's Scooters,5,True
+2025-07-17,20:45,Tokyo DisneySea,Arabian Coast,Sindbad's Storybook Voyage,5,True
+2025-07-17,20:45,Tokyo DisneySea,Port Discovery,Soaring: Fantastic Flight,28,True
+2025-07-17,20:45,Tokyo DisneySea,Port Discovery,Stormrider,0,False
+2025-07-17,20:45,Tokyo DisneySea,Arabian Coast,The Magic Lamp Theater,0,False
+2025-07-17,20:45,Tokyo DisneySea,Fantasy Springs,Tinker Bell's Neverland Adventure,20,True
+2025-07-17,20:45,Tokyo DisneySea,American Waterfront,Tower of Terror,30,True
+2025-07-17,20:45,Tokyo DisneySea,American Waterfront,Toy Story Mania!,40,True
+2025-07-17,20:45,Tokyo DisneySea,American Waterfront,Turtle Talk,15,True
 2025-07-17,20:45,Tokyo Disneyland,Fantasyland,Alice's Tea Party,5,True
 2025-07-17,20:45,Tokyo Disneyland,Tomorrowland,Baymax's Happy Ride,0,False
 2025-07-17,20:45,Tokyo Disneyland,Fantasyland,Beauty and the Beast,15,True
