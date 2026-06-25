@@ -330,175 +330,204 @@
       "name": "World Bazaar Emporium",
       "park": "Tokyo Disneyland",
       "zone": "World Bazaar",
-      "manual": true
+      "manual": true,
+      "description": "La plus grande sélection de marchandises du parc"
     },
     {
       "name": "Disney & Co.",
       "park": "Tokyo Disneyland",
       "zone": "World Bazaar",
-      "manual": true
+      "manual": true,
+      "description": "Vêtements, articles Disney"
     },
     {
       "name": "Silhouette Studio",
       "park": "Tokyo Disneyland",
       "zone": "World Bazaar",
-      "manual": true
+      "manual": true,
+      "description": "Portraits et silhouettes"
     },
     {
       "name": "Camera Center",
       "park": "Tokyo Disneyland",
       "zone": "World Bazaar",
-      "manual": true
+      "manual": true,
+      "description": "Photos numériques, accessoires photo"
     },
     {
       "name": "Grand Emporium",
       "park": "Tokyo Disneyland",
       "zone": "World Bazaar",
-      "manual": true
+      "manual": true,
+      "description": "Grande boutique générale, souvenirs"
     },
     {
       "name": "Harrington's Jewelry & Watches",
       "park": "Tokyo Disneyland",
       "zone": "World Bazaar",
-      "manual": true
+      "manual": true,
+      "description": "Montres, accessoires, sacs"
     },
     {
       "name": "Town Center Fashions",
       "park": "Tokyo Disneyland",
       "zone": "World Bazaar",
-      "manual": true
+      "manual": true,
+      "description": "La plus grande boutique de vêtements"
     },
     {
       "name": "Adventureland Bazaar",
       "park": "Tokyo Disneyland",
       "zone": "Adventureland",
-      "manual": true
+      "manual": true,
+      "description": "Articles sur le thème des pirates"
     },
     {
       "name": "Western Wear",
       "park": "Tokyo Disneyland",
       "zone": "Westernland",
-      "manual": true
+      "manual": true,
+      "description": "Vêtements et accessoires western"
     },
     {
       "name": "Kingdom Treasures",
       "park": "Tokyo Disneyland",
       "zone": "Fantasyland",
-      "manual": true
+      "manual": true,
+      "description": "Marchandises Winnie l'Ourson et amis"
     },
     {
       "name": "Pooh Corner",
       "park": "Tokyo Disneyland",
       "zone": "Fantasyland",
-      "manual": true
+      "manual": true,
+      "description": "Spécialités sucrées, cadeaux Pooh"
     },
     {
       "name": "Gag Factory / Toontown Five and Dime",
       "park": "Tokyo Disneyland",
       "zone": "Toontown",
-      "manual": true
+      "manual": true,
+      "description": "Coiffes, babioles, bonbons, capsule toys"
     },
     {
       "name": "Mickey's Trailer",
       "park": "Tokyo Disneyland",
       "zone": "Toontown",
-      "manual": true
+      "manual": true,
+      "description": "Boutique de souvenirs Mickey"
     },
     {
       "name": "Treasure Comet",
       "park": "Tokyo Disneyland",
       "zone": "Tomorrowland",
-      "manual": true
+      "manual": true,
+      "description": "Coiffes et articles lumineux"
     },
     {
       "name": "Stargazar Supplies",
       "park": "Tokyo Disneyland",
       "zone": "Tomorrowland",
-      "manual": true
+      "manual": true,
+      "description": "Marchandises Baymax et Stitch, capsule toys"
     },
     {
       "name": "Emporio",
       "park": "Tokyo DisneySea",
       "zone": "Mediterranean Harbor",
-      "manual": true
+      "manual": true,
+      "description": "La plus grande sélection de marchandises du parc"
     },
     {
       "name": "Galleria Disney",
       "park": "Tokyo DisneySea",
       "zone": "Mediterranean Harbor",
-      "manual": true
+      "manual": true,
+      "description": "Boutique générale de souvenirs"
     },
     {
       "name": "Il Postino Stationery",
       "park": "Tokyo DisneySea",
       "zone": "Mediterranean Harbor",
-      "manual": true
+      "manual": true,
+      "description": "Papeterie, livres, DVDs"
     },
     {
       "name": "Valentine's Sweets",
       "park": "Tokyo DisneySea",
       "zone": "Mediterranean Harbor",
-      "manual": true
+      "manual": true,
+      "description": "Chocolats, biscuits, confiseries"
     },
     {
       "name": "Steamboat Mickey's",
       "park": "Tokyo DisneySea",
       "zone": "American Waterfront",
-      "manual": true
+      "manual": true,
+      "description": "Marchandises Duffy et amis"
     },
     {
       "name": "McDuck's Department Store",
       "park": "Tokyo DisneySea",
       "zone": "American Waterfront",
-      "manual": true
+      "manual": true,
+      "description": "La plus grande boutique de vêtements"
     },
     {
       "name": "Newsie's Novelties",
       "park": "Tokyo DisneySea",
       "zone": "American Waterfront",
-      "manual": true
+      "manual": true,
+      "description": "Vêtements Oswald, accessoires"
     },
     {
       "name": "Discovery Gifts",
       "park": "Tokyo DisneySea",
       "zone": "Port Discovery",
-      "manual": true
+      "manual": true,
+      "description": "Articles photo numériques, accessoires"
     },
     {
       "name": "Lost River Outfitters",
       "park": "Tokyo DisneySea",
       "zone": "Lost River Delta",
-      "manual": true
+      "manual": true,
+      "description": "Marchandises Toy Story"
     },
     {
       "name": "Agrabah Marketplace",
       "park": "Tokyo DisneySea",
       "zone": "Arabian Coast",
-      "manual": true
+      "manual": true,
+      "description": "Jeux d'adresse, accessoires arabes"
     },
     {
       "name": "Mermaid Treasures",
       "park": "Tokyo DisneySea",
       "zone": "Mermaid Lagoon",
-      "manual": true
+      "manual": true,
+      "description": "Articles Ariel, confiseries, silhouettes"
     },
     {
       "name": "Nautilus Gifts",
       "park": "Tokyo DisneySea",
       "zone": "Mysterious Island",
-      "manual": true
+      "manual": true,
+      "description": "Peluches, jouets, capsule toys"
     },
     {
       "name": "Fantasy Springs Gifts",
       "park": "Tokyo DisneySea",
       "zone": "Fantasy Springs",
-      "manual": true
+      "manual": true,
+      "description": "Grand magasin Fantasy Springs"
     },
     {
       "name": "Springs Treasures",
       "park": "Tokyo DisneySea",
       "zone": "Fantasy Springs",
-      "manual": true
+      "manual": true,
+      "description": "Coiffes, petits articles"
     }
   ],
   "showEdits": {
@@ -556,5 +585,38 @@
     "The Groovy Jammin' Chefs": {
       "zone": "American Waterfront"
     }
+  },
+  "restoMenus": {
+    "Blue Bayou Restaurant": "Cuisine occidentale",
+    "Polynesian Terrace Restaurant": "Cuisine polynésienne",
+    "Crystal Palace Restaurant": "Cuisine japonaise/occidentale (buffet)",
+    "Camp Woodchuck Kitchen": "Cuisine américaine",
+    "Hungry Bear Restaurant": "Curry japonais",
+    "Plaza Pavilion Restaurant": "Cuisine occidentale",
+    "Queen of Hearts Banquet Hall": "Cuisine japonaise/fusion",
+    "Troubadour Tavern": "Cuisine française",
+    "Pan Galactic Pizza Port": "Pizza",
+    "Tomorrowland Terrace": "Snacks variés",
+    "Huey, Dewey & Louie's Good Time Café": "Snacks américains",
+    "Huey, Dewey and Louie's Good Time Cafe": "Snacks américains",
+    "Magellan's": "Cuisine européenne",
+    "Mamma Biscotti's Bakery": "Boulangerie italienne",
+    "Ristorante di Canaletto": "Cuisine italienne",
+    "Cape Cod Cook-Off": "Cuisine américaine",
+    "New York Deli": "Sandwichs / deli américain",
+    "S.S. Columbia Dining Room": "Cuisine américaine",
+    "Sailing Day Buffet": "Buffet japonais/occidental",
+    "Horizon Bay Restaurant": "Cuisine américaine",
+    "Seaside Snacks": "Snacks",
+    "Yucatan Base Camp Grill": "Grill mexicain",
+    "Miguel's El Dorado Cantina": "Cuisine mexicaine",
+    "Casbah Food Court": "Cuisine du Moyen-Orient",
+    "Sultan's Oasis": "Snacks arabes",
+    "Sebastian's Calypso Kitchen": "Cuisine des Caraïbes",
+    "Vulcania Restaurant": "Cuisine italienne",
+    "The Snuggly Duckling": "Cuisine européenne",
+    "Luisa's Trattoria": "Cuisine italienne",
+    "Friar's Nook": "Snacks",
+    "Baymax Café": "Snacks japonais"
   }
 }
