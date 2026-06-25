@@ -323,6 +323,596 @@
       "type": "Click & Collect",
       "manual": true,
       "clickCollect": true
+    },
+    {
+      "name": "Ice Cream Cones",
+      "park": "Tokyo Disneyland",
+      "zone": "World Bazaar",
+      "hours": "",
+      "type": "Snack",
+      "menu": "Frozen desserts.",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Great American Waffle Co.",
+      "park": "Tokyo Disneyland",
+      "zone": "World Bazaar",
+      "hours": "",
+      "type": "Snack",
+      "menu": "Sweets.",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Center Street Coffeehouse",
+      "park": "Tokyo Disneyland",
+      "zone": "World Bazaar",
+      "hours": "",
+      "type": "Restauration rapide",
+      "menu": "Western cuisine.",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Refreshment Corner",
+      "park": "Tokyo Disneyland",
+      "zone": "World Bazaar",
+      "hours": "",
+      "type": "Snack",
+      "menu": "Hot dogs.",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Restaurant Hokusai",
+      "park": "Tokyo Disneyland",
+      "zone": "World Bazaar",
+      "hours": "",
+      "type": "Service à table",
+      "menu": "Japanese cuisine.",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Food Booth (Adventureland side)",
+      "park": "Tokyo Disneyland",
+      "zone": "World Bazaar",
+      "hours": "",
+      "type": "Snack",
+      "menu": "Menu items to enjoy on the go.",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Food Booth (Tomorrowland side)",
+      "park": "Tokyo Disneyland",
+      "zone": "World Bazaar",
+      "hours": "",
+      "type": "Snack",
+      "menu": "Menu items to enjoy on the go.",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Café Orléans",
+      "park": "Tokyo Disneyland",
+      "zone": "Adventureland",
+      "hours": "",
+      "type": "Snack",
+      "menu": "Sweets.",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "The Gazebo",
+      "park": "Tokyo Disneyland",
+      "zone": "Adventureland",
+      "hours": "",
+      "type": "Snack",
+      "menu": "Menu items to enjoy on the go.",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "The Skipper's Galley",
+      "park": "Tokyo Disneyland",
+      "zone": "Adventureland",
+      "hours": "",
+      "type": "Snack",
+      "menu": "Menu items to enjoy on the go.",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Squeezer's Tropical Juice Bar",
+      "park": "Tokyo Disneyland",
+      "zone": "Adventureland",
+      "hours": "",
+      "type": "Snack",
+      "menu": "Frozen desserts.",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "China Voyager",
+      "park": "Tokyo Disneyland",
+      "zone": "Adventureland",
+      "hours": "",
+      "type": "Restauration rapide",
+      "menu": "Chinese cuisine.",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Parkside Wagon",
+      "park": "Tokyo Disneyland",
+      "zone": "Adventureland",
+      "hours": "",
+      "type": "Snack",
+      "menu": "Churros.",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Fresh Fruit Oasis",
+      "park": "Tokyo Disneyland",
+      "zone": "Adventureland",
+      "hours": "",
+      "type": "Snack",
+      "menu": "Menu items to enjoy on the go.",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Boiler Room Bites",
+      "park": "Tokyo Disneyland",
+      "zone": "Adventureland",
+      "hours": "",
+      "type": "Snack",
+      "menu": "Menu items to enjoy on the go.",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Royal Street Veranda",
+      "park": "Tokyo Disneyland",
+      "zone": "Adventureland",
+      "hours": "",
+      "type": "Snack",
+      "menu": "Beverages (soft drinks).",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Cowboy Cookhouse",
+      "park": "Tokyo Disneyland",
+      "zone": "Westernland",
+      "hours": "",
+      "type": "Restauration rapide",
+      "menu": "Menu items to enjoy on the go.",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "The Diamond Horseshoe",
+      "park": "Tokyo Disneyland",
+      "zone": "Westernland",
+      "hours": "",
+      "type": "Repas avec personnages",
+      "menu": "Restaurant with show presented.",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Pecos Bill Cafe",
+      "park": "Tokyo Disneyland",
+      "zone": "Westernland",
+      "hours": "",
+      "type": "Restauration rapide",
+      "menu": "Menu items to enjoy on the go.",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Grandma Sara's Kitchen",
+      "park": "Tokyo Disneyland",
+      "zone": "Critter Country",
+      "hours": "",
+      "type": "Restauration rapide",
+      "menu": "Seasonal dishes.",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Rackety's Raccoon Saloon",
+      "park": "Tokyo Disneyland",
+      "zone": "Critter Country",
+      "hours": "",
+      "type": "Snack",
+      "menu": "Menu items to enjoy on the go.",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Captain Hook's Galley",
+      "park": "Tokyo Disneyland",
+      "zone": "Fantasyland",
+      "hours": "",
+      "type": "Restauration rapide",
+      "menu": "Pizza.",
+      "manual": true,
+      "clickCollect": true
+    },
+    {
+      "name": "Village Pastry",
+      "park": "Tokyo Disneyland",
+      "zone": "Fantasyland",
+      "hours": "",
+      "type": "Snack",
+      "menu": "Sweets.",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Magical Market",
+      "park": "Tokyo Disneyland",
+      "zone": "Fantasyland",
+      "hours": "",
+      "type": "Snack",
+      "menu": "Sweets.",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "La Taverne de Gaston",
+      "park": "Tokyo Disneyland",
+      "zone": "Fantasyland",
+      "hours": "",
+      "type": "Restauration rapide",
+      "menu": "Sandwiches.",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "LeFou's",
+      "park": "Tokyo Disneyland",
+      "zone": "Fantasyland",
+      "hours": "",
+      "type": "Snack",
+      "menu": "Churros.",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Le Petit Popper",
+      "park": "Tokyo Disneyland",
+      "zone": "Fantasyland",
+      "hours": "",
+      "type": "Snack",
+      "menu": "Popcorn.",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Toontone Treats",
+      "park": "Tokyo Disneyland",
+      "zone": "Toontown",
+      "hours": "",
+      "type": "Restauration rapide",
+      "menu": "Seasonal dishes.",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Toon Pop",
+      "park": "Tokyo Disneyland",
+      "zone": "Toontown",
+      "hours": "",
+      "type": "Snack",
+      "menu": "Popcorn.",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Pop-A-Lot Popcorn",
+      "park": "Tokyo Disneyland",
+      "zone": "Toontown",
+      "hours": "",
+      "type": "Snack",
+      "menu": "Popcorn.",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Soft Landing",
+      "park": "Tokyo Disneyland",
+      "zone": "Tomorrowland",
+      "hours": "",
+      "type": "Snack",
+      "menu": "Beverages (soft drinks).",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "The Big Pop",
+      "park": "Tokyo Disneyland",
+      "zone": "Tomorrowland",
+      "hours": "",
+      "type": "Snack",
+      "menu": "Popcorn.",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Plazma Ray's Diner",
+      "park": "Tokyo Disneyland",
+      "zone": "Tomorrowland",
+      "hours": "",
+      "type": "Restauration rapide",
+      "menu": "Seasonal dishes.",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Cafe Portofino",
+      "park": "Tokyo DisneySea",
+      "zone": "Mediterranean Harbor",
+      "hours": "",
+      "type": "Service à table",
+      "menu": "Western cuisine.",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Gondolier Snacks",
+      "park": "Tokyo DisneySea",
+      "zone": "Mediterranean Harbor",
+      "hours": "",
+      "type": "Snack",
+      "menu": "Sweets.",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Zambini Brothers' Ristorante",
+      "park": "Tokyo DisneySea",
+      "zone": "Mediterranean Harbor",
+      "hours": "",
+      "type": "Restauration rapide",
+      "menu": "Pizza.",
+      "manual": true,
+      "clickCollect": true
+    },
+    {
+      "name": "Refrescos",
+      "park": "Tokyo DisneySea",
+      "zone": "Mediterranean Harbor",
+      "hours": "",
+      "type": "Snack",
+      "menu": "Menu items to enjoy on the go.",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Cape Cod Confections",
+      "park": "Tokyo DisneySea",
+      "zone": "American Waterfront",
+      "hours": "",
+      "type": "Snack",
+      "menu": "Beverages (soft drinks).",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "The Teddy Roosevelt Lounge",
+      "park": "Tokyo DisneySea",
+      "zone": "American Waterfront",
+      "hours": "",
+      "type": "Snack",
+      "menu": "Beverages (alcoholic).",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Delancey Catering",
+      "park": "Tokyo DisneySea",
+      "zone": "American Waterfront",
+      "hours": "",
+      "type": "Snack",
+      "menu": "Hot dogs.",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Dockside Diner",
+      "park": "Tokyo DisneySea",
+      "zone": "American Waterfront",
+      "hours": "",
+      "type": "Restauration rapide",
+      "menu": "Seasonal dishes.",
+      "manual": true,
+      "clickCollect": true
+    },
+    {
+      "name": "Barnacle Bill's",
+      "park": "Tokyo DisneySea",
+      "zone": "American Waterfront",
+      "hours": "",
+      "type": "Snack",
+      "menu": "Beverages (alcoholic).",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "High Tide Treats",
+      "park": "Tokyo DisneySea",
+      "zone": "American Waterfront",
+      "hours": "",
+      "type": "Snack",
+      "menu": "Churros.",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Hudson River Harvest",
+      "park": "Tokyo DisneySea",
+      "zone": "American Waterfront",
+      "hours": "",
+      "type": "Snack",
+      "menu": "Menu items to enjoy on the go.",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Papadakis Fresh Fruit",
+      "park": "Tokyo DisneySea",
+      "zone": "American Waterfront",
+      "hours": "",
+      "type": "Snack",
+      "menu": "Beverages (soft drinks).",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Liberty Landing Diner",
+      "park": "Tokyo DisneySea",
+      "zone": "American Waterfront",
+      "hours": "",
+      "type": "Snack",
+      "menu": "Sweets.",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Restaurant Sakura",
+      "park": "Tokyo DisneySea",
+      "zone": "American Waterfront",
+      "hours": "",
+      "type": "Service à table",
+      "menu": "Japanese cuisine.",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Waterside Terrace",
+      "park": "Tokyo DisneySea",
+      "zone": "American Waterfront",
+      "hours": "",
+      "type": "Snack",
+      "menu": "Menu items to enjoy on the go.",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Breezeway Bites",
+      "park": "Tokyo DisneySea",
+      "zone": "Port Discovery",
+      "hours": "",
+      "type": "Snack",
+      "menu": "Menu items to enjoy on the go.",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Bayside Takeout",
+      "park": "Tokyo DisneySea",
+      "zone": "Port Discovery",
+      "hours": "",
+      "type": "Snack",
+      "menu": "Churros.",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Expedition Eats",
+      "park": "Tokyo DisneySea",
+      "zone": "Lost River Delta",
+      "hours": "",
+      "type": "Snack",
+      "menu": "Menu items to enjoy on the go.",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Tropic Al's",
+      "park": "Tokyo DisneySea",
+      "zone": "Lost River Delta",
+      "hours": "",
+      "type": "Snack",
+      "menu": "Sweets.",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Lost River Cookhouse",
+      "park": "Tokyo DisneySea",
+      "zone": "Lost River Delta",
+      "hours": "",
+      "type": "Snack",
+      "menu": "Menu items to enjoy on the go.",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Lookout Cookout",
+      "park": "Tokyo DisneySea",
+      "zone": "Fantasy Springs",
+      "hours": "",
+      "type": "Snack",
+      "menu": "Snacks.",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Royal Banquet of Arendelle",
+      "park": "Tokyo DisneySea",
+      "zone": "Fantasy Springs",
+      "hours": "",
+      "type": "Service à table",
+      "menu": "Western cuisine.",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Oaken's OK Foods",
+      "park": "Tokyo DisneySea",
+      "zone": "Fantasy Springs",
+      "hours": "",
+      "type": "Snack",
+      "menu": "Menu items to enjoy on the go.",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Open Sesame",
+      "park": "Tokyo DisneySea",
+      "zone": "Arabian Coast",
+      "hours": "",
+      "type": "Snack",
+      "menu": "Churros.",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Nautilus Galley",
+      "park": "Tokyo DisneySea",
+      "zone": "Mysterious Island",
+      "hours": "",
+      "type": "Snack",
+      "menu": "Menu items to enjoy on the go.",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Refreshment Station",
+      "park": "Tokyo DisneySea",
+      "zone": "Mysterious Island",
+      "hours": "",
+      "type": "Snack",
+      "menu": "Menu items to enjoy on the go.",
+      "manual": true,
+      "clickCollect": false
     }
   ],
   "manualShopsList": [
@@ -528,6 +1118,370 @@
       "zone": "Fantasy Springs",
       "manual": true,
       "description": "Coiffes, petits articles"
+    },
+    {
+      "name": "Toy Station",
+      "park": "Tokyo Disneyland",
+      "zone": "World Bazaar",
+      "manual": true,
+      "description": "The biggest toy/plush doll shop in the Park."
+    },
+    {
+      "name": "House of Greetings",
+      "park": "Tokyo Disneyland",
+      "zone": "World Bazaar",
+      "manual": true,
+      "description": "Stationery, books, DVDs, and more."
+    },
+    {
+      "name": "Bibbidi Bobbidi Boutique",
+      "park": "Tokyo Disneyland",
+      "zone": "World Bazaar",
+      "manual": true,
+      "description": "A dreams-come-true beauty salon for young girls."
+    },
+    {
+      "name": "Pastry Palace",
+      "park": "Tokyo Disneyland",
+      "zone": "World Bazaar",
+      "manual": true,
+      "description": "Cookies, cakes, and other treats."
+    },
+    {
+      "name": "The Home Store",
+      "park": "Tokyo Disneyland",
+      "zone": "World Bazaar",
+      "manual": true,
+      "description": "Tableware and other interior goods."
+    },
+    {
+      "name": "Magic Shop",
+      "park": "Tokyo Disneyland",
+      "zone": "World Bazaar",
+      "manual": true,
+      "description": "Demonstration and sales of magic tricks."
+    },
+    {
+      "name": "World Bazaar Confectionery",
+      "park": "Tokyo Disneyland",
+      "zone": "World Bazaar",
+      "manual": true,
+      "description": "The Park's largest shop for sweets."
+    },
+    {
+      "name": "Cristal Arts",
+      "park": "Tokyo Disneyland",
+      "zone": "Adventureland",
+      "manual": true,
+      "description": "Demonstration and sales of glasswork crafted by artisans."
+    },
+    {
+      "name": "The Golden Galleon",
+      "park": "Tokyo Disneyland",
+      "zone": "Adventureland",
+      "manual": true,
+      "description": "Novelties themed to pirates."
+    },
+    {
+      "name": "Jungle Carnival",
+      "park": "Tokyo Disneyland",
+      "zone": "Adventureland",
+      "manual": true,
+      "description": "Try your skill with the fun games here."
+    },
+    {
+      "name": "Party Gras Gifts",
+      "park": "Tokyo Disneyland",
+      "zone": "Adventureland",
+      "manual": true,
+      "description": "Wearable items, accessories, and more."
+    },
+    {
+      "name": "Pirate Treasure",
+      "park": "Tokyo Disneyland",
+      "zone": "Adventureland",
+      "manual": true,
+      "description": "Items in the image of buccaneer riches."
+    },
+    {
+      "name": "La Petite Parfumerie",
+      "park": "Tokyo Disneyland",
+      "zone": "Adventureland",
+      "manual": true,
+      "description": "Fragrances, body care products, and more."
+    },
+    {
+      "name": "Le Marché Bleu",
+      "park": "Tokyo Disneyland",
+      "zone": "Adventureland",
+      "manual": true,
+      "description": "Wagon offering hairbands and fun caps."
+    },
+    {
+      "name": "Westernland Picture Parlour",
+      "park": "Tokyo Disneyland",
+      "zone": "Westernland",
+      "manual": true,
+      "description": "Keepsake portraits that capture the Old West."
+    },
+    {
+      "name": "Country Bear Bandwagon",
+      "park": "Tokyo Disneyland",
+      "zone": "Westernland",
+      "manual": true,
+      "description": "Fun caps and hairbands."
+    },
+    {
+      "name": "General Store",
+      "park": "Tokyo Disneyland",
+      "zone": "Westernland",
+      "manual": true,
+      "description": "Snacks and confections."
+    },
+    {
+      "name": "Trading Post",
+      "park": "Tokyo Disneyland",
+      "zone": "Westernland",
+      "manual": true,
+      "description": "Disney Character items and more."
+    },
+    {
+      "name": "Happy Camper Supplies",
+      "park": "Tokyo Disneyland",
+      "zone": "Westernland",
+      "manual": true,
+      "description": "Items featuring Donald Duck, fun caps, and more."
+    },
+    {
+      "name": "Frontier Woodcraft",
+      "park": "Tokyo Disneyland",
+      "zone": "Westernland",
+      "manual": true,
+      "description": "Original items made here."
+    },
+    {
+      "name": "Splashdown Photos",
+      "park": "Tokyo Disneyland",
+      "zone": "Critter Country",
+      "manual": true,
+      "description": "Keepsake photos of your plunge down Splash Mountain."
+    },
+    {
+      "name": "The Glass Slipper",
+      "park": "Tokyo Disneyland",
+      "zone": "Fantasyland",
+      "manual": true,
+      "description": "Demonstration and sales of glasswork crafted by artisans."
+    },
+    {
+      "name": "Stromboli's Wagon",
+      "park": "Tokyo Disneyland",
+      "zone": "Fantasyland",
+      "manual": true,
+      "description": "Fun caps and hairbands."
+    },
+    {
+      "name": "Harmony Faire",
+      "park": "Tokyo Disneyland",
+      "zone": "Fantasyland",
+      "manual": true,
+      "description": "Fun caps, hairbands, and other wearable items."
+    },
+    {
+      "name": "Village Shoppes",
+      "park": "Tokyo Disneyland",
+      "zone": "Fantasyland",
+      "manual": true,
+      "description": "La Belle Librairie, Little Town Traders, Bonjour Gifts; items themed to Beauty and the Beast."
+    },
+    {
+      "name": "Brave Little Tailor Shoppe",
+      "park": "Tokyo Disneyland",
+      "zone": "Fantasyland",
+      "manual": true,
+      "description": "Baby goods and apparel for kids."
+    },
+    {
+      "name": "Pleasure Island Candies",
+      "park": "Tokyo Disneyland",
+      "zone": "Fantasyland",
+      "manual": true,
+      "description": "Candies and other sweets."
+    },
+    {
+      "name": "Toontown Delivery Co.",
+      "park": "Tokyo Disneyland",
+      "zone": "Toontown",
+      "manual": true,
+      "description": "Wagon with fun caps, hairbands, and light-up items."
+    },
+    {
+      "name": "Cosmic Encounter",
+      "park": "Tokyo Disneyland",
+      "zone": "Tomorrowland",
+      "manual": true,
+      "description": "Fun caps, hairbands, and other wearable items."
+    },
+    {
+      "name": "Monsters, Inc. Company Store",
+      "park": "Tokyo Disneyland",
+      "zone": "Tomorrowland",
+      "manual": true,
+      "description": "Merchandise featuring the monsters."
+    },
+    {
+      "name": "Valentina's Sweets",
+      "park": "Tokyo DisneySea",
+      "zone": "Mediterranean Harbor",
+      "manual": true,
+      "description": "The largest confectionery shop in the Park."
+    },
+    {
+      "name": "Villa Donaldo Home Shop",
+      "park": "Tokyo DisneySea",
+      "zone": "Mediterranean Harbor",
+      "manual": true,
+      "description": "Towels, toothbrushes, and other household items."
+    },
+    {
+      "name": "Venetian Carnival Market",
+      "park": "Tokyo DisneySea",
+      "zone": "Mediterranean Harbor",
+      "manual": true,
+      "description": "Tableware and other items."
+    },
+    {
+      "name": "Splendido",
+      "park": "Tokyo DisneySea",
+      "zone": "Mediterranean Harbor",
+      "manual": true,
+      "description": "Fun caps and hairbands offered at this wagon."
+    },
+    {
+      "name": "Piccolo Mercato",
+      "park": "Tokyo DisneySea",
+      "zone": "Mediterranean Harbor",
+      "manual": true,
+      "description": "Wagon with hairbands, pass cases, light-up items, and more."
+    },
+    {
+      "name": "Figaro's Clothiers",
+      "park": "Tokyo DisneySea",
+      "zone": "Mediterranean Harbor",
+      "manual": true,
+      "description": "The Park's largest apparel shop."
+    },
+    {
+      "name": "Fotografica",
+      "park": "Tokyo DisneySea",
+      "zone": "Mediterranean Harbor",
+      "manual": true,
+      "description": "Digital photo media, camera accessories. Prepaid SIM cards also available."
+    },
+    {
+      "name": "Bella Minni Collections",
+      "park": "Tokyo DisneySea",
+      "zone": "Mediterranean Harbor",
+      "manual": true,
+      "description": "Accessories, bags, and more."
+    },
+    {
+      "name": "Merchant of Venice Confections",
+      "park": "Tokyo DisneySea",
+      "zone": "Mediterranean Harbor",
+      "manual": true,
+      "description": "Chocolates, cookies and other treats."
+    },
+    {
+      "name": "Miramare",
+      "park": "Tokyo DisneySea",
+      "zone": "Mediterranean Harbor",
+      "manual": true,
+      "description": "Wagon offering hairbands, seasonal items, and more."
+    },
+    {
+      "name": "Rimembranze",
+      "park": "Tokyo DisneySea",
+      "zone": "Mediterranean Harbor",
+      "manual": true,
+      "description": "Disney Character items and more."
+    },
+    {
+      "name": "Aunt Peg's Village Store",
+      "park": "Tokyo DisneySea",
+      "zone": "American Waterfront",
+      "manual": true,
+      "description": "Duffy merchandise."
+    },
+    {
+      "name": "Slinky Dog's Gift Trolley",
+      "park": "Tokyo DisneySea",
+      "zone": "American Waterfront",
+      "manual": true,
+      "description": "Wagon with merchandise themed to Disney and Pixar Toy Story films."
+    },
+    {
+      "name": "Tower of Terror Memorabilia",
+      "park": "Tokyo DisneySea",
+      "zone": "American Waterfront",
+      "manual": true,
+      "description": "Souvenir photos and Tower of Terror merchandise."
+    },
+    {
+      "name": "Skywatcher Souvenirs",
+      "park": "Tokyo DisneySea",
+      "zone": "Port Discovery",
+      "manual": true,
+      "description": "Wagon offering hairbands and light-up items."
+    },
+    {
+      "name": "Expedition Photo Archives",
+      "park": "Tokyo DisneySea",
+      "zone": "Lost River Delta",
+      "manual": true,
+      "description": "Photos from your adventure at Indiana Jones Adventure: Temple of the Crystal Skull."
+    },
+    {
+      "name": "Peddlers' Outpost",
+      "park": "Tokyo DisneySea",
+      "zone": "Lost River Delta",
+      "manual": true,
+      "description": "Wagon offering hairbands and light-up items."
+    },
+    {
+      "name": "Lookout Traders",
+      "park": "Tokyo DisneySea",
+      "zone": "Lost River Delta",
+      "manual": true,
+      "description": "Wagon offering hairbands, light-up items, and more."
+    },
+    {
+      "name": "Abu's Bazaar",
+      "park": "Tokyo DisneySea",
+      "zone": "Arabian Coast",
+      "manual": true,
+      "description": "Try your skill with the fun games here."
+    },
+    {
+      "name": "Kiss de Girl Fashions",
+      "park": "Tokyo DisneySea",
+      "zone": "Mermaid Lagoon",
+      "manual": true,
+      "description": "Baby items, kids' apparel, and more."
+    },
+    {
+      "name": "Cove of Wonders",
+      "park": "Tokyo DisneySea",
+      "zone": "Mermaid Lagoon",
+      "manual": true,
+      "description": "Hairbands, light-up toys, and more."
+    },
+    {
+      "name": "The Sleepy Whale Shoppe",
+      "park": "Tokyo DisneySea",
+      "zone": "Mermaid Lagoon",
+      "manual": true,
+      "description": "Ariel items, confectionery, silhouette portraits."
     }
   ],
   "showEdits": {
