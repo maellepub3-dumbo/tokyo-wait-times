@@ -1,1 +1,504 @@
-{}
+{
+  "manualRestos": [
+    {
+      "name": "Eastside Café",
+      "park": "Tokyo Disneyland",
+      "zone": "World Bazaar",
+      "hours": "11:00 - 21:00",
+      "type": "Service à table",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Plaza Pavilion Restaurant",
+      "park": "Tokyo Disneyland",
+      "zone": "World Bazaar",
+      "hours": "11:00 - 20:00",
+      "type": "Service à table",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Sweetheart Café",
+      "park": "Tokyo Disneyland",
+      "zone": "World Bazaar",
+      "hours": "09:00 - 21:00",
+      "type": "Restauration rapide",
+      "manual": true,
+      "clickCollect": true
+    },
+    {
+      "name": "Jolly Holiday Bakery Café",
+      "park": "Tokyo Disneyland",
+      "zone": "World Bazaar",
+      "hours": "09:00 - 21:00",
+      "type": "Snack",
+      "manual": true,
+      "clickCollect": true
+    },
+    {
+      "name": "Crystal Palace Restaurant",
+      "park": "Tokyo Disneyland",
+      "zone": "World Bazaar",
+      "hours": "11:00 - 20:00",
+      "type": "Buffet",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Blue Bayou Restaurant",
+      "park": "Tokyo Disneyland",
+      "zone": "Adventureland",
+      "hours": "11:00 - 20:00",
+      "type": "Service à table",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Polynesian Terrace Restaurant",
+      "park": "Tokyo Disneyland",
+      "zone": "Adventureland",
+      "hours": "11:00 - 20:00",
+      "type": "Service à table",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Skipper's Tropical Hideout",
+      "park": "Tokyo Disneyland",
+      "zone": "Adventureland",
+      "hours": "11:00 - 19:00",
+      "type": "Restauration rapide",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Plaza Restaurant",
+      "park": "Tokyo Disneyland",
+      "zone": "Westernland",
+      "hours": "11:00 - 20:00",
+      "type": "Service à table",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Camp Woodchuck Kitchen",
+      "park": "Tokyo Disneyland",
+      "zone": "Westernland",
+      "hours": "10:00 - 20:00",
+      "type": "Restauration rapide",
+      "manual": true,
+      "clickCollect": true
+    },
+    {
+      "name": "Hungry Bear Restaurant",
+      "park": "Tokyo Disneyland",
+      "zone": "Critter Country",
+      "hours": "11:00 - 20:00",
+      "type": "Restauration rapide",
+      "manual": true,
+      "clickCollect": true
+    },
+    {
+      "name": "Queen of Hearts Banquet Hall",
+      "park": "Tokyo Disneyland",
+      "zone": "Fantasyland",
+      "hours": "11:00 - 20:00",
+      "type": "Restauration rapide",
+      "manual": true,
+      "clickCollect": true
+    },
+    {
+      "name": "Pinocchio Village Kitchen",
+      "park": "Tokyo Disneyland",
+      "zone": "Fantasyland",
+      "hours": "11:00 - 19:00",
+      "type": "Restauration rapide",
+      "manual": true,
+      "clickCollect": true
+    },
+    {
+      "name": "Troubadour Tavern",
+      "park": "Tokyo Disneyland",
+      "zone": "Fantasyland",
+      "hours": "10:00 - 19:00",
+      "type": "Snack",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Huey, Dewey & Louie's Good Time Café",
+      "park": "Tokyo Disneyland",
+      "zone": "Toontown",
+      "hours": "10:00 - 19:00",
+      "type": "Restauration rapide",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Pan Galactic Pizza Port",
+      "park": "Tokyo Disneyland",
+      "zone": "Tomorrowland",
+      "hours": "11:00 - 20:00",
+      "type": "Restauration rapide",
+      "manual": true,
+      "clickCollect": true
+    },
+    {
+      "name": "Tomorrowland Terrace",
+      "park": "Tokyo Disneyland",
+      "zone": "Tomorrowland",
+      "hours": "10:00 - 20:00",
+      "type": "Restauration rapide",
+      "manual": true,
+      "clickCollect": true
+    },
+    {
+      "name": "Magellan's",
+      "park": "Tokyo DisneySea",
+      "zone": "Mediterranean Harbor",
+      "hours": "11:30 - 20:00",
+      "type": "Service à table",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Mamma Biscotti's Bakery",
+      "park": "Tokyo DisneySea",
+      "zone": "Mediterranean Harbor",
+      "hours": "10:00 - 20:00",
+      "type": "Snack",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Ristorante di Canaletto",
+      "park": "Tokyo DisneySea",
+      "zone": "Mediterranean Harbor",
+      "hours": "11:30 - 20:00",
+      "type": "Service à table",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Cape Cod Cook-Off",
+      "park": "Tokyo DisneySea",
+      "zone": "American Waterfront",
+      "hours": "11:00 - 20:00",
+      "type": "Restauration rapide",
+      "manual": true,
+      "clickCollect": true
+    },
+    {
+      "name": "New York Deli",
+      "park": "Tokyo DisneySea",
+      "zone": "American Waterfront",
+      "hours": "11:00 - 20:00",
+      "type": "Restauration rapide",
+      "manual": true,
+      "clickCollect": true
+    },
+    {
+      "name": "S.S. Columbia Dining Room",
+      "park": "Tokyo DisneySea",
+      "zone": "American Waterfront",
+      "hours": "11:30 - 20:00",
+      "type": "Service à table",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Sailing Day Buffet",
+      "park": "Tokyo DisneySea",
+      "zone": "American Waterfront",
+      "hours": "11:00 - 20:00",
+      "type": "Buffet",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Horizon Bay Restaurant",
+      "park": "Tokyo DisneySea",
+      "zone": "American Waterfront",
+      "hours": "11:00 - 20:00",
+      "type": "Restauration rapide",
+      "manual": true,
+      "clickCollect": true
+    },
+    {
+      "name": "Seaside Snacks",
+      "park": "Tokyo DisneySea",
+      "zone": "Port Discovery",
+      "hours": "10:00 - 19:00",
+      "type": "Snack",
+      "manual": true,
+      "clickCollect": true
+    },
+    {
+      "name": "Yucatan Base Camp Grill",
+      "park": "Tokyo DisneySea",
+      "zone": "Lost River Delta",
+      "hours": "11:00 - 20:00",
+      "type": "Restauration rapide",
+      "manual": true,
+      "clickCollect": true
+    },
+    {
+      "name": "Miguel's El Dorado Cantina",
+      "park": "Tokyo DisneySea",
+      "zone": "Lost River Delta",
+      "hours": "11:00 - 19:00",
+      "type": "Snack",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Casbah Food Court",
+      "park": "Tokyo DisneySea",
+      "zone": "Arabian Coast",
+      "hours": "11:00 - 20:00",
+      "type": "Restauration rapide",
+      "manual": true,
+      "clickCollect": true
+    },
+    {
+      "name": "Sultan's Oasis",
+      "park": "Tokyo DisneySea",
+      "zone": "Arabian Coast",
+      "hours": "10:00 - 19:00",
+      "type": "Snack",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Sebastian's Calypso Kitchen",
+      "park": "Tokyo DisneySea",
+      "zone": "Mermaid Lagoon",
+      "hours": "11:00 - 19:00",
+      "type": "Restauration rapide",
+      "manual": true,
+      "clickCollect": true
+    },
+    {
+      "name": "Vulcania Restaurant",
+      "park": "Tokyo DisneySea",
+      "zone": "Mysterious Island",
+      "hours": "11:00 - 20:00",
+      "type": "Restauration rapide",
+      "manual": true,
+      "clickCollect": true
+    },
+    {
+      "name": "The Snuggly Duckling",
+      "park": "Tokyo DisneySea",
+      "zone": "Fantasy Springs",
+      "hours": "11:00 - 20:00",
+      "type": "Service à table",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Luisa's Trattoria",
+      "park": "Tokyo DisneySea",
+      "zone": "Fantasy Springs",
+      "hours": "11:00 - 20:00",
+      "type": "Service à table",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Friar's Nook",
+      "park": "Tokyo DisneySea",
+      "zone": "Fantasy Springs",
+      "hours": "10:00 - 19:00",
+      "type": "Snack",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Baymax Café",
+      "park": "Tokyo DisneySea",
+      "zone": "Fantasy Springs",
+      "hours": "10:00 - 19:00",
+      "type": "Click & Collect",
+      "manual": true,
+      "clickCollect": true
+    }
+  ],
+  "manualShopsList": [
+    {
+      "name": "World Bazaar Emporium",
+      "park": "Tokyo Disneyland",
+      "zone": "World Bazaar",
+      "manual": true
+    },
+    {
+      "name": "Disney & Co.",
+      "park": "Tokyo Disneyland",
+      "zone": "World Bazaar",
+      "manual": true
+    },
+    {
+      "name": "Silhouette Studio",
+      "park": "Tokyo Disneyland",
+      "zone": "World Bazaar",
+      "manual": true
+    },
+    {
+      "name": "Camera Center",
+      "park": "Tokyo Disneyland",
+      "zone": "World Bazaar",
+      "manual": true
+    },
+    {
+      "name": "Grand Emporium",
+      "park": "Tokyo Disneyland",
+      "zone": "World Bazaar",
+      "manual": true
+    },
+    {
+      "name": "Harrington's Jewelry & Watches",
+      "park": "Tokyo Disneyland",
+      "zone": "World Bazaar",
+      "manual": true
+    },
+    {
+      "name": "Town Center Fashions",
+      "park": "Tokyo Disneyland",
+      "zone": "World Bazaar",
+      "manual": true
+    },
+    {
+      "name": "Adventureland Bazaar",
+      "park": "Tokyo Disneyland",
+      "zone": "Adventureland",
+      "manual": true
+    },
+    {
+      "name": "Western Wear",
+      "park": "Tokyo Disneyland",
+      "zone": "Westernland",
+      "manual": true
+    },
+    {
+      "name": "Kingdom Treasures",
+      "park": "Tokyo Disneyland",
+      "zone": "Fantasyland",
+      "manual": true
+    },
+    {
+      "name": "Pooh Corner",
+      "park": "Tokyo Disneyland",
+      "zone": "Fantasyland",
+      "manual": true
+    },
+    {
+      "name": "Gag Factory / Toontown Five and Dime",
+      "park": "Tokyo Disneyland",
+      "zone": "Toontown",
+      "manual": true
+    },
+    {
+      "name": "Mickey's Trailer",
+      "park": "Tokyo Disneyland",
+      "zone": "Toontown",
+      "manual": true
+    },
+    {
+      "name": "Treasure Comet",
+      "park": "Tokyo Disneyland",
+      "zone": "Tomorrowland",
+      "manual": true
+    },
+    {
+      "name": "Stargazar Supplies",
+      "park": "Tokyo Disneyland",
+      "zone": "Tomorrowland",
+      "manual": true
+    },
+    {
+      "name": "Emporio",
+      "park": "Tokyo DisneySea",
+      "zone": "Mediterranean Harbor",
+      "manual": true
+    },
+    {
+      "name": "Galleria Disney",
+      "park": "Tokyo DisneySea",
+      "zone": "Mediterranean Harbor",
+      "manual": true
+    },
+    {
+      "name": "Il Postino Stationery",
+      "park": "Tokyo DisneySea",
+      "zone": "Mediterranean Harbor",
+      "manual": true
+    },
+    {
+      "name": "Valentine's Sweets",
+      "park": "Tokyo DisneySea",
+      "zone": "Mediterranean Harbor",
+      "manual": true
+    },
+    {
+      "name": "Steamboat Mickey's",
+      "park": "Tokyo DisneySea",
+      "zone": "American Waterfront",
+      "manual": true
+    },
+    {
+      "name": "McDuck's Department Store",
+      "park": "Tokyo DisneySea",
+      "zone": "American Waterfront",
+      "manual": true
+    },
+    {
+      "name": "Newsie's Novelties",
+      "park": "Tokyo DisneySea",
+      "zone": "American Waterfront",
+      "manual": true
+    },
+    {
+      "name": "Discovery Gifts",
+      "park": "Tokyo DisneySea",
+      "zone": "Port Discovery",
+      "manual": true
+    },
+    {
+      "name": "Lost River Outfitters",
+      "park": "Tokyo DisneySea",
+      "zone": "Lost River Delta",
+      "manual": true
+    },
+    {
+      "name": "Agrabah Marketplace",
+      "park": "Tokyo DisneySea",
+      "zone": "Arabian Coast",
+      "manual": true
+    },
+    {
+      "name": "Mermaid Treasures",
+      "park": "Tokyo DisneySea",
+      "zone": "Mermaid Lagoon",
+      "manual": true
+    },
+    {
+      "name": "Nautilus Gifts",
+      "park": "Tokyo DisneySea",
+      "zone": "Mysterious Island",
+      "manual": true
+    },
+    {
+      "name": "Fantasy Springs Gifts",
+      "park": "Tokyo DisneySea",
+      "zone": "Fantasy Springs",
+      "manual": true
+    },
+    {
+      "name": "Springs Treasures",
+      "park": "Tokyo DisneySea",
+      "zone": "Fantasy Springs",
+      "manual": true
+    }
+  ]
+}
