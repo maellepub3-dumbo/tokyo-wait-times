@@ -500,5 +500,61 @@
       "zone": "Fantasy Springs",
       "manual": true
     }
-  ]
+  ],
+  "showEdits": {
+    "The Diamond Variety Muster": {
+      "zone": "World Bazaar"
+    },
+    "Disney Harmony in Color": {
+      "zone": "World Bazaar"
+    },
+    "Sky Full of Colors  (Tokyo Disneyland)": {
+      "zone": "World Bazaar"
+    },
+    "Sky Full of Colors (Tokyo Disneyland)": {
+      "zone": "World Bazaar"
+    },
+    "It's a Sweetsful Time!": {
+      "zone": "World Bazaar"
+    },
+    "Tokyo Disneyland Electrical Parade Dreamlights": {
+      "zone": "World Bazaar"
+    },
+    "Mickey's Rainbow Luau": {
+      "zone": "Adventureland"
+    },
+    "Jamboree Mickey! Let's Dance!(Dance Program for Kids)": {
+      "zone": "Fantasyland"
+    },
+    "Mickey's Magical Music World": {
+      "zone": "Toontown"
+    },
+    "Reach for the Stars": {
+      "zone": "Fantasyland"
+    },
+    "Sparkling Jubilee Celebration": {
+      "zone": "Mediterranean Harbor"
+    },
+    "Special Image Projection: Sparkling Jubilee Night": {
+      "zone": "Mediterranean Harbor"
+    },
+    "Believe! Sea of Dreams": {
+      "zone": "Mediterranean Harbor"
+    },
+    "Duffy and Friends' Wonderful Friendship": {
+      "zone": "American Waterfront"
+    },
+    "Sky Full of Colors (Tokyo DisneySea)": {
+      "zone": "Mediterranean Harbor"
+    },
+    "Dance the Globe!": {
+      "zone": "American Waterfront"
+    },
+    "Dreams Take Flight": {
+      "zone": "Mermaid Lagoon"
+    },
+    "The Groovy Jammin' Chefs": {
+      "zone": "American Waterfront"
+    }
+  }
 }
