@@ -578,5 +578,253 @@
     "Sebastian's Calypso Kitchen": "Cuisine des Caraïbes",
     "Vulcania Restaurant": "Cuisine italienne",
     "The Snuggly Duckling": "Cuisine européenne"
+  },
+  "shopEdits": {
+    "World Bazaar Emporium": {
+      "notes": "La plus grande sélection de marchandises du parc"
+    },
+    "Disney & Co.": {
+      "notes": "Vêtements, articles Disney"
+    },
+    "Silhouette Studio": {
+      "notes": "Portraits et silhouettes"
+    },
+    "Camera Center": {
+      "notes": "Photos numériques, accessoires photo"
+    },
+    "Grand Emporium": {
+      "notes": "Grande boutique générale, souvenirs"
+    },
+    "Harrington's Jewelry & Watches": {
+      "notes": "Montres, accessoires, sacs"
+    },
+    "Town Center Fashions": {
+      "notes": "La plus grande boutique de vêtements"
+    },
+    "Adventureland Bazaar": {
+      "notes": "Articles sur le thème des pirates"
+    },
+    "Western Wear": {
+      "notes": "Vêtements et accessoires western"
+    },
+    "Kingdom Treasures": {
+      "notes": "Marchandises Winnie l'Ourson et amis"
+    },
+    "Pooh Corner": {
+      "notes": "Spécialités sucrées, cadeaux Pooh"
+    },
+    "Gag Factory / Toontown Five and Dime": {
+      "notes": "Coiffes, babioles, bonbons, capsule toys"
+    },
+    "Mickey's Trailer": {
+      "notes": "Boutique de souvenirs Mickey"
+    },
+    "Treasure Comet": {
+      "notes": "Coiffes et articles lumineux"
+    },
+    "Stargazar Supplies": {
+      "notes": "Marchandises Baymax et Stitch, capsule toys"
+    },
+    "Emporio": {
+      "notes": "La plus grande sélection de marchandises du parc"
+    },
+    "Galleria Disney": {
+      "notes": "Boutique générale de souvenirs"
+    },
+    "Il Postino Stationery": {
+      "notes": "Papeterie, livres, DVDs"
+    },
+    "Valentine's Sweets": {
+      "notes": "Chocolats, biscuits, confiseries"
+    },
+    "Steamboat Mickey's": {
+      "notes": "Marchandises Duffy et amis"
+    },
+    "McDuck's Department Store": {
+      "notes": "La plus grande boutique de vêtements"
+    },
+    "Newsie's Novelties": {
+      "notes": "Vêtements Oswald, accessoires"
+    },
+    "Discovery Gifts": {
+      "notes": "Articles photo numériques, accessoires"
+    },
+    "Lost River Outfitters": {
+      "notes": "Marchandises Toy Story"
+    },
+    "Agrabah Marketplace": {
+      "notes": "Jeux d'adresse, accessoires arabes"
+    },
+    "Mermaid Treasures": {
+      "notes": "Articles Ariel, confiseries, silhouettes"
+    },
+    "Nautilus Gifts": {
+      "notes": "Peluches, jouets, capsule toys"
+    },
+    "Fantasy Springs Gifts": {
+      "notes": "Grand magasin Fantasy Springs"
+    },
+    "Springs Treasures": {
+      "notes": "Coiffes, petits articles"
+    },
+    "Toy Station": {
+      "notes": "The biggest toy/plush doll shop in the Park."
+    },
+    "House of Greetings": {
+      "notes": "Stationery, books, DVDs, and more."
+    },
+    "Bibbidi Bobbidi Boutique": {
+      "notes": "A dreams-come-true beauty salon for young girls."
+    },
+    "Pastry Palace": {
+      "notes": "Cookies, cakes, and other treats."
+    },
+    "The Home Store": {
+      "notes": "Tableware and other interior goods."
+    },
+    "Magic Shop": {
+      "notes": "Demonstration and sales of magic tricks."
+    },
+    "World Bazaar Confectionery": {
+      "notes": "The Park's largest shop for sweets."
+    },
+    "Cristal Arts": {
+      "notes": "Demonstration and sales of glasswork crafted by artisans."
+    },
+    "The Golden Galleon": {
+      "notes": "Novelties themed to pirates."
+    },
+    "Jungle Carnival": {
+      "notes": "Try your skill with the fun games here. Separate fee, Park tickets not accepted."
+    },
+    "Party Gras Gifts": {
+      "notes": "Wearable items, accessories, and more."
+    },
+    "Pirate Treasure": {
+      "notes": "Items in the image of buccaneer riches."
+    },
+    "La Petite Parfumerie": {
+      "notes": "Fragrances, body care products, and more."
+    },
+    "Le Marché Bleu": {
+      "notes": "Wagon offering hairbands and fun caps."
+    },
+    "Westernland Picture Parlour": {
+      "notes": "Keepsake portraits that capture the Old West."
+    },
+    "Country Bear Bandwagon": {
+      "notes": "Fun caps and hairbands."
+    },
+    "General Store": {
+      "notes": "Snacks and confections."
+    },
+    "Trading Post": {
+      "notes": "Disney Character items and more."
+    },
+    "Happy Camper Supplies": {
+      "notes": "Items featuring Donald Duck, fun caps, and more."
+    },
+    "Frontier Woodcraft": {
+      "notes": "Original items made here."
+    },
+    "Splashdown Photos": {
+      "notes": "Keepsake photos of your plunge down Splash Mountain."
+    },
+    "The Glass Slipper": {
+      "notes": "Demonstration and sales of glasswork crafted by artisans."
+    },
+    "Stromboli's Wagon": {
+      "notes": "Fun caps and hairbands."
+    },
+    "Harmony Faire": {
+      "notes": "Fun caps, hairbands, and other wearable items."
+    },
+    "Village Shoppes": {
+      "notes": "La Belle Librairie, Little Town Traders, Bonjour Gifts; items themed to Beauty and the Beast."
+    },
+    "Brave Little Tailor Shoppe": {
+      "notes": "Baby goods and apparel for kids."
+    },
+    "Pleasure Island Candies": {
+      "notes": "Candies and other sweets."
+    },
+    "Toontown Delivery Co.": {
+      "notes": "Wagon with fun caps, hairbands, and light-up items."
+    },
+    "Cosmic Encounter": {
+      "notes": "Fun caps, hairbands, and other wearable items."
+    },
+    "Stargazer Supplies": {
+      "notes": "Merchandise themed to Baymax and more."
+    },
+    "Monsters, Inc. Company Store": {
+      "notes": "Merchandise featuring the monsters."
+    },
+    "Valentina's Sweets": {
+      "notes": "The largest confectionery shop in the Park."
+    },
+    "Villa Donaldo Home Shop": {
+      "notes": "Towels, toothbrushes, and other household items."
+    },
+    "Venetian Carnival Market": {
+      "notes": "Tableware and other items."
+    },
+    "Splendido": {
+      "notes": "Fun caps and hairbands offered at this wagon."
+    },
+    "Piccolo Mercato": {
+      "notes": "Wagon with hairbands, pass cases, light-up items, and more."
+    },
+    "Figaro's Clothiers": {
+      "notes": "The Park's largest apparel shop."
+    },
+    "Fotografica": {
+      "notes": "Digital photo media, camera accessories. Prepaid SIM cards also available."
+    },
+    "Bella Minni Collections": {
+      "notes": "Accessories, bags, and more."
+    },
+    "Merchant of Venice Confections": {
+      "notes": "Chocolates, cookies and other treats."
+    },
+    "Miramare": {
+      "notes": "Wagon offering hairbands, seasonal items, and more."
+    },
+    "Rimembranze": {
+      "notes": "Disney Character items and more."
+    },
+    "Aunt Peg's Village Store": {
+      "notes": "Duffy merchandise."
+    },
+    "Slinky Dog's Gift Trolley": {
+      "notes": "Wagon with merchandise themed to Disney and Pixar Toy Story films."
+    },
+    "Tower of Terror Memorabilia": {
+      "notes": "Souvenir photos and Tower of Terror merchandise."
+    },
+    "Skywatcher Souvenirs": {
+      "notes": "Wagon offering hairbands and light-up items."
+    },
+    "Expedition Photo Archives": {
+      "notes": "Photos from your adventure at Indiana Jones Adventure: Temple of the Crystal Skull."
+    },
+    "Peddlers' Outpost": {
+      "notes": "Wagon offering hairbands and light-up items."
+    },
+    "Lookout Traders": {
+      "notes": "Wagon offering hairbands, light-up items, and more."
+    },
+    "Abu's Bazaar": {
+      "notes": "Try your skill with the fun games here. Separate fee, Park tickets not accepted."
+    },
+    "Kiss de Girl Fashions": {
+      "notes": "Baby items, kids' apparel, and more."
+    },
+    "Cove of Wonders": {
+      "notes": "Hairbands, light-up toys, and more."
+    },
+    "The Sleepy Whale Shoppe": {
+      "notes": "Ariel items, confectionery. Demonstration and sales of silhouette portraits."
+    }
   }
 }
