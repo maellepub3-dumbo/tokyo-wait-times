@@ -293,60 +293,54 @@
       "park": "Tokyo Disneyland",
       "zone": "World Bazaar",
       "hours": "",
-      "type": "Restauration rapide",
-      "menu": "",
+      "type": "Snack",
       "manual": true,
-      "clickCollect": true
+      "clickCollect": false
     },
     {
       "name": "Refreshment Corner",
       "park": "Tokyo Disneyland",
       "zone": "World Bazaar",
       "hours": "",
-      "type": "Restauration rapide",
-      "menu": "",
+      "type": "Snack",
       "manual": true,
-      "clickCollect": true
+      "clickCollect": false
     },
     {
       "name": "Café Orléans",
       "park": "Tokyo Disneyland",
       "zone": "Adventureland",
       "hours": "",
-      "type": "Restauration rapide",
-      "menu": "",
+      "type": "Snack",
       "manual": true,
-      "clickCollect": true
+      "clickCollect": false
     },
     {
       "name": "The Skipper's Galley",
       "park": "Tokyo Disneyland",
       "zone": "Adventureland",
       "hours": "",
-      "type": "Restauration rapide",
-      "menu": "",
+      "type": "Snack",
       "manual": true,
-      "clickCollect": true
+      "clickCollect": false
     },
     {
       "name": "Squeezer's Tropical Juice Bar",
       "park": "Tokyo Disneyland",
       "zone": "Adventureland",
       "hours": "",
-      "type": "Restauration rapide",
-      "menu": "",
+      "type": "Snack",
       "manual": true,
-      "clickCollect": true
+      "clickCollect": false
     },
     {
       "name": "Boiler Room Bites",
       "park": "Tokyo Disneyland",
       "zone": "Adventureland",
       "hours": "",
-      "type": "Restauration rapide",
-      "menu": "",
+      "type": "Snack",
       "manual": true,
-      "clickCollect": true
+      "clickCollect": false
     },
     {
       "name": "Cowboy Cookhouse",
@@ -354,9 +348,8 @@
       "zone": "Westernland",
       "hours": "",
       "type": "Restauration rapide",
-      "menu": "",
       "manual": true,
-      "clickCollect": true
+      "clickCollect": false
     },
     {
       "name": "Pecos Bill Cafe",
@@ -364,9 +357,8 @@
       "zone": "Westernland",
       "hours": "",
       "type": "Restauration rapide",
-      "menu": "",
       "manual": true,
-      "clickCollect": true
+      "clickCollect": false
     },
     {
       "name": "Grandma Sara's Kitchen",
@@ -374,9 +366,8 @@
       "zone": "Critter Country",
       "hours": "",
       "type": "Restauration rapide",
-      "menu": "",
       "manual": true,
-      "clickCollect": true
+      "clickCollect": false
     },
     {
       "name": "Captain Hook's Galley",
@@ -384,7 +375,6 @@
       "zone": "Fantasyland",
       "hours": "",
       "type": "Restauration rapide",
-      "menu": "",
       "manual": true,
       "clickCollect": true
     },
@@ -393,10 +383,9 @@
       "park": "Tokyo Disneyland",
       "zone": "Tomorrowland",
       "hours": "",
-      "type": "Restauration rapide",
-      "menu": "",
+      "type": "Snack",
       "manual": true,
-      "clickCollect": true
+      "clickCollect": false
     },
     {
       "name": "Plazma Ray's Diner",
@@ -404,9 +393,8 @@
       "zone": "Tomorrowland",
       "hours": "",
       "type": "Restauration rapide",
-      "menu": "",
       "manual": true,
-      "clickCollect": true
+      "clickCollect": false
     },
     {
       "name": "Zambini Brothers' Ristorante",
@@ -414,7 +402,6 @@
       "zone": "Mediterranean Harbor",
       "hours": "",
       "type": "Restauration rapide",
-      "menu": "",
       "manual": true,
       "clickCollect": true
     },
@@ -423,10 +410,9 @@
       "park": "Tokyo DisneySea",
       "zone": "Mediterranean Harbor",
       "hours": "",
-      "type": "Restauration rapide",
-      "menu": "",
+      "type": "Snack",
       "manual": true,
-      "clickCollect": true
+      "clickCollect": false
     },
     {
       "name": "Dockside Diner",
@@ -434,7 +420,6 @@
       "zone": "American Waterfront",
       "hours": "",
       "type": "Restauration rapide",
-      "menu": "",
       "manual": true,
       "clickCollect": true
     },
@@ -443,50 +428,45 @@
       "park": "Tokyo DisneySea",
       "zone": "American Waterfront",
       "hours": "",
-      "type": "Restauration rapide",
-      "menu": "",
+      "type": "Snack",
       "manual": true,
-      "clickCollect": true
+      "clickCollect": false
     },
     {
       "name": "Bayside Takeout",
       "park": "Tokyo DisneySea",
       "zone": "Port Discovery",
       "hours": "",
-      "type": "Restauration rapide",
-      "menu": "",
+      "type": "Snack",
       "manual": true,
-      "clickCollect": true
+      "clickCollect": false
     },
     {
       "name": "Royal Banquet of Arendelle",
       "park": "Tokyo DisneySea",
       "zone": "Fantasy Springs",
       "hours": "",
-      "type": "Restauration rapide",
-      "menu": "",
+      "type": "Service à table",
       "manual": true,
-      "clickCollect": true
+      "clickCollect": false
     },
     {
       "name": "Lookout Cookout",
       "park": "Tokyo DisneySea",
       "zone": "Fantasy Springs",
       "hours": "",
-      "type": "Restauration rapide",
-      "menu": "",
+      "type": "Snack",
       "manual": true,
-      "clickCollect": true
+      "clickCollect": false
     },
     {
       "name": "Nautilus Galley",
       "park": "Tokyo DisneySea",
       "zone": "Mysterious Island",
       "hours": "",
-      "type": "Restauration rapide",
-      "menu": "",
+      "type": "Snack",
       "manual": true,
-      "clickCollect": true
+      "clickCollect": false
     },
     {
       "name": "Racket's Raccoon Saloon",
@@ -494,6 +474,348 @@
       "zone": "Westernland",
       "hours": "11:00 - 20:00",
       "type": "Restauration rapide",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Ice Cream Cones",
+      "park": "Tokyo Disneyland",
+      "zone": "World Bazaar",
+      "hours": "",
+      "type": "Snack",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Center Street Coffeehouse",
+      "park": "Tokyo Disneyland",
+      "zone": "World Bazaar",
+      "hours": "",
+      "type": "Restauration rapide",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Restaurant Hokusai",
+      "park": "Tokyo Disneyland",
+      "zone": "World Bazaar",
+      "hours": "11:00 - 20:00",
+      "type": "Service à table",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Food Booth (Adventureland side)",
+      "park": "Tokyo Disneyland",
+      "zone": "World Bazaar",
+      "hours": "",
+      "type": "Snack",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Food Booth (Tomorrowland side)",
+      "park": "Tokyo Disneyland",
+      "zone": "World Bazaar",
+      "hours": "",
+      "type": "Snack",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "The Gazebo",
+      "park": "Tokyo Disneyland",
+      "zone": "Adventureland",
+      "hours": "",
+      "type": "Snack",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "China Voyager",
+      "park": "Tokyo Disneyland",
+      "zone": "Adventureland",
+      "hours": "",
+      "type": "Restauration rapide",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Parkside Wagon",
+      "park": "Tokyo Disneyland",
+      "zone": "Adventureland",
+      "hours": "",
+      "type": "Snack",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Fresh Fruit Oasis",
+      "park": "Tokyo Disneyland",
+      "zone": "Adventureland",
+      "hours": "",
+      "type": "Snack",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Royal Street Veranda",
+      "park": "Tokyo Disneyland",
+      "zone": "Adventureland",
+      "hours": "",
+      "type": "Snack",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "The Diamond Horseshoe",
+      "park": "Tokyo Disneyland",
+      "zone": "Westernland",
+      "hours": "",
+      "type": "Repas avec spectacle",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Village Pastry",
+      "park": "Tokyo Disneyland",
+      "zone": "Fantasyland",
+      "hours": "",
+      "type": "Snack",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Magical Market",
+      "park": "Tokyo Disneyland",
+      "zone": "Fantasyland",
+      "hours": "",
+      "type": "Snack",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "La Taverne de Gaston",
+      "park": "Tokyo Disneyland",
+      "zone": "Fantasyland",
+      "hours": "",
+      "type": "Restauration rapide",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "LeFou's",
+      "park": "Tokyo Disneyland",
+      "zone": "Fantasyland",
+      "hours": "",
+      "type": "Snack",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Le Petit Popper",
+      "park": "Tokyo Disneyland",
+      "zone": "Fantasyland",
+      "hours": "",
+      "type": "Snack",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Toontone Treats",
+      "park": "Tokyo Disneyland",
+      "zone": "Toontown",
+      "hours": "",
+      "type": "Restauration rapide",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Toon Pop",
+      "park": "Tokyo Disneyland",
+      "zone": "Toontown",
+      "hours": "",
+      "type": "Snack",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Pop-A-Lot Popcorn",
+      "park": "Tokyo Disneyland",
+      "zone": "Toontown",
+      "hours": "",
+      "type": "Snack",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Soft Landing",
+      "park": "Tokyo Disneyland",
+      "zone": "Tomorrowland",
+      "hours": "",
+      "type": "Snack",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Cafe Portofino",
+      "park": "Tokyo DisneySea",
+      "zone": "Mediterranean Harbor",
+      "hours": "11:00 - 20:00",
+      "type": "Service à table",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Gondolier Snacks",
+      "park": "Tokyo DisneySea",
+      "zone": "Mediterranean Harbor",
+      "hours": "",
+      "type": "Snack",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Cape Cod Confections",
+      "park": "Tokyo DisneySea",
+      "zone": "American Waterfront",
+      "hours": "",
+      "type": "Snack",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "The Teddy Roosevelt Lounge",
+      "park": "Tokyo DisneySea",
+      "zone": "American Waterfront",
+      "hours": "",
+      "type": "Snack",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Delancey Catering",
+      "park": "Tokyo DisneySea",
+      "zone": "American Waterfront",
+      "hours": "",
+      "type": "Snack",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Barnacle Bill's",
+      "park": "Tokyo DisneySea",
+      "zone": "American Waterfront",
+      "hours": "",
+      "type": "Snack",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "High Tide Treats",
+      "park": "Tokyo DisneySea",
+      "zone": "American Waterfront",
+      "hours": "",
+      "type": "Snack",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Papadakis Fresh Fruit",
+      "park": "Tokyo DisneySea",
+      "zone": "American Waterfront",
+      "hours": "",
+      "type": "Snack",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Liberty Landing Diner",
+      "park": "Tokyo DisneySea",
+      "zone": "American Waterfront",
+      "hours": "",
+      "type": "Snack",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Restaurant Sakura",
+      "park": "Tokyo DisneySea",
+      "zone": "American Waterfront",
+      "hours": "11:00 - 20:00",
+      "type": "Service à table",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Waterside Terrace",
+      "park": "Tokyo DisneySea",
+      "zone": "American Waterfront",
+      "hours": "",
+      "type": "Snack",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Breezeway Bites",
+      "park": "Tokyo DisneySea",
+      "zone": "Port Discovery",
+      "hours": "",
+      "type": "Snack",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Expedition Eats",
+      "park": "Tokyo DisneySea",
+      "zone": "Lost River Delta",
+      "hours": "",
+      "type": "Snack",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Tropic Al's",
+      "park": "Tokyo DisneySea",
+      "zone": "Lost River Delta",
+      "hours": "",
+      "type": "Snack",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Lost River Cookhouse",
+      "park": "Tokyo DisneySea",
+      "zone": "Lost River Delta",
+      "hours": "",
+      "type": "Snack",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Oaken's OK Foods",
+      "park": "Tokyo DisneySea",
+      "zone": "Fantasy Springs",
+      "hours": "",
+      "type": "Snack",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Open Sesame",
+      "park": "Tokyo DisneySea",
+      "zone": "Arabian Coast",
+      "hours": "",
+      "type": "Snack",
+      "manual": true,
+      "clickCollect": false
+    },
+    {
+      "name": "Refreshment Station",
+      "park": "Tokyo DisneySea",
+      "zone": "Mysterious Island",
+      "hours": "",
+      "type": "Snack",
       "manual": true,
       "clickCollect": false
     }
@@ -508,7 +830,7 @@
     "Queen of Hearts Banquet Hall": "Cuisine japonaise/fusion",
     "Troubadour Tavern": "Cuisine française",
     "Pan Galactic Pizza Port": "Pizza",
-    "Tomorrowland Terrace": "Snacks variés. **Bao Burger Bmax, nuggets mickey**",
+    "Tomorrowland Terrace": "Snacks variés. **Bao Burger Bmax, nuggets mickey, churros mickey (canelle)**",
     "Huey, Dewey & Louie's Good Time Café": "Snacks américains. **Muscat au citron, shaved Ice, bao burger en pate de mickey (\"chinese bun\"), pizza mickey, macaron mickey**",
     "Magellan's": "Cuisine européenne",
     "Mamma Biscotti's Bakery": "Boulangerie italienne",
@@ -531,7 +853,7 @@
     "Skipper's Tropical Hideout": "Snack restaurant opened by a former Jungle Cruise Skipper.",
     "Plaza Restaurant": "Japanese cuisine. A vibrant American town's beloved restaurant.",
     "Pinocchio Village Kitchen": "Counter service restaurant. Rice dishes and snacks.",
-    "Great American Waffle Co.": "Sweets.",
+    "Great American Waffle Co.": "Sweets. **Gaufres Mickey**",
     "Refreshment Corner": "Hot dogs.",
     "Café Orléans": "Sweets.",
     "The Skipper's Galley": "Menu items to enjoy on the go.",
@@ -541,8 +863,8 @@
     "Pecos Bill Cafe": "Menu items to enjoy on the go.",
     "Grandma Sara's Kitchen": "Seasonal dishes.",
     "Captain Hook's Galley": "Pizza. **Boisson au litchi**",
-    "The Big Pop": "Popcorn.",
-    "Plazma Ray's Diner": "Seasonal dishes.",
+    "The Big Pop": "**Popcorn.**",
+    "Plazma Ray's Diner": "Seasonal dishes. **Udon avec tête de mickey**",
     "Zambini Brothers' Ristorante": "Pizza.",
     "Refrescos": "Menu items to enjoy on the go.",
     "Dockside Diner": "Seasonal dishes.",
@@ -551,7 +873,45 @@
     "Royal Banquet of Arendelle": "Western cuisine.",
     "Lookout Cookout": "Snacks.",
     "Nautilus Galley": "Menu items to enjoy on the go.",
-    "Racket's Raccoon Saloon": "Snacks et boissons américains. **glaces à l'iatalienne et sundae**"
+    "Racket's Raccoon Saloon": "Snacks et boissons américains. **glaces à l'iatalienne et sundae**",
+    "Ice Cream Cones": "Glaces.",
+    "Center Street Coffeehouse": "Café, boissons chaudes.",
+    "Restaurant Hokusai": "Cuisine japonaise.",
+    "Food Booth (Adventureland side)": "Menu items to enjoy on the go.",
+    "Food Booth (Tomorrowland side)": "Menu items to enjoy on the go.",
+    "The Gazebo": "Menu items to enjoy on the go.",
+    "China Voyager": "Cuisine chinoise.",
+    "Parkside Wagon": "Churros.",
+    "Fresh Fruit Oasis": "Fruits frais, boissons.",
+    "Royal Street Veranda": "Boissons.",
+    "The Diamond Horseshoe": "Repas avec spectacle.",
+    "Village Pastry": "Pâtisseries et sucreries.",
+    "Magical Market": "Sucreries.",
+    "La Taverne de Gaston": "Sandwichs.",
+    "LeFou's": "Churros.",
+    "Le Petit Popper": "Popcorn.",
+    "Toontone Treats": "Seasonal dishes.",
+    "Toon Pop": "Popcorn.",
+    "Pop-A-Lot Popcorn": "Popcorn.",
+    "Soft Landing": "Boissons.",
+    "Cafe Portofino": "Cuisine occidentale.",
+    "Gondolier Snacks": "Sucreries.",
+    "Cape Cod Confections": "Boissons.",
+    "The Teddy Roosevelt Lounge": "Boissons alcoolisées.",
+    "Delancey Catering": "Hot dogs.",
+    "Barnacle Bill's": "Boissons alcoolisées.",
+    "High Tide Treats": "Churros.",
+    "Papadakis Fresh Fruit": "Boissons, fruits frais.",
+    "Liberty Landing Diner": "Sucreries.",
+    "Restaurant Sakura": "Cuisine japonaise.",
+    "Waterside Terrace": "Menu items to enjoy on the go.",
+    "Breezeway Bites": "Menu items to enjoy on the go.",
+    "Expedition Eats": "Menu items to enjoy on the go.",
+    "Tropic Al's": "Sucreries.",
+    "Lost River Cookhouse": "Menu items to enjoy on the go.",
+    "Oaken's OK Foods": "Menu items to enjoy on the go.",
+    "Open Sesame": "Churros.",
+    "Refreshment Station": "Menu items to enjoy on the go."
   },
   "manualShopsList": [
     {
