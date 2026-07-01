@@ -6,8 +6,9 @@
       "zone": "World Bazaar",
       "hours": "11:00 - 20:00",
       "type": "Service à table",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": false,
+      "menu": "Art Deco-style restaurant with a range of popular Western dishes.",
+      "manual": true
     },
     {
       "name": "Plaza Pavilion Restaurant",
@@ -15,8 +16,9 @@
       "zone": "Westernland",
       "hours": "11:00 - 20:00",
       "type": "Service à table",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": false,
+      "menu": "Cuisine occidentale",
+      "manual": true
     },
     {
       "name": "Sweetheart Café",
@@ -24,8 +26,9 @@
       "zone": "World Bazaar",
       "hours": "09:00 - 21:00",
       "type": "Restauration rapide",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": false,
+      "menu": "Bakery-cafe run by a friendly couple. Freshly baked breads and sweet desserts.",
+      "manual": true
     },
     {
       "name": "Crystal Palace Restaurant",
@@ -33,8 +36,9 @@
       "zone": "Adventureland",
       "hours": "11:00 - 19:45",
       "type": "Buffet",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": false,
+      "menu": "Cuisine japonaise/occidentale (buffet)",
+      "manual": true
     },
     {
       "name": "Blue Bayou Restaurant",
@@ -42,8 +46,9 @@
       "zone": "Adventureland",
       "hours": "11:00 - 19:45",
       "type": "Service à table",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": false,
+      "menu": "Cuisine occidentale",
+      "manual": true
     },
     {
       "name": "Polynesian Terrace Restaurant",
@@ -51,8 +56,9 @@
       "zone": "Adventureland",
       "hours": "11:45 - 19:45",
       "type": "Service à table",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": false,
+      "menu": "Cuisine polynésienne",
+      "manual": true
     },
     {
       "name": "Skipper's Tropical Hideout",
@@ -60,8 +66,9 @@
       "zone": "Adventureland",
       "hours": "10:00 - 20:00",
       "type": "Restauration rapide",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": false,
+      "menu": "Snack restaurant opened by a former Jungle Cruise Skipper.",
+      "manual": true
     },
     {
       "name": "Camp Woodchuck Kitchen",
@@ -69,8 +76,9 @@
       "zone": "Westernland",
       "hours": "10:30 - 18:30",
       "type": "Restauration rapide",
-      "manual": true,
-      "clickCollect": true
+      "clickCollect": true,
+      "menu": "Cuisine américaine",
+      "manual": true
     },
     {
       "name": "Hungry Bear Restaurant",
@@ -78,8 +86,9 @@
       "zone": "Westernland",
       "hours": "10:00 - 20:30",
       "type": "Restauration rapide",
-      "manual": true,
-      "clickCollect": true
+      "clickCollect": true,
+      "menu": "Curry japonais",
+      "manual": true
     },
     {
       "name": "Queen of Hearts Banquet Hall",
@@ -87,8 +96,9 @@
       "zone": "Fantasyland",
       "hours": "10:00 - 19:30",
       "type": "Restauration rapide",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": false,
+      "menu": "Cuisine japonaise/fusion",
+      "manual": true
     },
     {
       "name": "Troubadour Tavern",
@@ -96,8 +106,9 @@
       "zone": "Fantasyland",
       "hours": "10:45 - 16:30",
       "type": "Snack",
-      "manual": true,
-      "clickCollect": true
+      "clickCollect": true,
+      "menu": "Cuisine française",
+      "manual": true
     },
     {
       "name": "Huey, Dewey & Louie's Good Time Café",
@@ -105,8 +116,9 @@
       "zone": "Toontown",
       "hours": "10:00 - 18:00",
       "type": "Restauration rapide",
-      "manual": true,
-      "clickCollect": true
+      "clickCollect": true,
+      "menu": "Snacks américains. **Muscat au citron, shaved Ice, bao burger en pate de mickey (\"chinese bun\"), pizza mickey, macaron mickey**",
+      "manual": true
     },
     {
       "name": "Pan Galactic Pizza Port",
@@ -114,8 +126,9 @@
       "zone": "Tomorrowland",
       "hours": "10:00 - 19:30",
       "type": "Restauration rapide",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": false,
+      "menu": "Pizza",
+      "manual": true
     },
     {
       "name": "Tomorrowland Terrace",
@@ -123,8 +136,9 @@
       "zone": "Tomorrowland",
       "hours": "9:30 - 20:30",
       "type": "Restauration rapide",
-      "manual": true,
-      "clickCollect": true
+      "clickCollect": true,
+      "menu": "Snacks variés. **Bao Burger Bmax, nuggets mickey, churros mickey (canelle)**",
+      "manual": true
     },
     {
       "name": "Magellan's",
@@ -132,8 +146,9 @@
       "zone": "Mediterranean Harbor",
       "hours": "11:00 - 19:30",
       "type": "Service à table",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": false,
+      "menu": "Cuisine européenne",
+      "manual": true
     },
     {
       "name": "Mamma Biscotti's Bakery",
@@ -141,8 +156,9 @@
       "zone": "Mediterranean Harbor",
       "hours": "9:00 - 21:00",
       "type": "Snack",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": false,
+      "menu": "Boulangerie italienne",
+      "manual": true
     },
     {
       "name": "Ristorante di Canaletto",
@@ -150,8 +166,9 @@
       "zone": "Mediterranean Harbor",
       "hours": "10:45 - 19:30",
       "type": "Service à table",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": false,
+      "menu": "Cuisine italienne",
+      "manual": true
     },
     {
       "name": "Cape Cod Cook-Off",
@@ -159,8 +176,9 @@
       "zone": "American Waterfront",
       "hours": "9:30 - 19:45",
       "type": "Restauration rapide",
-      "manual": true,
-      "clickCollect": true
+      "clickCollect": true,
+      "menu": "Cuisine américaine",
+      "manual": true
     },
     {
       "name": "New York Deli",
@@ -168,8 +186,9 @@
       "zone": "American Waterfront",
       "hours": "9:00 - 19:30",
       "type": "Restauration rapide",
-      "manual": true,
-      "clickCollect": true
+      "clickCollect": true,
+      "menu": "Sandwichs / deli américain",
+      "manual": true
     },
     {
       "name": "S.S. Columbia Dining Room",
@@ -177,8 +196,9 @@
       "zone": "American Waterfront",
       "hours": "11:30 - 20:00",
       "type": "Service à table",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": false,
+      "menu": "Cuisine américaine",
+      "manual": true
     },
     {
       "name": "Horizon Bay Restaurant",
@@ -186,8 +206,9 @@
       "zone": "American Waterfront",
       "hours": "10:30 - 19:30",
       "type": "Restauration rapide",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": false,
+      "menu": "Cuisine américaine",
+      "manual": true
     },
     {
       "name": "Seaside Snacks",
@@ -195,8 +216,9 @@
       "zone": "Port Discovery",
       "hours": "9:30 - 19:15",
       "type": "Snack",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": false,
+      "menu": "Snacks",
+      "manual": true
     },
     {
       "name": "Yucatan Base Camp Grill",
@@ -204,8 +226,9 @@
       "zone": "Lost River Delta",
       "hours": "10:00 - 19:30",
       "type": "Restauration rapide",
-      "manual": true,
-      "clickCollect": true
+      "clickCollect": true,
+      "menu": "Grill mexicain",
+      "manual": true
     },
     {
       "name": "Miguel's El Dorado Cantina",
@@ -213,8 +236,9 @@
       "zone": "Lost River Delta",
       "hours": "10:30 - 18:30",
       "type": "Snack",
-      "manual": true,
-      "clickCollect": true
+      "clickCollect": true,
+      "menu": "Cuisine mexicaine",
+      "manual": true
     },
     {
       "name": "Casbah Food Court",
@@ -222,8 +246,9 @@
       "zone": "Arabian Coast",
       "hours": "10:00 - 19:30",
       "type": "Restauration rapide",
-      "manual": true,
-      "clickCollect": true
+      "clickCollect": true,
+      "menu": "Cuisine du Moyen-Orient",
+      "manual": true
     },
     {
       "name": "Sultan's Oasis",
@@ -231,8 +256,9 @@
       "zone": "Arabian Coast",
       "hours": "9:30 - 19:00",
       "type": "Snack",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": false,
+      "menu": "Snacks arabes",
+      "manual": true
     },
     {
       "name": "Sebastian's Calypso Kitchen",
@@ -240,8 +266,9 @@
       "zone": "Mermaid Lagoon",
       "hours": "11:00 - 19:00",
       "type": "Restauration rapide",
-      "manual": true,
-      "clickCollect": true
+      "clickCollect": true,
+      "menu": "Cuisine des Caraïbes",
+      "manual": true
     },
     {
       "name": "Vulcania Restaurant",
@@ -249,8 +276,9 @@
       "zone": "Mysterious Island",
       "hours": "10:00 - 19:45",
       "type": "Restauration rapide",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": false,
+      "menu": "Cuisine italienne",
+      "manual": true
     },
     {
       "name": "The Snuggly Duckling",
@@ -258,8 +286,9 @@
       "zone": "Fantasy Springs",
       "hours": "9:30 - 20:30",
       "type": "Service à table",
-      "manual": true,
-      "clickCollect": true
+      "clickCollect": true,
+      "menu": "Cuisine européenne",
+      "manual": true
     },
     {
       "name": "Great American Waffle Co.",
@@ -267,8 +296,9 @@
       "zone": "World Bazaar",
       "hours": "9:00 - 20:30",
       "type": "Snack",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": false,
+      "menu": "Sweets. **Gaufres Mickey**",
+      "manual": true
     },
     {
       "name": "Refreshment Corner",
@@ -276,8 +306,9 @@
       "zone": "World Bazaar",
       "hours": "9:00 - 21:00",
       "type": "Snack",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": true,
+      "menu": "Hot dogs.",
+      "manual": true
     },
     {
       "name": "Café Orléans",
@@ -285,8 +316,9 @@
       "zone": "Adventureland",
       "hours": "9:45 - 18:30",
       "type": "Snack",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": false,
+      "menu": "Sweets.",
+      "manual": true
     },
     {
       "name": "The Skipper's Galley",
@@ -294,8 +326,9 @@
       "zone": "Adventureland",
       "hours": "10:00 - 20:00",
       "type": "Snack",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": false,
+      "menu": "Menu items to enjoy on the go.",
+      "manual": true
     },
     {
       "name": "Squeezer's Tropical Juice Bar",
@@ -303,8 +336,9 @@
       "zone": "Adventureland",
       "hours": "11:00 - 17:00",
       "type": "Snack",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": false,
+      "menu": "Frozen desserts.",
+      "manual": true
     },
     {
       "name": "Boiler Room Bites",
@@ -312,8 +346,9 @@
       "zone": "Adventureland",
       "hours": "9:30 - 19:30",
       "type": "Snack",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": false,
+      "menu": "Menu items to enjoy on the go.",
+      "manual": true
     },
     {
       "name": "Cowboy Cookhouse",
@@ -321,8 +356,9 @@
       "zone": "Westernland",
       "hours": "10:00 - 19:15",
       "type": "Restauration rapide",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": false,
+      "menu": "Menu items to enjoy on the go.",
+      "manual": true
     },
     {
       "name": "Pecos Bill Cafe",
@@ -330,8 +366,9 @@
       "zone": "Westernland",
       "hours": "",
       "type": "Restauration rapide",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": false,
+      "menu": "Menu items to enjoy on the go.",
+      "manual": true
     },
     {
       "name": "Grandma Sara's Kitchen",
@@ -339,8 +376,9 @@
       "zone": "Critter Country",
       "hours": "10:00 - 19:00",
       "type": "Restauration rapide",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": true,
+      "menu": "Seasonal dishes.",
+      "manual": true
     },
     {
       "name": "Captain Hook's Galley",
@@ -348,8 +386,9 @@
       "zone": "Fantasyland",
       "hours": "10:00 - 20:00",
       "type": "Restauration rapide",
-      "manual": true,
-      "clickCollect": true
+      "clickCollect": true,
+      "menu": "Pizza. **Boisson au litchi**",
+      "manual": true
     },
     {
       "name": "The Big Pop",
@@ -357,8 +396,9 @@
       "zone": "Tomorrowland",
       "hours": "9:00 - 20:30",
       "type": "Snack",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": false,
+      "menu": "**Popcorn.**",
+      "manual": true
     },
     {
       "name": "Plazma Ray's Diner",
@@ -366,8 +406,9 @@
       "zone": "Tomorrowland",
       "hours": "9:00 - 20:30",
       "type": "Restauration rapide",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": true,
+      "menu": "Seasonal dishes. **Udon avec tête de mickey**",
+      "manual": true
     },
     {
       "name": "Zambini Brothers' Ristorante",
@@ -375,8 +416,9 @@
       "zone": "Mediterranean Harbor",
       "hours": "9:00 - 21:00",
       "type": "Restauration rapide",
-      "manual": true,
-      "clickCollect": true
+      "clickCollect": true,
+      "menu": "Pizza.",
+      "manual": true
     },
     {
       "name": "Refrescos",
@@ -384,8 +426,9 @@
       "zone": "Mediterranean Harbor",
       "hours": "10:00 - 19:30",
       "type": "Snack",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": false,
+      "menu": "Menu items to enjoy on the go.",
+      "manual": true
     },
     {
       "name": "Dockside Diner",
@@ -393,8 +436,9 @@
       "zone": "American Waterfront",
       "hours": "9:00 - 20:30",
       "type": "Restauration rapide",
-      "manual": true,
-      "clickCollect": true
+      "clickCollect": true,
+      "menu": "Seasonal dishes.",
+      "manual": true
     },
     {
       "name": "Hudson River Harvest",
@@ -402,8 +446,9 @@
       "zone": "American Waterfront",
       "hours": "9:00 - 19:00",
       "type": "Snack",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": false,
+      "menu": "Menu items to enjoy on the go.",
+      "manual": true
     },
     {
       "name": "Bayside Takeout",
@@ -411,8 +456,9 @@
       "zone": "Port Discovery",
       "hours": "9:45 - 18:45",
       "type": "Snack",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": false,
+      "menu": "Churros.",
+      "manual": true
     },
     {
       "name": "Royal Banquet of Arendelle",
@@ -420,8 +466,9 @@
       "zone": "Fantasy Springs",
       "hours": "10:00 - 20:00",
       "type": "Service à table",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": false,
+      "menu": "Western cuisine.",
+      "manual": true
     },
     {
       "name": "Lookout Cookout",
@@ -429,8 +476,9 @@
       "zone": "Fantasy Springs",
       "hours": "9:30 - 20:00",
       "type": "Snack",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": false,
+      "menu": "Snacks.",
+      "manual": true
     },
     {
       "name": "Nautilus Galley",
@@ -438,8 +486,9 @@
       "zone": "Mysterious Island",
       "hours": "9:30 - 20:15",
       "type": "Snack",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": false,
+      "menu": "Menu items to enjoy on the go.",
+      "manual": true
     },
     {
       "name": "Rackety's Raccoon Saloon",
@@ -447,9 +496,9 @@
       "zone": "Critter Country",
       "hours": "10:45 - 16:00",
       "type": "Restauration rapide",
-      "manual": true,
       "clickCollect": false,
-      "num": 74
+      "menu": "Snacks et boissons américains. **glaces à l'iatalienne et sundae**",
+      "manual": true
     },
     {
       "name": "Ice Cream Cones",
@@ -457,8 +506,9 @@
       "zone": "World Bazaar",
       "hours": "10:00 - 20:00",
       "type": "Snack",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": false,
+      "menu": "Glaces.",
+      "manual": true
     },
     {
       "name": "Center Street Coffeehouse",
@@ -466,8 +516,9 @@
       "zone": "World Bazaar",
       "hours": "10:00 - 20:15",
       "type": "Restauration rapide",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": false,
+      "menu": "Café, boissons chaudes.",
+      "manual": true
     },
     {
       "name": "Restaurant Hokusai",
@@ -475,8 +526,9 @@
       "zone": "World Bazaar",
       "hours": "10:30 - 20:00",
       "type": "Service à table",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": false,
+      "menu": "Cuisine japonaise.",
+      "manual": true
     },
     {
       "name": "Food Booth (Adventureland side)",
@@ -484,8 +536,9 @@
       "zone": "World Bazaar",
       "hours": "",
       "type": "Snack",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": false,
+      "menu": "Menu items to enjoy on the go.",
+      "manual": true
     },
     {
       "name": "Food Booth (Tomorrowland side)",
@@ -493,8 +546,9 @@
       "zone": "World Bazaar",
       "hours": "10:00 - 16:30",
       "type": "Snack",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": false,
+      "menu": "Menu items to enjoy on the go.",
+      "manual": true
     },
     {
       "name": "The Gazebo",
@@ -502,8 +556,9 @@
       "zone": "Adventureland",
       "hours": "10:00 - 19:00",
       "type": "Snack",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": false,
+      "menu": "Menu items to enjoy on the go.",
+      "manual": true
     },
     {
       "name": "China Voyager",
@@ -511,8 +566,9 @@
       "zone": "Adventureland",
       "hours": "9:45 - 20:00",
       "type": "Restauration rapide",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": false,
+      "menu": "Cuisine chinoise.",
+      "manual": true
     },
     {
       "name": "Parkside Wagon",
@@ -520,8 +576,9 @@
       "zone": "Adventureland",
       "hours": "9:15 - 20:30",
       "type": "Snack",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": false,
+      "menu": "Churros.",
+      "manual": true
     },
     {
       "name": "Fresh Fruit Oasis",
@@ -529,8 +586,9 @@
       "zone": "Adventureland",
       "hours": "10:00 - 17:30",
       "type": "Snack",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": false,
+      "menu": "Fruits frais, boissons.",
+      "manual": true
     },
     {
       "name": "Royal Street Veranda",
@@ -538,8 +596,9 @@
       "zone": "Adventureland",
       "hours": "12:00 - 17:30",
       "type": "Snack",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": false,
+      "menu": "Boissons.",
+      "manual": true
     },
     {
       "name": "The Diamond Horseshoe",
@@ -547,8 +606,9 @@
       "zone": "Westernland",
       "hours": "",
       "type": "Repas avec spectacle",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": false,
+      "menu": "Repas avec spectacle.",
+      "manual": true
     },
     {
       "name": "Village Pastry",
@@ -556,8 +616,9 @@
       "zone": "Fantasyland",
       "hours": "9:30 - 19:30",
       "type": "Snack",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": false,
+      "menu": "Pâtisseries et sucreries.",
+      "manual": true
     },
     {
       "name": "Magical Market",
@@ -565,8 +626,9 @@
       "zone": "Fantasyland",
       "hours": "10:00 - 18:00",
       "type": "Snack",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": false,
+      "menu": "Sucreries.",
+      "manual": true
     },
     {
       "name": "La Taverne de Gaston",
@@ -574,8 +636,9 @@
       "zone": "Fantasyland",
       "hours": "9:00 - 20:00 ",
       "type": "Restauration rapide",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": false,
+      "menu": "Sandwichs.",
+      "manual": true
     },
     {
       "name": "LeFou's",
@@ -583,8 +646,9 @@
       "zone": "Fantasyland",
       "hours": "9:00 - 18:00",
       "type": "Snack",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": false,
+      "menu": "Churros.",
+      "manual": true
     },
     {
       "name": "Le Petit Popper",
@@ -592,8 +656,9 @@
       "zone": "Fantasyland",
       "hours": "9:00 - 20:00",
       "type": "Snack",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": false,
+      "menu": "Popcorn.",
+      "manual": true
     },
     {
       "name": "Toontone Treats",
@@ -601,8 +666,9 @@
       "zone": "Toontown",
       "hours": "9:30 - 16:30",
       "type": "Restauration rapide",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": false,
+      "menu": "Seasonal dishes.",
+      "manual": true
     },
     {
       "name": "Toon Pop",
@@ -610,8 +676,9 @@
       "zone": "Toontown",
       "hours": "9:00 - 16:00",
       "type": "Snack",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": false,
+      "menu": "Popcorn.",
+      "manual": true
     },
     {
       "name": "Pop-A-Lot Popcorn",
@@ -619,8 +686,9 @@
       "zone": "Toontown",
       "hours": "9:15 - 17:00 ",
       "type": "Snack",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": false,
+      "menu": "Popcorn.",
+      "manual": true
     },
     {
       "name": "Soft Landing",
@@ -628,8 +696,9 @@
       "zone": "Tomorrowland",
       "hours": "10:30 - 17:00",
       "type": "Snack",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": true,
+      "menu": "Boissons.",
+      "manual": true
     },
     {
       "name": "Cafe Portofino",
@@ -637,8 +706,9 @@
       "zone": "Mediterranean Harbor",
       "hours": "10:00 - 20:15",
       "type": "Service à table",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": false,
+      "menu": "Cuisine occidentale.",
+      "manual": true
     },
     {
       "name": "Gondolier Snacks",
@@ -646,8 +716,9 @@
       "zone": "Mediterranean Harbor",
       "hours": "10:00 - 19:30",
       "type": "Snack",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": false,
+      "menu": "Sucreries.",
+      "manual": true
     },
     {
       "name": "Cape Cod Confections",
@@ -655,8 +726,9 @@
       "zone": "American Waterfront",
       "hours": "11:00 - 17:00",
       "type": "Snack",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": false,
+      "menu": "Boissons.",
+      "manual": true
     },
     {
       "name": "The Teddy Roosevelt Lounge",
@@ -664,8 +736,9 @@
       "zone": "American Waterfront",
       "hours": "",
       "type": "Snack",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": false,
+      "menu": "Boissons alcoolisées.",
+      "manual": true
     },
     {
       "name": "Delancey Catering",
@@ -673,8 +746,9 @@
       "zone": "American Waterfront",
       "hours": "9:15 - 20:00",
       "type": "Snack",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": false,
+      "menu": "Hot dogs.",
+      "manual": true
     },
     {
       "name": "Barnacle Bill's",
@@ -682,8 +756,9 @@
       "zone": "American Waterfront",
       "hours": "9:30 - 19:30",
       "type": "Snack",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": false,
+      "menu": "Boissons alcoolisées.",
+      "manual": true
     },
     {
       "name": "High Tide Treats",
@@ -691,8 +766,9 @@
       "zone": "American Waterfront",
       "hours": "9:30 - 19:30",
       "type": "Snack",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": false,
+      "menu": "Churros.",
+      "manual": true
     },
     {
       "name": "Papadakis Fresh Fruit",
@@ -700,8 +776,9 @@
       "zone": "American Waterfront",
       "hours": "11:00 - 15:00 ",
       "type": "Snack",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": false,
+      "menu": "Boissons, fruits frais.",
+      "manual": true
     },
     {
       "name": "Liberty Landing Diner",
@@ -709,8 +786,9 @@
       "zone": "American Waterfront",
       "hours": "9:00 - 20:00",
       "type": "Snack",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": false,
+      "menu": "Sucreries.",
+      "manual": true
     },
     {
       "name": "Restaurant Sakura",
@@ -718,8 +796,9 @@
       "zone": "American Waterfront",
       "hours": "11:00 - 20:00",
       "type": "Service à table",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": false,
+      "menu": "Cuisine japonaise.",
+      "manual": true
     },
     {
       "name": "Waterside Terrace",
@@ -727,8 +806,9 @@
       "zone": "American Waterfront",
       "hours": "9:00 - 20:00",
       "type": "Snack",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": false,
+      "menu": "Menu items to enjoy on the go.",
+      "manual": true
     },
     {
       "name": "Breezeway Bites",
@@ -736,8 +816,9 @@
       "zone": "Port Discovery",
       "hours": "9:45 - 18:15",
       "type": "Snack",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": false,
+      "menu": "Menu items to enjoy on the go.",
+      "manual": true
     },
     {
       "name": "Expedition Eats",
@@ -745,8 +826,9 @@
       "zone": "Lost River Delta",
       "hours": "9:15 - 19:00",
       "type": "Snack",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": false,
+      "menu": "Menu items to enjoy on the go.",
+      "manual": true
     },
     {
       "name": "Tropic Al's",
@@ -754,8 +836,9 @@
       "zone": "Lost River Delta",
       "hours": "10:00 - 17:30",
       "type": "Snack",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": false,
+      "menu": "Sucreries.",
+      "manual": true
     },
     {
       "name": "Lost River Cookhouse",
@@ -763,8 +846,9 @@
       "zone": "Lost River Delta",
       "hours": "9:00 - 20:00",
       "type": "Snack",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": false,
+      "menu": "Menu items to enjoy on the go.",
+      "manual": true
     },
     {
       "name": "Oaken's OK Foods",
@@ -772,8 +856,9 @@
       "zone": "Fantasy Springs",
       "hours": "9:30 - 20:30",
       "type": "Snack",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": false,
+      "menu": "Menu items to enjoy on the go.",
+      "manual": true
     },
     {
       "name": "Open Sesame",
@@ -781,8 +866,9 @@
       "zone": "Arabian Coast",
       "hours": "9:30 - 19:00",
       "type": "Snack",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": false,
+      "menu": "Churros.",
+      "manual": true
     },
     {
       "name": "Refreshment Station",
@@ -790,724 +876,635 @@
       "zone": "Mysterious Island",
       "hours": "9:15 - 20:30",
       "type": "Snack",
-      "manual": true,
-      "clickCollect": false
+      "clickCollect": true,
+      "menu": "Menu items to enjoy on the go.",
+      "manual": true
     }
   ],
-  "restoMenus": {
-    "Blue Bayou Restaurant": "Cuisine occidentale",
-    "Polynesian Terrace Restaurant": "Cuisine polynésienne",
-    "Crystal Palace Restaurant": "Cuisine japonaise/occidentale (buffet)",
-    "Camp Woodchuck Kitchen": "Cuisine américaine",
-    "Hungry Bear Restaurant": "Curry japonais",
-    "Plaza Pavilion Restaurant": "Cuisine occidentale",
-    "Queen of Hearts Banquet Hall": "Cuisine japonaise/fusion",
-    "Troubadour Tavern": "Cuisine française",
-    "Pan Galactic Pizza Port": "Pizza",
-    "Tomorrowland Terrace": "Snacks variés. **Bao Burger Bmax, nuggets mickey, churros mickey (canelle)**",
-    "Huey, Dewey & Louie's Good Time Café": "Snacks américains. **Muscat au citron, shaved Ice, bao burger en pate de mickey (\"chinese bun\"), pizza mickey, macaron mickey**",
-    "Magellan's": "Cuisine européenne",
-    "Mamma Biscotti's Bakery": "Boulangerie italienne",
-    "Ristorante di Canaletto": "Cuisine italienne",
-    "Cape Cod Cook-Off": "Cuisine américaine",
-    "New York Deli": "Sandwichs / deli américain",
-    "S.S. Columbia Dining Room": "Cuisine américaine",
-    "Horizon Bay Restaurant": "Cuisine américaine",
-    "Seaside Snacks": "Snacks",
-    "Yucatan Base Camp Grill": "Grill mexicain",
-    "Miguel's El Dorado Cantina": "Cuisine mexicaine",
-    "Casbah Food Court": "Cuisine du Moyen-Orient",
-    "Sultan's Oasis": "Snacks arabes",
-    "Sebastian's Calypso Kitchen": "Cuisine des Caraïbes",
-    "Vulcania Restaurant": "Cuisine italienne",
-    "The Snuggly Duckling": "Cuisine européenne",
-    "Eastside Café": "Art Deco-style restaurant with a range of popular Western dishes.",
-    "Sweetheart Café": "Bakery-cafe run by a friendly couple. Freshly baked breads and sweet desserts.",
-    "Skipper's Tropical Hideout": "Snack restaurant opened by a former Jungle Cruise Skipper.",
-    "Great American Waffle Co.": "Sweets. **Gaufres Mickey**",
-    "Refreshment Corner": "Hot dogs.",
-    "Café Orléans": "Sweets.",
-    "The Skipper's Galley": "Menu items to enjoy on the go.",
-    "Squeezer's Tropical Juice Bar": "Frozen desserts.",
-    "Boiler Room Bites": "Menu items to enjoy on the go.",
-    "Cowboy Cookhouse": "Menu items to enjoy on the go.",
-    "Pecos Bill Cafe": "Menu items to enjoy on the go.",
-    "Grandma Sara's Kitchen": "Seasonal dishes.",
-    "Captain Hook's Galley": "Pizza. **Boisson au litchi**",
-    "The Big Pop": "**Popcorn.**",
-    "Plazma Ray's Diner": "Seasonal dishes. **Udon avec tête de mickey**",
-    "Zambini Brothers' Ristorante": "Pizza.",
-    "Refrescos": "Menu items to enjoy on the go.",
-    "Dockside Diner": "Seasonal dishes.",
-    "Hudson River Harvest": "Menu items to enjoy on the go.",
-    "Bayside Takeout": "Churros.",
-    "Royal Banquet of Arendelle": "Western cuisine.",
-    "Lookout Cookout": "Snacks.",
-    "Nautilus Galley": "Menu items to enjoy on the go.",
-    "Ice Cream Cones": "Glaces.",
-    "Center Street Coffeehouse": "Café, boissons chaudes.",
-    "Restaurant Hokusai": "Cuisine japonaise.",
-    "Food Booth (Adventureland side)": "Menu items to enjoy on the go.",
-    "Food Booth (Tomorrowland side)": "Menu items to enjoy on the go.",
-    "The Gazebo": "Menu items to enjoy on the go.",
-    "China Voyager": "Cuisine chinoise.",
-    "Parkside Wagon": "Churros.",
-    "Fresh Fruit Oasis": "Fruits frais, boissons.",
-    "Royal Street Veranda": "Boissons.",
-    "The Diamond Horseshoe": "Repas avec spectacle.",
-    "Village Pastry": "Pâtisseries et sucreries.",
-    "Magical Market": "Sucreries.",
-    "La Taverne de Gaston": "Sandwichs.",
-    "LeFou's": "Churros.",
-    "Le Petit Popper": "Popcorn.",
-    "Toontone Treats": "Seasonal dishes.",
-    "Toon Pop": "Popcorn.",
-    "Pop-A-Lot Popcorn": "Popcorn.",
-    "Soft Landing": "Boissons.",
-    "Cafe Portofino": "Cuisine occidentale.",
-    "Gondolier Snacks": "Sucreries.",
-    "Cape Cod Confections": "Boissons.",
-    "The Teddy Roosevelt Lounge": "Boissons alcoolisées.",
-    "Delancey Catering": "Hot dogs.",
-    "Barnacle Bill's": "Boissons alcoolisées.",
-    "High Tide Treats": "Churros.",
-    "Papadakis Fresh Fruit": "Boissons, fruits frais.",
-    "Liberty Landing Diner": "Sucreries.",
-    "Restaurant Sakura": "Cuisine japonaise.",
-    "Waterside Terrace": "Menu items to enjoy on the go.",
-    "Breezeway Bites": "Menu items to enjoy on the go.",
-    "Expedition Eats": "Menu items to enjoy on the go.",
-    "Tropic Al's": "Sucreries.",
-    "Lost River Cookhouse": "Menu items to enjoy on the go.",
-    "Oaken's OK Foods": "Menu items to enjoy on the go.",
-    "Open Sesame": "Churros.",
-    "Refreshment Station": "Menu items to enjoy on the go.",
-    "Rackety's Raccoon Saloon": "Snacks et boissons américains. **glaces à l'iatalienne et sundae**"
-  },
   "manualShopsList": [
     {
       "name": "Disney & Co.",
       "park": "Tokyo Disneyland",
       "zone": "World Bazaar",
-      "manual": true,
-      "description": "Vêtements, articles Disney",
-      "hours": "09:00 – 21:00"
+      "hours": "09:00 – 21:00",
+      "notes": "Vêtements, articles Disney",
+      "manual": true
     },
     {
       "name": "Silhouette Studio",
       "park": "Tokyo Disneyland",
       "zone": "World Bazaar",
-      "manual": true,
-      "description": "Portraits et silhouettes",
-      "hours": "09:00 – 21:00"
+      "hours": "09:00 – 21:00",
+      "notes": "Portraits et silhouettes",
+      "manual": true
     },
     {
       "name": "Camera Center",
       "park": "Tokyo Disneyland",
       "zone": "World Bazaar",
-      "manual": true,
-      "description": "Photos numériques, accessoires photo",
-      "hours": "11:00 – 21:00"
+      "hours": "09:00 – 21:00",
+      "notes": "Photos numériques, accessoires photo",
+      "manual": true
     },
     {
       "name": "Grand Emporium",
       "park": "Tokyo Disneyland",
       "zone": "World Bazaar",
-      "manual": true,
-      "description": "Grande boutique générale, souvenirs",
-      "hours": "09:00 – 21:00"
+      "hours": "09:00 – 21:00",
+      "notes": "Grande boutique générale, souvenirs",
+      "manual": true
     },
     {
       "name": "Harrington's Jewelry & Watches",
       "park": "Tokyo Disneyland",
       "zone": "World Bazaar",
-      "manual": true,
-      "description": "Montres, accessoires, sacs",
-      "hours": "09:00 – 21:00"
+      "hours": "09:00 – 21:00",
+      "notes": "Montres, accessoires, sacs",
+      "manual": true
     },
     {
       "name": "Town Center Fashions",
       "park": "Tokyo Disneyland",
       "zone": "World Bazaar",
-      "manual": true,
-      "description": "La plus grande boutique de vêtements",
-      "hours": "09:00 – 21:00"
+      "hours": "09:00 – 21:00",
+      "notes": "La plus grande boutique de vêtements",
+      "manual": true
     },
     {
       "name": "Adventureland Bazaar",
       "park": "Tokyo Disneyland",
       "zone": "Adventureland",
-      "manual": true,
-      "description": "Articles sur le thème des pirates",
-      "hours": "09:00 – 21:00"
+      "hours": "09:00 – 21:00",
+      "notes": "Articles sur le thème des pirates",
+      "manual": true
     },
     {
       "name": "Western Wear",
       "park": "Tokyo Disneyland",
       "zone": "Westernland",
-      "manual": true,
-      "description": "Vêtements et accessoires western",
-      "hours": "09:00 – 21:00"
+      "hours": "09:00 – 21:00",
+      "notes": "Vêtements et accessoires western",
+      "manual": true
     },
     {
       "name": "Kingdom Treasures",
       "park": "Tokyo Disneyland",
       "zone": "Fantasyland",
-      "manual": true,
-      "description": "Marchandises Winnie l'Ourson et amis",
-      "hours": "09:00 – 19:45"
+      "hours": "09:00 – 21:00",
+      "notes": "Marchandises Winnie l'Ourson et amis",
+      "manual": true
     },
     {
       "name": "Pooh Corner",
       "park": "Tokyo Disneyland",
       "zone": "Fantasyland",
-      "manual": true,
-      "description": "Spécialités sucrées, cadeaux Pooh",
-      "hours": "09:00 – 21:00"
+      "hours": "09:00 – 21:00",
+      "notes": "Spécialités sucrées, cadeaux Pooh",
+      "manual": true
     },
     {
       "name": "Gag Factory / Toontown Five and Dime",
       "park": "Tokyo Disneyland",
       "zone": "Toontown",
-      "manual": true,
-      "description": "Coiffes, babioles, bonbons, capsule toys",
-      "hours": "09:00 – 21:00"
+      "hours": "09:00 – 21:00",
+      "notes": "Coiffes, babioles, bonbons, capsule toys",
+      "manual": true
     },
     {
       "name": "Treasure Comet",
       "park": "Tokyo Disneyland",
       "zone": "Tomorrowland",
-      "manual": true,
-      "description": "Coiffes et articles lumineux",
-      "hours": "09:00 – 21:00"
+      "hours": "09:00 – 21:00",
+      "notes": "Coiffes et articles lumineux",
+      "manual": true
     },
     {
       "name": "Emporio",
       "park": "Tokyo DisneySea",
       "zone": "Mediterranean Harbor",
-      "manual": true,
-      "description": "La plus grande sélection de marchandises du parc",
-      "hours": "09:00 – 21:00"
+      "hours": "09:00 – 21:00",
+      "notes": "La plus grande sélection de marchandises du parc",
+      "manual": true
     },
     {
       "name": "Galleria Disney",
       "park": "Tokyo DisneySea",
       "zone": "Mediterranean Harbor",
-      "manual": true,
-      "description": "Boutique générale de souvenirs",
-      "hours": "09:00 – 21:00"
+      "hours": "09:00 – 21:00",
+      "notes": "Boutique générale de souvenirs",
+      "manual": true
     },
     {
       "name": "Il Postino Stationery",
       "park": "Tokyo DisneySea",
       "zone": "Mediterranean Harbor",
-      "manual": true,
-      "description": "Papeterie, livres, DVDs",
-      "hours": "09:00 – 21:00"
+      "hours": "09:00 – 21:00",
+      "notes": "Papeterie, livres, DVDs",
+      "manual": true
     },
     {
       "name": "Steamboat Mickey's",
       "park": "Tokyo DisneySea",
       "zone": "American Waterfront",
-      "manual": true,
-      "description": "Marchandises Duffy et amis",
-      "hours": "09:00 – 21:00"
+      "hours": "09:00 – 21:00",
+      "notes": "Marchandises Duffy et amis",
+      "manual": true
     },
     {
       "name": "McDuck's Department Store",
       "park": "Tokyo DisneySea",
       "zone": "American Waterfront",
-      "manual": true,
-      "description": "La plus grande boutique de vêtements",
-      "hours": "09:00 – 21:00"
+      "hours": "09:00 – 21:00",
+      "notes": "La plus grande boutique de vêtements",
+      "manual": true
     },
     {
       "name": "Newsie's Novelties",
       "park": "Tokyo DisneySea",
       "zone": "American Waterfront",
-      "manual": true,
-      "description": "Vêtements Oswald, accessoires",
-      "hours": "09:00 – 20:30"
+      "hours": "09:00 – 21:00",
+      "notes": "Vêtements Oswald, accessoires",
+      "manual": true
     },
     {
       "name": "Discovery Gifts",
       "park": "Tokyo DisneySea",
       "zone": "Port Discovery",
-      "manual": true,
-      "description": "Articles photo numériques, accessoires",
-      "hours": "09:30 – 20:00"
+      "hours": "09:00 – 21:00",
+      "notes": "Articles photo numériques, accessoires",
+      "manual": true
     },
     {
       "name": "Lost River Outfitters",
       "park": "Tokyo DisneySea",
       "zone": "Lost River Delta",
-      "manual": true,
-      "description": "Marchandises Toy Story",
-      "hours": "09:00 – 21:00"
+      "hours": "09:00 – 21:00",
+      "notes": "Marchandises Toy Story",
+      "manual": true
     },
     {
       "name": "Agrabah Marketplace",
       "park": "Tokyo DisneySea",
       "zone": "Arabian Coast",
-      "manual": true,
-      "description": "Jeux d'adresse, accessoires arabes",
-      "hours": "09:00 – 21:00"
+      "hours": "09:00 – 21:00",
+      "notes": "Jeux d'adresse, accessoires arabes",
+      "manual": true
     },
     {
       "name": "Mermaid Treasures",
       "park": "Tokyo DisneySea",
       "zone": "Mermaid Lagoon",
-      "manual": true,
-      "description": "Articles Ariel, confiseries, silhouettes",
-      "hours": "09:00 – 21:00"
+      "hours": "09:00 – 21:00",
+      "notes": "Articles Ariel, confiseries, silhouettes",
+      "manual": true
     },
     {
       "name": "Nautilus Gifts",
       "park": "Tokyo DisneySea",
       "zone": "Mysterious Island",
-      "manual": true,
-      "description": "Peluches, jouets, capsule toys",
-      "hours": "09:00 – 21:00"
+      "hours": "09:00 – 21:00",
+      "notes": "Peluches, jouets, capsule toys",
+      "manual": true
     },
     {
       "name": "Fantasy Springs Gifts",
       "park": "Tokyo DisneySea",
       "zone": "Fantasy Springs",
-      "manual": true,
-      "description": "Grand magasin Fantasy Springs",
-      "hours": "09:00 – 21:00"
+      "hours": "09:00 – 21:00",
+      "notes": "Grand magasin Fantasy Springs",
+      "manual": true
     },
     {
       "name": "Springs Treasures",
       "park": "Tokyo DisneySea",
       "zone": "Fantasy Springs",
-      "manual": true,
-      "description": "Coiffes, petits articles",
-      "hours": "09:00 – 21:00"
+      "hours": "09:00 – 21:00",
+      "notes": "Coiffes, petits articles",
+      "manual": true
     },
     {
       "name": "Bibbidi Bobbidi Boutique",
       "park": "Tokyo Disneyland",
       "zone": "World Bazaar",
-      "manual": true,
-      "description": "A dreams-come-true beauty salon for young girls.",
-      "hours": "10:00 – 16:30"
+      "hours": "09:00 – 21:00",
+      "notes": "A dreams-come-true beauty salon for young girls.",
+      "manual": true
     },
     {
       "name": "House of Greetings",
       "park": "Tokyo Disneyland",
       "zone": "World Bazaar",
-      "manual": true,
-      "description": "Stationery, books, DVDs, and more.",
-      "hours": "09:00 – 21:00"
+      "hours": "09:00 – 21:00",
+      "notes": "Stationery, books, DVDs, and more.",
+      "manual": true
     },
     {
       "name": "Magic Shop",
       "park": "Tokyo Disneyland",
       "zone": "World Bazaar",
-      "manual": true,
-      "description": "Demonstration and sales of magic tricks.",
-      "hours": "09:00 – 21:00"
+      "hours": "09:00 – 21:00",
+      "notes": "Demonstration and sales of magic tricks.",
+      "manual": true
     },
     {
       "name": "Pastry Palace",
       "park": "Tokyo Disneyland",
       "zone": "World Bazaar",
-      "manual": true,
-      "description": "Cookies, cakes, and other treats.",
-      "hours": "09:00 – 21:00"
+      "hours": "09:00 – 21:00",
+      "notes": "Cookies, cakes, and other treats.",
+      "manual": true
     },
     {
       "name": "The Home Store",
       "park": "Tokyo Disneyland",
       "zone": "World Bazaar",
-      "manual": true,
-      "description": "Tableware and other interior goods.",
-      "hours": "09:00 – 21:00"
+      "hours": "09:00 – 21:00",
+      "notes": "Tableware and other interior goods.",
+      "manual": true
     },
     {
       "name": "Toy Station",
       "park": "Tokyo Disneyland",
       "zone": "World Bazaar",
-      "manual": true,
-      "description": "The biggest toy/plush doll shop in the Park.",
-      "hours": "09:00 – 21:00"
+      "hours": "09:00 – 21:00",
+      "notes": "The biggest toy/plush doll shop in the Park.",
+      "manual": true
     },
     {
       "name": "World Bazaar Confectionery",
       "park": "Tokyo Disneyland",
       "zone": "World Bazaar",
-      "manual": true,
-      "description": "The Park's largest shop for sweets.",
-      "hours": "09:00 – 21:00"
+      "hours": "09:00 – 21:00",
+      "notes": "The Park's largest shop for sweets.",
+      "manual": true
     },
     {
       "name": "Cristal Arts",
       "park": "Tokyo Disneyland",
       "zone": "Adventureland",
-      "manual": true,
-      "description": "Demonstration and sales of glasswork crafted by artisans.",
-      "hours": "10:00 – 21:00"
+      "hours": "09:00 – 21:00",
+      "notes": "Demonstration and sales of glasswork crafted by artisans.",
+      "manual": true
     },
     {
       "name": "Jungle Carnival",
       "park": "Tokyo Disneyland",
       "zone": "Adventureland",
-      "manual": true,
-      "description": "Try your skill with the fun games here. Separate fee, Park tickets not accepted.",
-      "hours": "09:00 – 21:00"
+      "hours": "09:00 – 21:00",
+      "notes": "Try your skill with the fun games here. Separate fee, Park tickets not accepted.",
+      "manual": true
     },
     {
       "name": "La Petite Parfumerie",
       "park": "Tokyo Disneyland",
       "zone": "Adventureland",
-      "manual": true,
-      "description": "Fragrances, body care products, and more.",
-      "hours": "09:00 – 21:00"
+      "hours": "09:00 – 21:00",
+      "notes": "Fragrances, body care products, and more.",
+      "manual": true
     },
     {
       "name": "Le Marché Bleu",
       "park": "Tokyo Disneyland",
       "zone": "Adventureland",
-      "manual": true,
-      "description": "Wagon offering hairbands and fun caps.",
-      "hours": "09:00 – 20:00"
+      "hours": "09:00 – 21:00",
+      "notes": "Wagon offering hairbands and fun caps.",
+      "manual": true
     },
     {
       "name": "Party Gras Gifts",
       "park": "Tokyo Disneyland",
       "zone": "Adventureland",
-      "manual": true,
-      "description": "Wearable items, accessories, and more.",
-      "hours": "09:00 – 21:00"
+      "hours": "09:00 – 21:00",
+      "notes": "Wearable items, accessories, and more.",
+      "manual": true
     },
     {
       "name": "Pirate Treasure",
       "park": "Tokyo Disneyland",
       "zone": "Adventureland",
-      "manual": true,
-      "description": "Items in the image of buccaneer riches.",
-      "hours": "09:00 – 21:00"
+      "hours": "09:00 – 21:00",
+      "notes": "Items in the image of buccaneer riches.",
+      "manual": true
     },
     {
       "name": "The Golden Galleon",
       "park": "Tokyo Disneyland",
       "zone": "Adventureland",
-      "manual": true,
-      "description": "Novelties themed to pirates.",
-      "hours": "09:00 – 21:00"
+      "hours": "09:00 – 21:00",
+      "notes": "Novelties themed to pirates.",
+      "manual": true
     },
     {
       "name": "Country Bear Bandwagon",
       "park": "Tokyo Disneyland",
       "zone": "Westernland",
-      "manual": true,
-      "description": "Fun caps and hairbands.",
-      "hours": "09:00 – 20:15"
+      "hours": "09:00 – 21:00",
+      "notes": "Fun caps and hairbands.",
+      "manual": true
     },
     {
       "name": "Frontier Woodcraft",
       "park": "Tokyo Disneyland",
       "zone": "Westernland",
-      "manual": true,
-      "description": "Original items made here.",
-      "hours": "09:30 – 20:00"
+      "hours": "09:00 – 21:00",
+      "notes": "Original items made here.",
+      "manual": true
     },
     {
       "name": "General Store",
       "park": "Tokyo Disneyland",
       "zone": "Westernland",
-      "manual": true,
-      "description": "Snacks and confections.",
-      "hours": "13:00 – 21:00"
+      "hours": "09:00 – 21:00",
+      "notes": "Snacks and confections.",
+      "manual": true
     },
     {
       "name": "Happy Camper Supplies",
       "park": "Tokyo Disneyland",
       "zone": "Westernland",
-      "manual": true,
-      "description": "Items featuring Donald Duck, fun caps, and more.",
-      "hours": "10:00 – 17:00"
+      "hours": "09:00 – 21:00",
+      "notes": "Items featuring Donald Duck, fun caps, and more.",
+      "manual": true
     },
     {
       "name": "Trading Post",
       "park": "Tokyo Disneyland",
       "zone": "Westernland",
-      "manual": true,
-      "description": "Disney Character items and more.",
-      "hours": "09:00 – 21:00"
+      "hours": "09:00 – 21:00",
+      "notes": "Disney Character items and more.",
+      "manual": true
     },
     {
       "name": "Westernland Picture Parlour",
       "park": "Tokyo Disneyland",
       "zone": "Westernland",
-      "manual": true,
-      "description": "Keepsake portraits that capture the Old West.",
-      "hours": "09:00 – 21:00"
+      "hours": "09:00 – 21:00",
+      "notes": "Keepsake portraits that capture the Old West.",
+      "manual": true
     },
     {
       "name": "Splashdown Photos",
       "park": "Tokyo Disneyland",
       "zone": "Critter Country",
-      "manual": true,
-      "description": "Keepsake photos of your plunge down Splash Mountain.",
-      "hours": "09:00 – 21:00"
+      "hours": "09:00 – 21:00",
+      "notes": "Keepsake photos of your plunge down Splash Mountain.",
+      "manual": true
     },
     {
       "name": "Brave Little Tailor Shoppe",
       "park": "Tokyo Disneyland",
       "zone": "Fantasyland",
-      "manual": true,
-      "description": "Baby goods and apparel for kids.",
-      "hours": "09:00 – 19:45"
+      "hours": "09:00 – 21:00",
+      "notes": "Baby goods and apparel for kids.",
+      "manual": true
     },
     {
       "name": "Harmony Faire",
       "park": "Tokyo Disneyland",
       "zone": "Fantasyland",
-      "manual": true,
-      "description": "Fun caps, hairbands, and other wearable items.",
-      "hours": "09:00 – 19:45"
+      "hours": "09:00 – 21:00",
+      "notes": "Fun caps, hairbands, and other wearable items.",
+      "manual": true
     },
     {
       "name": "Pleasure Island Candies",
       "park": "Tokyo Disneyland",
       "zone": "Fantasyland",
-      "manual": true,
-      "description": "Candies and other sweets.",
-      "hours": "10:00 – 19:45"
+      "hours": "09:00 – 21:00",
+      "notes": "Candies and other sweets.",
+      "manual": true
     },
     {
       "name": "Stromboli's Wagon",
       "park": "Tokyo Disneyland",
       "zone": "Fantasyland",
-      "manual": true,
-      "description": "Fun caps and hairbands.",
-      "hours": "09:00 – 19:45"
+      "hours": "09:00 – 21:00",
+      "notes": "Fun caps and hairbands.",
+      "manual": true
     },
     {
       "name": "The Glass Slipper",
       "park": "Tokyo Disneyland",
       "zone": "Fantasyland",
-      "manual": true,
-      "description": "Demonstration and sales of glasswork crafted by artisans.",
-      "hours": "09:00 – 18:30"
+      "hours": "09:00 – 21:00",
+      "notes": "Demonstration and sales of glasswork crafted by artisans.",
+      "manual": true
     },
     {
       "name": "Village Shoppes",
       "park": "Tokyo Disneyland",
       "zone": "Fantasyland",
-      "manual": true,
-      "description": "La Belle Librairie, Little Town Traders, Bonjour Gifts; items themed to Beauty and the Beast.",
-      "hours": "09:00 – 21:00"
+      "hours": "09:00 – 21:00",
+      "notes": "La Belle Librairie, Little Town Traders, Bonjour Gifts; items themed to Beauty and the Beast.",
+      "manual": true
     },
     {
       "name": "Toontown Delivery Co.",
       "park": "Tokyo Disneyland",
       "zone": "Toontown",
-      "manual": true,
-      "description": "Wagon with fun caps, hairbands, and light-up items.",
-      "hours": "09:00 – 19:30"
+      "hours": "09:00 – 21:00",
+      "notes": "Wagon with fun caps, hairbands, and light-up items.",
+      "manual": true
     },
     {
       "name": "Cosmic Encounter",
       "park": "Tokyo Disneyland",
       "zone": "Tomorrowland",
-      "manual": true,
-      "description": "Fun caps, hairbands, and other wearable items.",
-      "hours": "09:00 – 21:00"
+      "hours": "09:00 – 21:00",
+      "notes": "Fun caps, hairbands, and other wearable items.",
+      "manual": true
     },
     {
       "name": "Monsters, Inc. Company Store",
       "park": "Tokyo Disneyland",
       "zone": "Tomorrowland",
-      "manual": true,
-      "description": "Merchandise featuring the monsters.",
-      "hours": "09:00 – 21:00"
+      "hours": "09:00 – 21:00",
+      "notes": "Merchandise featuring the monsters.",
+      "manual": true
     },
     {
       "name": "Stargazer Supplies",
       "park": "Tokyo Disneyland",
       "zone": "Tomorrowland",
-      "manual": true,
-      "description": "Merchandise themed to Baymax and more.",
-      "hours": "09:00 – 21:00"
+      "hours": "09:00 – 21:00",
+      "notes": "Merchandise themed to Baymax and more.",
+      "manual": true
     },
     {
       "name": "Bella Minni Collections",
       "park": "Tokyo DisneySea",
       "zone": "Mediterranean Harbor",
-      "manual": true,
-      "description": "Accessories, bags, and more.",
-      "hours": "09:00 – 21:00"
+      "hours": "09:00 – 21:00",
+      "notes": "Accessories, bags, and more.",
+      "manual": true
     },
     {
       "name": "Figaro's Clothiers",
       "park": "Tokyo DisneySea",
       "zone": "Mediterranean Harbor",
-      "manual": true,
-      "description": "The Park's largest apparel shop.",
-      "hours": "09:00 – 21:00"
+      "hours": "09:00 – 21:00",
+      "notes": "The Park's largest apparel shop.",
+      "manual": true
     },
     {
       "name": "Fotografica",
       "park": "Tokyo DisneySea",
       "zone": "Mediterranean Harbor",
-      "manual": true,
-      "description": "Digital photo media, camera accessories. Prepaid SIM cards also available.",
-      "hours": "09:00 – 21:00"
+      "hours": "09:00 – 21:00",
+      "notes": "Digital photo media, camera accessories. Prepaid SIM cards also available.",
+      "manual": true
     },
     {
       "name": "Merchant of Venice Confections",
       "park": "Tokyo DisneySea",
       "zone": "Mediterranean Harbor",
-      "manual": true,
-      "description": "Chocolates, cookies and other treats.",
-      "hours": "09:00 – 21:00"
+      "hours": "09:00 – 21:00",
+      "notes": "Chocolates, cookies and other treats.",
+      "manual": true
     },
     {
       "name": "Miramare",
       "park": "Tokyo DisneySea",
       "zone": "Mediterranean Harbor",
-      "manual": true,
-      "description": "Wagon offering hairbands, seasonal items, and more.",
-      "hours": "09:00 – 20:15"
+      "hours": "09:00 – 21:00",
+      "notes": "Wagon offering hairbands, seasonal items, and more.",
+      "manual": true
     },
     {
       "name": "Piccolo Mercato",
       "park": "Tokyo DisneySea",
       "zone": "Mediterranean Harbor",
-      "manual": true,
-      "description": "Wagon with hairbands, pass cases, light-up items, and more.",
-      "hours": "09:00 – 21:00"
+      "hours": "09:00 – 21:00",
+      "notes": "Wagon with hairbands, pass cases, light-up items, and more.",
+      "manual": true
     },
     {
       "name": "Rimembranze",
       "park": "Tokyo DisneySea",
       "zone": "Mediterranean Harbor",
-      "manual": true,
-      "description": "Disney Character items and more.",
-      "hours": "09:00 – 21:00"
+      "hours": "09:00 – 21:00",
+      "notes": "Disney Character items and more.",
+      "manual": true
     },
     {
       "name": "Splendido",
       "park": "Tokyo DisneySea",
       "zone": "Mediterranean Harbor",
-      "manual": true,
-      "description": "Fun caps and hairbands offered at this wagon.",
-      "hours": "09:00 – 21:00"
+      "hours": "09:00 – 21:00",
+      "notes": "Fun caps and hairbands offered at this wagon.",
+      "manual": true
     },
     {
       "name": "Valentina's Sweets",
       "park": "Tokyo DisneySea",
       "zone": "Mediterranean Harbor",
-      "manual": true,
-      "description": "The largest confectionery shop in the Park.",
-      "hours": "09:00 – 21:00"
+      "hours": "09:00 – 21:00",
+      "notes": "The largest confectionery shop in the Park.",
+      "manual": true
     },
     {
       "name": "Venetian Carnival Market",
       "park": "Tokyo DisneySea",
       "zone": "Mediterranean Harbor",
-      "manual": true,
-      "description": "Tableware and other items.",
-      "hours": "09:00 – 21:00"
+      "hours": "09:00 – 21:00",
+      "notes": "Tableware and other items.",
+      "manual": true
     },
     {
       "name": "Villa Donaldo Home Shop",
       "park": "Tokyo DisneySea",
       "zone": "Mediterranean Harbor",
-      "manual": true,
-      "description": "Towels, toothbrushes, and other household items.",
-      "hours": "09:00 – 21:00"
+      "hours": "09:00 – 21:00",
+      "notes": "Towels, toothbrushes, and other household items.",
+      "manual": true
     },
     {
       "name": "Aunt Peg's Village Store",
       "park": "Tokyo DisneySea",
       "zone": "American Waterfront",
-      "manual": true,
-      "description": "Duffy merchandise.",
-      "hours": "09:00 – 21:00"
+      "hours": "09:00 – 21:00",
+      "notes": "Duffy merchandise.",
+      "manual": true
     },
     {
       "name": "Slinky Dog's Gift Trolley",
       "park": "Tokyo DisneySea",
       "zone": "American Waterfront",
-      "manual": true,
-      "description": "Wagon with merchandise themed to Disney and Pixar Toy Story films.",
-      "hours": "09:00 – 21:00"
+      "hours": "09:00 – 21:00",
+      "notes": "Wagon with merchandise themed to Disney and Pixar Toy Story films.",
+      "manual": true
     },
     {
       "name": "Tower of Terror Memorabilia",
       "park": "Tokyo DisneySea",
       "zone": "American Waterfront",
-      "manual": true,
-      "description": "Souvenir photos and Tower of Terror merchandise.",
-      "hours": "09:00 – 21:00"
+      "hours": "09:00 – 21:00",
+      "notes": "Souvenir photos and Tower of Terror merchandise.",
+      "manual": true
     },
     {
       "name": "Skywatcher Souvenirs",
       "park": "Tokyo DisneySea",
       "zone": "Port Discovery",
-      "manual": true,
-      "description": "Wagon offering hairbands and light-up items.",
-      "hours": "09:30 – 19:00"
+      "hours": "09:00 – 21:00",
+      "notes": "Wagon offering hairbands and light-up items.",
+      "manual": true
     },
     {
       "name": "Expedition Photo Archives",
       "park": "Tokyo DisneySea",
       "zone": "Lost River Delta",
-      "manual": true,
-      "description": "Photos from your adventure at Indiana Jones Adventure: Temple of the Crystal Skull.",
-      "hours": "09:00 – 21:00"
+      "hours": "09:00 – 21:00",
+      "notes": "Photos from your adventure at Indiana Jones Adventure: Temple of the Crystal Skull.",
+      "manual": true
     },
     {
       "name": "Lookout Traders",
       "park": "Tokyo DisneySea",
       "zone": "Lost River Delta",
-      "manual": true,
-      "description": "Wagon offering hairbands, light-up items, and more.",
-      "hours": "09:00 – 19:30"
+      "hours": "09:00 – 21:00",
+      "notes": "Wagon offering hairbands, light-up items, and more.",
+      "manual": true
     },
     {
       "name": "Peddlers' Outpost",
       "park": "Tokyo DisneySea",
       "zone": "Lost River Delta",
-      "manual": true,
-      "description": "Wagon offering hairbands and light-up items.",
-      "hours": "09:00 – 21:00"
+      "hours": "09:00 – 21:00",
+      "notes": "Wagon offering hairbands and light-up items.",
+      "manual": true
     },
     {
       "name": "Abu's Bazaar",
       "park": "Tokyo DisneySea",
       "zone": "Arabian Coast",
-      "manual": true,
-      "description": "Try your skill with the fun games here. Separate fee, Park tickets not accepted.",
-      "hours": "09:00 – 21:00"
+      "hours": "09:00 – 21:00",
+      "notes": "Try your skill with the fun games here. Separate fee, Park tickets not accepted.",
+      "manual": true
     },
     {
       "name": "Cove of Wonders",
       "park": "Tokyo DisneySea",
       "zone": "Mermaid Lagoon",
-      "manual": true,
-      "description": "Hairbands, light-up toys, and more.",
-      "hours": "09:00 – 21:00"
+      "hours": "09:00 – 21:00",
+      "notes": "Hairbands, light-up toys, and more.",
+      "manual": true
     },
     {
       "name": "Kiss de Girl Fashions",
       "park": "Tokyo DisneySea",
       "zone": "Mermaid Lagoon",
-      "manual": true,
-      "description": "Baby items, kids' apparel, and more.",
-      "hours": "09:00 – 21:00"
+      "hours": "09:00 – 21:00",
+      "notes": "Baby items, kids' apparel, and more.",
+      "manual": true
     },
     {
       "name": "The Sleepy Whale Shoppe",
       "park": "Tokyo DisneySea",
       "zone": "Mermaid Lagoon",
-      "manual": true,
-      "description": "Ariel items, confectionery. Demonstration and sales of silhouette portraits.",
-      "hours": "09:00 – 21:00"
+      "hours": "09:00 – 21:00",
+      "notes": "Ariel items, confectionery. Demonstration and sales of silhouette portraits.",
+      "manual": true
     }
   ],
   "showEdits": {
@@ -1679,336 +1676,6 @@
         "19:20",
         "20:35"
       ]
-    }
-  },
-  "shopEdits": {
-    "World Bazaar Emporium": {
-      "notes": "La plus grande sélection de marchandises du parc",
-      "hours": "09:00 – 21:00"
-    },
-    "Disney & Co.": {
-      "notes": "Vêtements, articles Disney",
-      "hours": "09:00 – 21:00"
-    },
-    "Silhouette Studio": {
-      "notes": "Portraits et silhouettes",
-      "hours": "09:00 – 21:00"
-    },
-    "Camera Center": {
-      "notes": "Photos numériques, accessoires photo",
-      "hours": "09:00 – 21:00"
-    },
-    "Grand Emporium": {
-      "notes": "Grande boutique générale, souvenirs",
-      "hours": "09:00 – 21:00"
-    },
-    "Harrington's Jewelry & Watches": {
-      "notes": "Montres, accessoires, sacs",
-      "hours": "09:00 – 21:00"
-    },
-    "Town Center Fashions": {
-      "notes": "La plus grande boutique de vêtements",
-      "hours": "09:00 – 21:00"
-    },
-    "Adventureland Bazaar": {
-      "notes": "Articles sur le thème des pirates",
-      "hours": "09:00 – 21:00"
-    },
-    "Western Wear": {
-      "notes": "Vêtements et accessoires western",
-      "hours": "09:00 – 21:00"
-    },
-    "Kingdom Treasures": {
-      "notes": "Marchandises Winnie l'Ourson et amis",
-      "hours": "09:00 – 21:00"
-    },
-    "Pooh Corner": {
-      "notes": "Spécialités sucrées, cadeaux Pooh",
-      "hours": "09:00 – 21:00"
-    },
-    "Gag Factory / Toontown Five and Dime": {
-      "notes": "Coiffes, babioles, bonbons, capsule toys",
-      "hours": "09:00 – 21:00"
-    },
-    "Mickey's Trailer": {
-      "notes": "Boutique de souvenirs Mickey",
-      "hours": "09:00 – 21:00"
-    },
-    "Treasure Comet": {
-      "notes": "Coiffes et articles lumineux",
-      "hours": "09:00 – 21:00"
-    },
-    "Stargazar Supplies": {
-      "notes": "Marchandises Baymax et Stitch, capsule toys",
-      "hours": "09:00 – 21:00"
-    },
-    "Emporio": {
-      "notes": "La plus grande sélection de marchandises du parc",
-      "hours": "09:00 – 21:00"
-    },
-    "Galleria Disney": {
-      "notes": "Boutique générale de souvenirs",
-      "hours": "09:00 – 21:00"
-    },
-    "Il Postino Stationery": {
-      "notes": "Papeterie, livres, DVDs",
-      "hours": "09:00 – 21:00"
-    },
-    "Valentine's Sweets": {
-      "notes": "Chocolats, biscuits, confiseries",
-      "hours": "09:00 – 21:00"
-    },
-    "Steamboat Mickey's": {
-      "notes": "Marchandises Duffy et amis",
-      "hours": "09:00 – 21:00"
-    },
-    "McDuck's Department Store": {
-      "notes": "La plus grande boutique de vêtements",
-      "hours": "09:00 – 21:00"
-    },
-    "Newsie's Novelties": {
-      "notes": "Vêtements Oswald, accessoires",
-      "hours": "09:00 – 21:00"
-    },
-    "Discovery Gifts": {
-      "notes": "Articles photo numériques, accessoires",
-      "hours": "09:00 – 21:00"
-    },
-    "Lost River Outfitters": {
-      "notes": "Marchandises Toy Story",
-      "hours": "09:00 – 21:00"
-    },
-    "Agrabah Marketplace": {
-      "notes": "Jeux d'adresse, accessoires arabes",
-      "hours": "09:00 – 21:00"
-    },
-    "Mermaid Treasures": {
-      "notes": "Articles Ariel, confiseries, silhouettes",
-      "hours": "09:00 – 21:00"
-    },
-    "Nautilus Gifts": {
-      "notes": "Peluches, jouets, capsule toys",
-      "hours": "09:00 – 21:00"
-    },
-    "Fantasy Springs Gifts": {
-      "notes": "Grand magasin Fantasy Springs",
-      "hours": "09:00 – 21:00"
-    },
-    "Springs Treasures": {
-      "notes": "Coiffes, petits articles",
-      "hours": "09:00 – 21:00"
-    },
-    "Toy Station": {
-      "notes": "The biggest toy/plush doll shop in the Park.",
-      "hours": "09:00 – 21:00"
-    },
-    "House of Greetings": {
-      "notes": "Stationery, books, DVDs, and more.",
-      "hours": "09:00 – 21:00"
-    },
-    "Bibbidi Bobbidi Boutique": {
-      "notes": "A dreams-come-true beauty salon for young girls.",
-      "hours": "09:00 – 21:00"
-    },
-    "Pastry Palace": {
-      "notes": "Cookies, cakes, and other treats.",
-      "hours": "09:00 – 21:00"
-    },
-    "The Home Store": {
-      "notes": "Tableware and other interior goods.",
-      "hours": "09:00 – 21:00"
-    },
-    "Magic Shop": {
-      "notes": "Demonstration and sales of magic tricks.",
-      "hours": "09:00 – 21:00"
-    },
-    "World Bazaar Confectionery": {
-      "notes": "The Park's largest shop for sweets.",
-      "hours": "09:00 – 21:00"
-    },
-    "Cristal Arts": {
-      "notes": "Demonstration and sales of glasswork crafted by artisans.",
-      "hours": "09:00 – 21:00"
-    },
-    "The Golden Galleon": {
-      "notes": "Novelties themed to pirates.",
-      "hours": "09:00 – 21:00"
-    },
-    "Jungle Carnival": {
-      "notes": "Try your skill with the fun games here. Separate fee, Park tickets not accepted.",
-      "hours": "09:00 – 21:00"
-    },
-    "Party Gras Gifts": {
-      "notes": "Wearable items, accessories, and more.",
-      "hours": "09:00 – 21:00"
-    },
-    "Pirate Treasure": {
-      "notes": "Items in the image of buccaneer riches.",
-      "hours": "09:00 – 21:00"
-    },
-    "La Petite Parfumerie": {
-      "notes": "Fragrances, body care products, and more.",
-      "hours": "09:00 – 21:00"
-    },
-    "Le Marché Bleu": {
-      "notes": "Wagon offering hairbands and fun caps.",
-      "hours": "09:00 – 21:00"
-    },
-    "Westernland Picture Parlour": {
-      "notes": "Keepsake portraits that capture the Old West.",
-      "hours": "09:00 – 21:00"
-    },
-    "Country Bear Bandwagon": {
-      "notes": "Fun caps and hairbands.",
-      "hours": "09:00 – 21:00"
-    },
-    "General Store": {
-      "notes": "Snacks and confections.",
-      "hours": "09:00 – 21:00"
-    },
-    "Trading Post": {
-      "notes": "Disney Character items and more.",
-      "hours": "09:00 – 21:00"
-    },
-    "Happy Camper Supplies": {
-      "notes": "Items featuring Donald Duck, fun caps, and more.",
-      "hours": "09:00 – 21:00"
-    },
-    "Frontier Woodcraft": {
-      "notes": "Original items made here.",
-      "hours": "09:00 – 21:00"
-    },
-    "Splashdown Photos": {
-      "notes": "Keepsake photos of your plunge down Splash Mountain.",
-      "hours": "09:00 – 21:00"
-    },
-    "The Glass Slipper": {
-      "notes": "Demonstration and sales of glasswork crafted by artisans.",
-      "hours": "09:00 – 21:00"
-    },
-    "Stromboli's Wagon": {
-      "notes": "Fun caps and hairbands.",
-      "hours": "09:00 – 21:00"
-    },
-    "Harmony Faire": {
-      "notes": "Fun caps, hairbands, and other wearable items.",
-      "hours": "09:00 – 21:00"
-    },
-    "Village Shoppes": {
-      "notes": "La Belle Librairie, Little Town Traders, Bonjour Gifts; items themed to Beauty and the Beast.",
-      "hours": "09:00 – 21:00"
-    },
-    "Brave Little Tailor Shoppe": {
-      "notes": "Baby goods and apparel for kids.",
-      "hours": "09:00 – 21:00"
-    },
-    "Pleasure Island Candies": {
-      "notes": "Candies and other sweets.",
-      "hours": "09:00 – 21:00"
-    },
-    "Toontown Delivery Co.": {
-      "notes": "Wagon with fun caps, hairbands, and light-up items.",
-      "hours": "09:00 – 21:00"
-    },
-    "Cosmic Encounter": {
-      "notes": "Fun caps, hairbands, and other wearable items.",
-      "hours": "09:00 – 21:00"
-    },
-    "Stargazer Supplies": {
-      "notes": "Merchandise themed to Baymax and more.",
-      "hours": "09:00 – 21:00"
-    },
-    "Monsters, Inc. Company Store": {
-      "notes": "Merchandise featuring the monsters.",
-      "hours": "09:00 – 21:00"
-    },
-    "Valentina's Sweets": {
-      "notes": "The largest confectionery shop in the Park.",
-      "hours": "09:00 – 21:00"
-    },
-    "Villa Donaldo Home Shop": {
-      "notes": "Towels, toothbrushes, and other household items.",
-      "hours": "09:00 – 21:00"
-    },
-    "Venetian Carnival Market": {
-      "notes": "Tableware and other items.",
-      "hours": "09:00 – 21:00"
-    },
-    "Splendido": {
-      "notes": "Fun caps and hairbands offered at this wagon.",
-      "hours": "09:00 – 21:00"
-    },
-    "Piccolo Mercato": {
-      "notes": "Wagon with hairbands, pass cases, light-up items, and more.",
-      "hours": "09:00 – 21:00"
-    },
-    "Figaro's Clothiers": {
-      "notes": "The Park's largest apparel shop.",
-      "hours": "09:00 – 21:00"
-    },
-    "Fotografica": {
-      "notes": "Digital photo media, camera accessories. Prepaid SIM cards also available.",
-      "hours": "09:00 – 21:00"
-    },
-    "Bella Minni Collections": {
-      "notes": "Accessories, bags, and more.",
-      "hours": "09:00 – 21:00"
-    },
-    "Merchant of Venice Confections": {
-      "notes": "Chocolates, cookies and other treats.",
-      "hours": "09:00 – 21:00"
-    },
-    "Miramare": {
-      "notes": "Wagon offering hairbands, seasonal items, and more.",
-      "hours": "09:00 – 21:00"
-    },
-    "Rimembranze": {
-      "notes": "Disney Character items and more.",
-      "hours": "09:00 – 21:00"
-    },
-    "Aunt Peg's Village Store": {
-      "notes": "Duffy merchandise.",
-      "hours": "09:00 – 21:00"
-    },
-    "Slinky Dog's Gift Trolley": {
-      "notes": "Wagon with merchandise themed to Disney and Pixar Toy Story films.",
-      "hours": "09:00 – 21:00"
-    },
-    "Tower of Terror Memorabilia": {
-      "notes": "Souvenir photos and Tower of Terror merchandise.",
-      "hours": "09:00 – 21:00"
-    },
-    "Skywatcher Souvenirs": {
-      "notes": "Wagon offering hairbands and light-up items.",
-      "hours": "09:00 – 21:00"
-    },
-    "Expedition Photo Archives": {
-      "notes": "Photos from your adventure at Indiana Jones Adventure: Temple of the Crystal Skull.",
-      "hours": "09:00 – 21:00"
-    },
-    "Peddlers' Outpost": {
-      "notes": "Wagon offering hairbands and light-up items.",
-      "hours": "09:00 – 21:00"
-    },
-    "Lookout Traders": {
-      "notes": "Wagon offering hairbands, light-up items, and more.",
-      "hours": "09:00 – 21:00"
-    },
-    "Abu's Bazaar": {
-      "notes": "Try your skill with the fun games here. Separate fee, Park tickets not accepted.",
-      "hours": "09:00 – 21:00"
-    },
-    "Kiss de Girl Fashions": {
-      "notes": "Baby items, kids' apparel, and more.",
-      "hours": "09:00 – 21:00"
-    },
-    "Cove of Wonders": {
-      "notes": "Hairbands, light-up toys, and more.",
-      "hours": "09:00 – 21:00"
-    },
-    "The Sleepy Whale Shoppe": {
-      "notes": "Ariel items, confectionery. Demonstration and sales of silhouette portraits.",
-      "hours": "09:00 – 21:00"
     }
   }
 }
