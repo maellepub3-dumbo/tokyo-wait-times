@@ -902,7 +902,7 @@
       "name": "Camera Center",
       "park": "Tokyo Disneyland",
       "zone": "World Bazaar",
-      "hours": "09:00 – 21:00",
+      "hours": "11:00 – 21:00",
       "notes": "Photos numériques, accessoires photo",
       "manual": true
     },
@@ -950,7 +950,7 @@
       "name": "Kingdom Treasures",
       "park": "Tokyo Disneyland",
       "zone": "Fantasyland",
-      "hours": "09:00 – 21:00",
+      "hours": "09:00 – 19:45",
       "notes": "Marchandises Winnie l'Ourson et amis",
       "manual": true
     },
@@ -1022,7 +1022,7 @@
       "name": "Newsie's Novelties",
       "park": "Tokyo DisneySea",
       "zone": "American Waterfront",
-      "hours": "09:00 – 21:00",
+      "hours": "09:00 – 20:30",
       "notes": "Vêtements Oswald, accessoires",
       "manual": true
     },
@@ -1030,7 +1030,7 @@
       "name": "Discovery Gifts",
       "park": "Tokyo DisneySea",
       "zone": "Port Discovery",
-      "hours": "09:00 – 21:00",
+      "hours": "09:30 – 20:00",
       "notes": "Articles photo numériques, accessoires",
       "manual": true
     },
@@ -1086,7 +1086,7 @@
       "name": "Bibbidi Bobbidi Boutique",
       "park": "Tokyo Disneyland",
       "zone": "World Bazaar",
-      "hours": "09:00 – 21:00",
+      "hours": "10:00 – 16:30",
       "notes": "A dreams-come-true beauty salon for young girls.",
       "manual": true
     },
@@ -1142,7 +1142,7 @@
       "name": "Cristal Arts",
       "park": "Tokyo Disneyland",
       "zone": "Adventureland",
-      "hours": "09:00 – 21:00",
+      "hours": "10:00 – 21:00",
       "notes": "Demonstration and sales of glasswork crafted by artisans.",
       "manual": true
     },
@@ -1166,7 +1166,7 @@
       "name": "Le Marché Bleu",
       "park": "Tokyo Disneyland",
       "zone": "Adventureland",
-      "hours": "09:00 – 21:00",
+      "hours": "09:00 – 20:00",
       "notes": "Wagon offering hairbands and fun caps.",
       "manual": true
     },
@@ -1198,7 +1198,7 @@
       "name": "Country Bear Bandwagon",
       "park": "Tokyo Disneyland",
       "zone": "Westernland",
-      "hours": "09:00 – 21:00",
+      "hours": "09:00 – 20:15",
       "notes": "Fun caps and hairbands.",
       "manual": true
     },
@@ -1206,7 +1206,7 @@
       "name": "Frontier Woodcraft",
       "park": "Tokyo Disneyland",
       "zone": "Westernland",
-      "hours": "09:00 – 21:00",
+      "hours": "09:30 – 20:00",
       "notes": "Original items made here.",
       "manual": true
     },
@@ -1214,7 +1214,7 @@
       "name": "General Store",
       "park": "Tokyo Disneyland",
       "zone": "Westernland",
-      "hours": "09:00 – 21:00",
+      "hours": "13:00 – 21:00",
       "notes": "Snacks and confections.",
       "manual": true
     },
@@ -1222,7 +1222,7 @@
       "name": "Happy Camper Supplies",
       "park": "Tokyo Disneyland",
       "zone": "Westernland",
-      "hours": "09:00 – 21:00",
+      "hours": "10:00 – 17:00",
       "notes": "Items featuring Donald Duck, fun caps, and more.",
       "manual": true
     },
@@ -1254,7 +1254,7 @@
       "name": "Brave Little Tailor Shoppe",
       "park": "Tokyo Disneyland",
       "zone": "Fantasyland",
-      "hours": "09:00 – 21:00",
+      "hours": "09:00 – 19:45",
       "notes": "Baby goods and apparel for kids.",
       "manual": true
     },
@@ -1262,7 +1262,7 @@
       "name": "Harmony Faire",
       "park": "Tokyo Disneyland",
       "zone": "Fantasyland",
-      "hours": "09:00 – 21:00",
+      "hours": "09:00 – 19:45",
       "notes": "Fun caps, hairbands, and other wearable items.",
       "manual": true
     },
@@ -1270,7 +1270,7 @@
       "name": "Pleasure Island Candies",
       "park": "Tokyo Disneyland",
       "zone": "Fantasyland",
-      "hours": "09:00 – 21:00",
+      "hours": "10:00 – 19:45",
       "notes": "Candies and other sweets.",
       "manual": true
     },
@@ -1278,7 +1278,7 @@
       "name": "Stromboli's Wagon",
       "park": "Tokyo Disneyland",
       "zone": "Fantasyland",
-      "hours": "09:00 – 21:00",
+      "hours": "09:00 – 19:45",
       "notes": "Fun caps and hairbands.",
       "manual": true
     },
@@ -1286,7 +1286,7 @@
       "name": "The Glass Slipper",
       "park": "Tokyo Disneyland",
       "zone": "Fantasyland",
-      "hours": "09:00 – 21:00",
+      "hours": "09:00 – 18:30",
       "notes": "Demonstration and sales of glasswork crafted by artisans.",
       "manual": true
     },
@@ -1302,7 +1302,7 @@
       "name": "Toontown Delivery Co.",
       "park": "Tokyo Disneyland",
       "zone": "Toontown",
-      "hours": "09:00 – 21:00",
+      "hours": "09:00 – 19:30",
       "notes": "Wagon with fun caps, hairbands, and light-up items.",
       "manual": true
     },
@@ -1366,7 +1366,7 @@
       "name": "Miramare",
       "park": "Tokyo DisneySea",
       "zone": "Mediterranean Harbor",
-      "hours": "09:00 – 21:00",
+      "hours": "09:00 – 20:15",
       "notes": "Wagon offering hairbands, seasonal items, and more.",
       "manual": true
     },
@@ -1446,7 +1446,7 @@
       "name": "Skywatcher Souvenirs",
       "park": "Tokyo DisneySea",
       "zone": "Port Discovery",
-      "hours": "09:00 – 21:00",
+      "hours": "09:30 – 19:00",
       "notes": "Wagon offering hairbands and light-up items.",
       "manual": true
     },
@@ -1462,7 +1462,7 @@
       "name": "Lookout Traders",
       "park": "Tokyo DisneySea",
       "zone": "Lost River Delta",
-      "hours": "09:00 – 21:00",
+      "hours": "09:00 – 19:30",
       "notes": "Wagon offering hairbands, light-up items, and more.",
       "manual": true
     },
