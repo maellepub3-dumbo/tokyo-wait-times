@@ -127,7 +127,7 @@
       "hours": "10:00 - 19:30",
       "type": "Restauration rapide",
       "clickCollect": false,
-      "menu": "Pizza",
+      "menu": "Pizza **Mochi Alien**",
       "manual": true
     },
     {
@@ -177,7 +177,7 @@
       "hours": "9:30 - 19:45",
       "type": "Restauration rapide",
       "clickCollect": true,
-      "menu": "Cuisine américaine",
+      "menu": "Cuisine américaine. **Soupe au pop corn froid, nuggets mickey, cooky duffy au caramel**",
       "manual": true
     },
     {
@@ -187,7 +187,7 @@
       "hours": "9:00 - 19:30",
       "type": "Restauration rapide",
       "clickCollect": true,
-      "menu": "Sandwichs / deli américain",
+      "menu": "Sandwichs / deli américain. **Mochi alien**",
       "manual": true
     },
     {
@@ -217,7 +217,7 @@
       "hours": "9:30 - 19:15",
       "type": "Snack",
       "clickCollect": false,
-      "menu": "Snacks",
+      "menu": "Snacks. **Bun mickey**",
       "manual": true
     },
     {
@@ -227,7 +227,7 @@
       "hours": "10:00 - 19:30",
       "type": "Restauration rapide",
       "clickCollect": true,
-      "menu": "Grill mexicain",
+      "menu": "Grill mexicain. **Mochi alien**",
       "manual": true
     },
     {
@@ -267,7 +267,7 @@
       "hours": "11:00 - 19:00",
       "type": "Restauration rapide",
       "clickCollect": true,
-      "menu": "Cuisine des Caraïbes",
+      "menu": "Cuisine des Caraïbes. **Macaron Mickey, Pizza étoile**",
       "manual": true
     },
     {
@@ -287,7 +287,7 @@
       "hours": "9:30 - 20:30",
       "type": "Service à table",
       "clickCollect": true,
-      "menu": "Cuisine européenne",
+      "menu": "Cuisine européenne. **Tarte dans une poele Raiponce, muffin au caramel**",
       "manual": true
     },
     {
@@ -417,7 +417,7 @@
       "hours": "9:00 - 21:00",
       "type": "Restauration rapide",
       "clickCollect": true,
-      "menu": "Pizza.",
+      "menu": "Pizza. **Churros Cookies & cream, mochi alien**",
       "manual": true
     },
     {
@@ -437,7 +437,7 @@
       "hours": "9:00 - 20:30",
       "type": "Restauration rapide",
       "clickCollect": true,
-      "menu": "Seasonal dishes.",
+      "menu": "Seasonal dishes. **Churros Cookie & Cream, cookie duffy au caramel**",
       "manual": true
     },
     {
@@ -447,7 +447,7 @@
       "hours": "9:00 - 19:00",
       "type": "Snack",
       "clickCollect": false,
-      "menu": "Menu items to enjoy on the go.",
+      "menu": "Menu items to enjoy on the go. **Churros Cookie & Cream. Glace Minnie, Ice Cream Sandwich Mickey**",
       "manual": true
     },
     {
@@ -457,7 +457,7 @@
       "hours": "9:45 - 18:45",
       "type": "Snack",
       "clickCollect": false,
-      "menu": "Churros.",
+      "menu": "**Churros crème brûlée. Sushi roll.**",
       "manual": true
     },
     {
@@ -467,7 +467,7 @@
       "hours": "10:00 - 20:00",
       "type": "Service à table",
       "clickCollect": false,
-      "menu": "Western cuisine.",
+      "menu": "Western cuisine. **Churros Cookie & Cream, riz avec tête d'Olaf**",
       "manual": true
     },
     {
@@ -477,7 +477,7 @@
       "hours": "9:30 - 20:00",
       "type": "Snack",
       "clickCollect": false,
-      "menu": "Snacks.",
+      "menu": "**Snacks Pays Imaginaire**",
       "manual": true
     },
     {
@@ -587,7 +587,7 @@
       "hours": "10:00 - 17:30",
       "type": "Snack",
       "clickCollect": false,
-      "menu": "Fruits frais, boissons.",
+      "menu": "Fruits frais, boissons. **Glaces aux fruits Mickey et Minnie**",
       "manual": true
     },
     {
@@ -667,7 +667,7 @@
       "hours": "9:30 - 16:30",
       "type": "Restauration rapide",
       "clickCollect": false,
-      "menu": "Seasonal dishes.",
+      "menu": "Seasonal dishes. **Glaces Minnie**",
       "manual": true
     },
     {
@@ -747,7 +747,7 @@
       "hours": "9:15 - 20:00",
       "type": "Snack",
       "clickCollect": false,
-      "menu": "Hot dogs.",
+      "menu": "**Hot dogs**.",
       "manual": true
     },
     {
@@ -817,7 +817,7 @@
       "hours": "9:45 - 18:15",
       "type": "Snack",
       "clickCollect": false,
-      "menu": "Menu items to enjoy on the go.",
+      "menu": "Menu items to enjoy on the go. **Glaces Mickey and Donald**",
       "manual": true
     },
     {
@@ -877,7 +877,7 @@
       "hours": "9:15 - 20:30",
       "type": "Snack",
       "clickCollect": true,
-      "menu": "Menu items to enjoy on the go.",
+      "menu": "Menu items to enjoy on the go. **Glaces Mickey et coquillage**",
       "manual": true
     }
   ],
